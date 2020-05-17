@@ -5,3 +5,9 @@ mods
 logs
 downloads
 .mixin.out
+knownkeys.txt
+minecraftinstance.json
+options.txt
+realms_persistence.json
+usercache.json
+usernamecache.json
