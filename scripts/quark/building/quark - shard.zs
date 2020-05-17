@@ -1,0 +1,20 @@
+import mods.jei.JEI; 
+ 
+JEI.hideItem(<item:quark:black_shard>);
+ JEI.hideItem(<item:quark:blue_shard>);
+ JEI.hideItem(<item:quark:brown_shard>);
+ JEI.hideItem(<item:quark:clear_shard>);
+ JEI.hideItem(<item:quark:cyan_shard>);
+ JEI.hideItem(<item:quark:dirty_shard>);
+ JEI.hideItem(<item:quark:gray_shard>);
+ JEI.hideItem(<item:quark:green_shard>);
+ JEI.hideItem(<item:quark:light_blue_shard>);
+ JEI.hideItem(<item:quark:light_gray_shard>);
+ JEI.hideItem(<item:quark:lime_shard>);
+ JEI.hideItem(<item:quark:magenta_shard>);
+ JEI.hideItem(<item:quark:orange_shard>);
+ JEI.hideItem(<item:quark:pink_shard>);
+ JEI.hideItem(<item:quark:purple_shard>);
+ JEI.hideItem(<item:quark:red_shard>);
+ JEI.hideItem(<item:quark:white_shard>);
+ JEI.hideItem(<item:quark:yellow_shard>);
