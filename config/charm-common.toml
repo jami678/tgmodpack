@@ -5,9 +5,9 @@
 	"BlockOfRottenFlesh enabled" = true
 	#A storage block for ender pearls. Eating a chorus fruit will teleport you to a nearby ender pearl block.
 	#If a silverfish burrows into an ender pearl block, it will become an endermite.
-	"BlockOfEnderPearls enabled" = true
+	"BlockOfEnderPearls enabled" = false
 	#Smelt glowstone in a furnace to get smooth glowstone.
-	"SmoothGlowstone enabled" = true
+	"SmoothGlowstone enabled" = false
 
 	[Building.BlockOfEnderPearls]
 		#If true, eating a Chorus Fruit while in range of an Ender Pearl Block will teleport you to it.
@@ -30,16 +30,16 @@
 [Enchanting]
 	#A tool with the Homing enchantment is attracted to ore/wood/stone of the same type that make up the head of the tool.
 	#Right click underground and if you hear a sound, you can follow it to the source.
-	"Homing enabled" = true
+	"Homing enabled" = false
 	#An item with the Salvage enchantment drops its enchantments to a book before being destroyed.
 	#
-	"Salvage enabled" = true
+	"Salvage enabled" = false
 	#Combine the Curse Break enchanted book with a cursed item on an anvil to remove the item's curse.
-	"CurseBreak enabled" = true
+	"CurseBreak enabled" = false
 	#Tools with the Magnetic enchantment automatically pick up drops.
-	"Magnetic enabled" = true
+	"Magnetic enabled" = false
 	#An item with the Leeching curse restores your hunger at the expense of durability.
-	"Leeching enabled" = true
+	"Leeching enabled" = false
 
 	[Enchanting.Homing]
 		#Range (in blocks) that the enchanted tool will detect ore/wood/stone.
@@ -65,11 +65,11 @@
 	#These additional discs will be dropped when a zombie is killed by a skeleton.
 	"ExtraMusicDiscs enabled" = true
 	#As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
-	"UseTotemFromInventory enabled" = true
+	"UseTotemFromInventory enabled" = false
 	#Enabled anvil actions to be performed without an XP cost.This only applies to Charm actions and affects no vanilla functionality.
-	"NoAnvilMinimumXp enabled" = true
+	"NoAnvilMinimumXp enabled" = false
 	#Sneak right-clicking a villager with a block of emerald opens all the villager's closed trades and regenerates some health.
-	"EmeraldBlockOpensTrades enabled" = true
+	"EmeraldBlockOpensTrades enabled" = false
 	#Leather armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 	"LeatherArmorInvisibility enabled" = true
 	#Cauldrons can be used as a permanent water source when sneaking.
@@ -77,11 +77,11 @@
 	#Landing on sponge absorbs some of the player's fall damage.
 	"SpongesReduceFallDamage enabled" = true
 	#Potions can stack (up to 16).
-	"StackablePotions enabled" = true
+	"StackablePotions enabled" = false
 	#Unlocks all vanilla recipes. This will be disabled if Quark is present, because Quark's module is better.
-	"AutomaticRecipeUnlock enabled" = true
+	"AutomaticRecipeUnlock enabled" = false
 	#When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
-	"RemoveNitwits enabled" = true
+	"RemoveNitwits enabled" = false
 	#Chickens randomly drop feathers.
 	"ChickensDropFeathers enabled" = true
 	#A witch has a chance to drop a Potion of Luck when killed by a player.
@@ -89,10 +89,10 @@
 	#Removes the potion enchantment glint so you can see what the potion color is.
 	"RemovePotionGlint enabled" = true
 	#Expands vanilla ambient music and prevents the background music when playing a music disc in a jukebox.
-	"AmbientMusicImprovements enabled" = true
+	"AmbientMusicImprovements enabled" = false
 	#Tamed animals no longer take direct damage from players.
 	#They still suffer secondary effects, such as burning.
-	"TamedAnimalsNoDamage enabled" = true
+	"TamedAnimalsNoDamage enabled" = false
 	#Pickaxes become the optimal harvest tool for breaking pistons.
 	"PickaxesBreakPistons enabled" = true
 	#Husks spawn anywhere within their biome and drop sand, making them easier to farm.
@@ -156,7 +156,7 @@
 	#Pig iron nuggets can be combined on an anvil with any tool or armor to give a small durability boost with no repair cost increase.
 	"PigIronIncreasesDurability enabled" = true
 	#Combine an item with its golden version on an anvil to reduce the original item's repair cost.
-	"DecreaseRepairCost enabled" = true
+	"DecreaseRepairCost enabled" = false
 	#Extract enchantments from any enchanted item into an empty book.
 	#The enchantments are weakened in the process and the original item is destroyed.
 	"ExtractEnchantments enabled" = true
@@ -221,7 +221,7 @@
 	#Right-click a Long Potion on a cake to make a Flavored Cake that gives the potion effect after eating each slice.You can also make a Flavored Cake using a dispenser.
 	"FlavoredCake enabled" = true
 	#Brew cocoa beans in water to make Coffee which gives you strength, haste and speed.
-	"Coffee enabled" = true
+	"Coffee enabled" = false
 	#A potion that gives Wither to living things.
 	"Decay enabled" = true
 
@@ -323,7 +323,7 @@
 [Decoration]
 	#A smaller storage solution with the benefit of being transportable.
 	#You can also seal a crate by combining it with an iron ingot on an anvil.  The only way to get things out is to break it.
-	"Crates enabled" = true
+	"Crates enabled" = false
 	#Wolves will spawn with texture variants.
 	"RandomAnimalTextures enabled" = true
 	#Gold version of the vanilla lantern.
@@ -332,7 +332,7 @@
 	#Provides the same enchanting power as a normal bookshelf as long as there is at least 1 book on the shelf.
 	"BookshelfChests enabled" = true
 	#Barrels are available in all types of vanilla wood.
-	"AllTheBarrels enabled" = true
+	"AllTheBarrels enabled" = false
 
 	[Decoration.BookshelfChests]
 		#List of item IDs that may be placed in a bookshelf chest.
