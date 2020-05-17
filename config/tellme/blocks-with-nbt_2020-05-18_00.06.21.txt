@@ -1,6 +1,11 @@
 -----------------------------------------------------------------
 Mod name, Registry name, Item ID, Display name, Exists, Tags, NBT
 -----------------------------------------------------------------
+Aquaculture 2, aquaculture:farmland, aquaculture:farmland, Farmland, true, , 
+Aquaculture 2, aquaculture:neptunes_bounty, aquaculture:neptunes_bounty, Neptune's Bounty, true, forge:chests, 
+Aquaculture 2, aquaculture:neptunium_block, aquaculture:neptunium_block, Neptunium Block, true, forge:storage_blocks, forge:storage_blocks/neptunium, 
+Aquaculture 2, aquaculture:tackle_box, aquaculture:tackle_box, Tackle Box, true, , 
+Aquaculture 2, aquaculture:worm_farm, aquaculture:worm_farm, Worm Farm, true, , 
 Bountiful, bountiful:bountyboard, bountiful:bountyboard, Bounty Board, true, , 
 Charm, charm:barrel_acacia, charm:barrel_acacia, Acacia Barrel, true, forge:barrels, 
 Charm, charm:barrel_birch, charm:barrel_birch, Birch Barrel, true, forge:barrels, 
@@ -74,7 +79,7 @@ Minecraft, minecraft:attached_pumpkin_stem, , Attached Pumpkin Stem, true, ,
 Minecraft, minecraft:azure_bluet, minecraft:azure_bluet, Azure Bluet, true, minecraft:enderman_holdable, minecraft:flowers, minecraft:small_flowers, 
 Minecraft, minecraft:bamboo, minecraft:bamboo, Bamboo, true, minecraft:bamboo_plantable_on, 
 Minecraft, minecraft:bamboo_sapling, , Bamboo Sapling, true, minecraft:bamboo_plantable_on, 
-Minecraft, minecraft:barrel, minecraft:barrel, Oak Barrel, true, , 
+Minecraft, minecraft:barrel, minecraft:barrel, Barrel, true, , 
 Minecraft, minecraft:barrier, minecraft:barrier, Barrier, true, minecraft:dragon_immune, minecraft:wither_immune, 
 Minecraft, minecraft:beacon, minecraft:beacon, Beacon, true, , 
 Minecraft, minecraft:bedrock, minecraft:bedrock, Bedrock, true, minecraft:dragon_immune, minecraft:wither_immune, 

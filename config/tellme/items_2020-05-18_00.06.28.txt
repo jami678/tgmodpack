@@ -5,6 +5,132 @@ It's provided here for completeness's sake, it's different in every world.
 ----------------------------------------------------
 Mod name, Registry name, Item ID, Display name, Tags
 ----------------------------------------------------
+Aquaculture 2, aquaculture:acacia_fish_mount, 1719, Acacia Fish Mount, 
+Aquaculture 2, aquaculture:algae, 1793, Algae, aquaculture:tackle_box_green
+Aquaculture 2, aquaculture:arapaima, 1677, Arapaima, minecraft:fishes
+Aquaculture 2, aquaculture:arapaima_bucket, 1773, Bucket of Arapaima, 
+Aquaculture 2, aquaculture:arrau_turtle, 1750, Arrau Turtle, aquaculture:turtle
+Aquaculture 2, aquaculture:arrau_turtle_spawn_egg, 1767, Arrau Turtle Spawn Egg, 
+Aquaculture 2, aquaculture:atlantic_cod, 1717, Atlantic Cod, minecraft:fishes
+Aquaculture 2, aquaculture:atlantic_cod_bucket, 1698, Bucket of Atlantic Cod, 
+Aquaculture 2, aquaculture:atlantic_halibut, 1701, Atlantic Halibut, minecraft:fishes
+Aquaculture 2, aquaculture:atlantic_halibut_bucket, 1794, Bucket of Atlantic Halibut, 
+Aquaculture 2, aquaculture:atlantic_herring, 1776, Atlantic Herring, minecraft:fishes
+Aquaculture 2, aquaculture:atlantic_herring_bucket, 1723, Bucket of Atlantic Herring, 
+Aquaculture 2, aquaculture:bayad, 1680, Bayad, minecraft:fishes
+Aquaculture 2, aquaculture:bayad_bucket, 1798, Bucket of Bayad, 
+Aquaculture 2, aquaculture:birch_fish_mount, 1766, Birch Fish Mount, 
+Aquaculture 2, aquaculture:blackfish, 1772, Blackfish, minecraft:fishes
+Aquaculture 2, aquaculture:blackfish_bucket, 1695, Bucket of Blackfish, 
+Aquaculture 2, aquaculture:bluegill, 1758, Bluegill, minecraft:fishes
+Aquaculture 2, aquaculture:bluegill_bucket, 1786, Bucket of Bluegill, 
+Aquaculture 2, aquaculture:bobber, 1792, Bobber, aquaculture:bobber
+Aquaculture 2, aquaculture:boulti, 1724, Boulti, minecraft:fishes
+Aquaculture 2, aquaculture:boulti_bucket, 1782, Bucket of Boulti, 
+Aquaculture 2, aquaculture:box, 1728, Box, 
+Aquaculture 2, aquaculture:box_turtle, 1762, Box Turtle, aquaculture:turtle
+Aquaculture 2, aquaculture:box_turtle_spawn_egg, 1687, Box Turtle Spawn Egg, 
+Aquaculture 2, aquaculture:brown_shrooma, 1764, Brown Shrooma, minecraft:fishes
+Aquaculture 2, aquaculture:brown_shrooma_bucket, 1801, Bucket of Brown Shrooma, 
+Aquaculture 2, aquaculture:brown_trout, 1769, Brown Trout, minecraft:fishes
+Aquaculture 2, aquaculture:brown_trout_bucket, 1708, Bucket of Brown Trout, 
+Aquaculture 2, aquaculture:capitaine, 1748, Capitaine, minecraft:fishes
+Aquaculture 2, aquaculture:capitaine_bucket, 1730, Bucket of Capitaine, 
+Aquaculture 2, aquaculture:carp, 1777, Carp, minecraft:fishes
+Aquaculture 2, aquaculture:carp_bucket, 1770, Bucket of Carp, 
+Aquaculture 2, aquaculture:catfish, 1791, Catfish, minecraft:fishes
+Aquaculture 2, aquaculture:catfish_bucket, 1732, Bucket of Catfish, 
+Aquaculture 2, aquaculture:dark_oak_fish_mount, 1714, Dark Oak Fish Mount, 
+Aquaculture 2, aquaculture:diamond_fillet_knife, 1702, Diamond Fillet Knife, forge:fillet_knife
+Aquaculture 2, aquaculture:diamond_fishing_rod, 1694, Diamond Fishing Rod, 
+Aquaculture 2, aquaculture:diamond_hook, 1697, Diamond Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:double_hook, 1690, Double Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:driftwood, 1759, Driftwood, 
+Aquaculture 2, aquaculture:farmland, 1703, Farmland, 
+Aquaculture 2, aquaculture:fish_bones, 1797, Fish Bones, 
+Aquaculture 2, aquaculture:fish_fillet_cooked, 1737, Cooked Fish Fillet, 
+Aquaculture 2, aquaculture:fish_fillet_raw, 1726, Raw Fish Fillet, 
+Aquaculture 2, aquaculture:fishing_line, 1749, Fishing Line, aquaculture:fishing_line
+Aquaculture 2, aquaculture:frog, 1705, Frog, 
+Aquaculture 2, aquaculture:frog_legs_cooked, 1754, Cooked Frog Legs, 
+Aquaculture 2, aquaculture:frog_legs_raw, 1729, Frog Legs, 
+Aquaculture 2, aquaculture:gar, 1709, Gar, minecraft:fishes
+Aquaculture 2, aquaculture:gar_bucket, 1711, Bucket of Gar, 
+Aquaculture 2, aquaculture:gold_fillet_knife, 1780, Gold Fillet Knife, forge:fillet_knife
+Aquaculture 2, aquaculture:gold_fishing_rod, 1787, Golden Fishing Rod, 
+Aquaculture 2, aquaculture:gold_hook, 1686, Gold Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:goldfish, 1784, Goldfish, 
+Aquaculture 2, aquaculture:heavy_hook, 1699, Heavy Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:iron_fillet_knife, 1679, Iron Fillet Knife, forge:fillet_knife
+Aquaculture 2, aquaculture:iron_fishing_rod, 1696, Iron Fishing Rod, 
+Aquaculture 2, aquaculture:iron_hook, 1693, Iron Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:jellyfish, 1718, Jellyfish, 
+Aquaculture 2, aquaculture:jellyfish_bucket, 1751, Bucket of Jellyfish, 
+Aquaculture 2, aquaculture:jungle_fish_mount, 1682, Jungle Fish Mount, 
+Aquaculture 2, aquaculture:leech, 1685, Leech, 
+Aquaculture 2, aquaculture:light_hook, 1688, Light Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:lockbox, 1763, Lockbox, 
+Aquaculture 2, aquaculture:message_in_a_bottle, 1684, Message In A Bottle, 
+Aquaculture 2, aquaculture:minnow, 1800, Minnow, minecraft:fishes
+Aquaculture 2, aquaculture:minnow_bucket, 1712, Bucket of Minnow, 
+Aquaculture 2, aquaculture:muskellunge, 1683, Muskellunge, minecraft:fishes
+Aquaculture 2, aquaculture:muskellunge_bucket, 1753, Bucket of Muskellunge, 
+Aquaculture 2, aquaculture:neptunes_bounty, 1681, Neptune's Bounty, forge:chests
+Aquaculture 2, aquaculture:neptunium_axe, 1799, Neptunium Axe, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_block, 1706, Neptunium Block, forge:storage_blocks, forge:storage_blocks/neptunium
+Aquaculture 2, aquaculture:neptunium_boots, 1721, Neptunium Boots, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_bow, 1689, Neptunium Bow, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_chestplate, 1676, Neptunium Chestplate, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_fillet_knife, 1752, Neptunium Fillet Knife, aquaculture:tooltip, forge:fillet_knife
+Aquaculture 2, aquaculture:neptunium_fishing_rod, 1743, Neptunium Fishing Rod, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_helmet, 1765, Neptunium Helmet, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_hoe, 1779, Neptunium Hoe, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_ingot, 1733, Neptunium Ingot, forge:ingots, forge:ingots/neptunium
+Aquaculture 2, aquaculture:neptunium_leggings, 1774, Neptunium Leggings, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_nugget, 1761, Neptunium Nugget, forge:nuggets, forge:nuggets/neptunium
+Aquaculture 2, aquaculture:neptunium_pickaxe, 1740, Neptunium Pickaxe, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_shovel, 1727, Neptunium Shovel, aquaculture:tooltip
+Aquaculture 2, aquaculture:neptunium_sword, 1691, Neptunium Sword, aquaculture:tooltip
+Aquaculture 2, aquaculture:nether_star_hook, 1741, Nether Star Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:note_hook, 1692, Note Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:oak_fish_mount, 1704, Oak Fish Mount, 
+Aquaculture 2, aquaculture:pacific_halibut, 1713, Pacific Halibut, minecraft:fishes
+Aquaculture 2, aquaculture:pacific_halibut_bucket, 1785, Bucket of Pacific Halibut, 
+Aquaculture 2, aquaculture:perch, 1715, Perch, minecraft:fishes
+Aquaculture 2, aquaculture:perch_bucket, 1739, Bucket of Perch, 
+Aquaculture 2, aquaculture:pink_salmon, 1795, Pink Salmon, minecraft:fishes
+Aquaculture 2, aquaculture:pink_salmon_bucket, 1725, Bucket of Pink Salmon, 
+Aquaculture 2, aquaculture:piranha, 1738, Piranha, minecraft:fishes
+Aquaculture 2, aquaculture:piranha_bucket, 1742, Bucket of Piranha, 
+Aquaculture 2, aquaculture:pollock, 1796, Pollock, minecraft:fishes
+Aquaculture 2, aquaculture:pollock_bucket, 1700, Bucket of Pollock, 
+Aquaculture 2, aquaculture:rainbow_trout, 1745, Rainbow Trout, minecraft:fishes
+Aquaculture 2, aquaculture:rainbow_trout_bucket, 1707, Bucket of Rainbow Trout, 
+Aquaculture 2, aquaculture:red_grouper, 1678, Red Grouper, minecraft:fishes
+Aquaculture 2, aquaculture:red_grouper_bucket, 1731, Bucket of Red Grouper, 
+Aquaculture 2, aquaculture:red_shrooma, 1771, Red Shrooma, minecraft:fishes
+Aquaculture 2, aquaculture:red_shrooma_bucket, 1736, Bucket of Red Shrooma, 
+Aquaculture 2, aquaculture:redstone_hook, 1781, Redstone Hook, aquaculture:tooltip
+Aquaculture 2, aquaculture:smallmouth_bass, 1734, Smallmouth Bass, minecraft:fishes
+Aquaculture 2, aquaculture:smallmouth_bass_bucket, 1744, Bucket of Smallmouth Bass, 
+Aquaculture 2, aquaculture:spruce_fish_mount, 1775, Spruce Fish Mount, 
+Aquaculture 2, aquaculture:starshell_turtle, 1747, Starshell Turtle, aquaculture:turtle
+Aquaculture 2, aquaculture:starshell_turtle_spawn_egg, 1760, Starshell Turtle Spawn Egg, 
+Aquaculture 2, aquaculture:stone_fillet_knife, 1789, Stone Fillet Knife, forge:fillet_knife
+Aquaculture 2, aquaculture:sushi, 1755, Sushi, 
+Aquaculture 2, aquaculture:synodontis, 1720, Synodontis, minecraft:fishes
+Aquaculture 2, aquaculture:synodontis_bucket, 1716, Bucket of Synodontis, 
+Aquaculture 2, aquaculture:tackle_box, 1783, Tackle Box, 
+Aquaculture 2, aquaculture:tambaqui, 1756, Tambaqui, minecraft:fishes
+Aquaculture 2, aquaculture:tambaqui_bucket, 1757, Bucket of Tambaqui, 
+Aquaculture 2, aquaculture:tin_can, 1710, Tin Can, 
+Aquaculture 2, aquaculture:treasure_chest, 1746, Treasure Chest, 
+Aquaculture 2, aquaculture:tuna, 1790, Tuna, minecraft:fishes
+Aquaculture 2, aquaculture:tuna_bucket, 1722, Bucket of Tuna, 
+Aquaculture 2, aquaculture:turtle_soup, 1735, Turtle Soup, 
+Aquaculture 2, aquaculture:wooden_fillet_knife, 1768, Wooden Fillet Knife, forge:fillet_knife
+Aquaculture 2, aquaculture:worm, 1778, Worm, 
+Aquaculture 2, aquaculture:worm_farm, 1788, Worm Farm, 
 Bountiful, bountiful:bounty, 908, Bounty, 
 Bountiful, bountiful:bountyboard, 909, Bounty Board, 
 Bountiful, bountiful:decree, 910, Decree, 
@@ -104,7 +230,7 @@ Minecraft, minecraft:acacia_trapdoor, 197, Acacia Trapdoor, minecraft:trapdoors,
 Minecraft, minecraft:acacia_wood, 54, Acacia Wood, minecraft:acacia_logs, minecraft:logs
 Minecraft, minecraft:activator_rail, 279, Activator Rail, minecraft:rails
 Minecraft, minecraft:air, 0, , 
-Minecraft, minecraft:allium, 101, Allium, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:allium, 101, Allium, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:andesite, 6, Andesite, forge:stone, quark:stone_tool_materials
 Minecraft, minecraft:andesite_slab, 501, Andesite Slab, minecraft:slabs
 Minecraft, minecraft:andesite_stairs, 488, Andesite Stairs, minecraft:stairs
@@ -113,10 +239,10 @@ Minecraft, minecraft:anvil, 265, Anvil, minecraft:anvil
 Minecraft, minecraft:apple, 524, Apple, 
 Minecraft, minecraft:armor_stand, 792, Armor Stand, 
 Minecraft, minecraft:arrow, 526, Arrow, forge:arrows, minecraft:arrows
-Minecraft, minecraft:azure_bluet, 102, Azure Bluet, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:azure_bluet, 102, Azure Bluet, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:baked_potato, 765, Baked Potato, 
 Minecraft, minecraft:bamboo, 614, Bamboo, 
-Minecraft, minecraft:barrel, 865, Oak Barrel, 
+Minecraft, minecraft:barrel, 865, Barrel, 
 Minecraft, minecraft:barrier, 297, Barrier, 
 Minecraft, minecraft:bat_spawn_egg, 697, Bat Spawn Egg, 
 Minecraft, minecraft:beacon, 244, Beacon, 
@@ -168,7 +294,7 @@ Minecraft, minecraft:blue_concrete_powder, 440, Blue Concrete Powder,
 Minecraft, minecraft:blue_dye, 647, Blue Dye, forge:dyes, forge:dyes/blue
 Minecraft, minecraft:blue_glazed_terracotta, 408, Blue Glazed Terracotta, 
 Minecraft, minecraft:blue_ice, 476, Blue Ice, 
-Minecraft, minecraft:blue_orchid, 100, Blue Orchid, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:blue_orchid, 100, Blue Orchid, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:blue_shulker_box, 392, Blue Shulker Box, 
 Minecraft, minecraft:blue_stained_glass, 340, Blue Stained Glass, forge:glass, forge:glass/blue, forge:stained_glass
 Minecraft, minecraft:blue_stained_glass_pane, 356, Blue Stained Glass Pane, forge:glass_panes, forge:glass_panes/blue, forge:stained_glass_panes
@@ -267,7 +393,7 @@ Minecraft, minecraft:cooked_porkchop, 585, Cooked Porkchop,
 Minecraft, minecraft:cooked_rabbit, 788, Cooked Rabbit, 
 Minecraft, minecraft:cooked_salmon, 630, Cooked Salmon, minecraft:fishes
 Minecraft, minecraft:cookie, 670, Cookie, 
-Minecraft, minecraft:cornflower, 108, Cornflower, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:cornflower, 108, Cornflower, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:cow_spawn_egg, 704, Cow Spawn Egg, 
 Minecraft, minecraft:cracked_stone_bricks, 207, Cracked Stone Bricks, minecraft:stone_bricks
 Minecraft, minecraft:crafting_table, 158, Crafting Table, 
@@ -292,7 +418,7 @@ Minecraft, minecraft:cyan_stained_glass_pane, 354, Cyan Stained Glass Pane, forg
 Minecraft, minecraft:cyan_terracotta, 290, Cyan Terracotta, 
 Minecraft, minecraft:cyan_wool, 91, Cyan Wool, minecraft:wool
 Minecraft, minecraft:damaged_anvil, 267, Damaged Anvil, minecraft:anvil
-Minecraft, minecraft:dandelion, 98, Dandelion, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:dandelion, 98, Dandelion, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:dark_oak_boat, 835, Dark Oak Boat, minecraft:boats
 Minecraft, minecraft:dark_oak_button, 264, Dark Oak Button, minecraft:buttons, minecraft:wooden_buttons
 Minecraft, minecraft:dark_oak_door, 512, Dark Oak Door, minecraft:doors, minecraft:wooden_doors
@@ -452,7 +578,7 @@ Minecraft, minecraft:green_bed, 667, Green Bed, minecraft:beds
 Minecraft, minecraft:green_carpet, 313, Green Carpet, minecraft:carpets
 Minecraft, minecraft:green_concrete, 426, Green Concrete, 
 Minecraft, minecraft:green_concrete_powder, 442, Green Concrete Powder, 
-Minecraft, minecraft:green_dye, 633, Green Dye, forge:dyes, forge:dyes/green
+Minecraft, minecraft:green_dye, 633, Green Dye, aquaculture:tackle_box_green, forge:dyes, forge:dyes/green
 Minecraft, minecraft:green_glazed_terracotta, 410, Green Glazed Terracotta, 
 Minecraft, minecraft:green_shulker_box, 394, Green Shulker Box, 
 Minecraft, minecraft:green_stained_glass, 342, Green Stained Glass, forge:glass, forge:glass/green, forge:stained_glass
@@ -520,7 +646,7 @@ Minecraft, minecraft:jungle_slab, 118, Jungle Slab, minecraft:slabs, minecraft:w
 Minecraft, minecraft:jungle_stairs, 242, Jungle Stairs, minecraft:stairs, minecraft:wooden_stairs
 Minecraft, minecraft:jungle_trapdoor, 196, Jungle Trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
 Minecraft, minecraft:jungle_wood, 53, Jungle Wood, minecraft:jungle_logs, minecraft:logs
-Minecraft, minecraft:kelp, 612, Kelp, 
+Minecraft, minecraft:kelp, 612, Kelp, aquaculture:tackle_box_green
 Minecraft, minecraft:knowledge_book, 839, Knowledge Book, 
 Minecraft, minecraft:ladder, 161, Ladder, quark:ladders
 Minecraft, minecraft:lantern, 875, Lantern, 
@@ -564,7 +690,7 @@ Minecraft, minecraft:light_gray_terracotta, 289, Light Gray Terracotta,
 Minecraft, minecraft:light_gray_wool, 90, Light Gray Wool, minecraft:wool
 Minecraft, minecraft:light_weighted_pressure_plate, 269, Light Weighted Pressure Plate, 
 Minecraft, minecraft:lilac, 324, Lilac, minecraft:flowers, minecraft:tall_flowers
-Minecraft, minecraft:lily_of_the_valley, 109, Lily of the Valley, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:lily_of_the_valley, 109, Lily of the Valley, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:lily_pad, 225, Lily Pad, 
 Minecraft, minecraft:lime_banner, 807, Lime Banner, minecraft:banners
 Minecraft, minecraft:lime_bed, 659, Lime Bed, minecraft:beds
@@ -672,9 +798,9 @@ Minecraft, minecraft:orange_shulker_box, 382, Orange Shulker Box,
 Minecraft, minecraft:orange_stained_glass, 330, Orange Stained Glass, forge:glass, forge:glass/orange, forge:stained_glass
 Minecraft, minecraft:orange_stained_glass_pane, 346, Orange Stained Glass Pane, forge:glass_panes, forge:glass_panes/orange, forge:stained_glass_panes
 Minecraft, minecraft:orange_terracotta, 282, Orange Terracotta, 
-Minecraft, minecraft:orange_tulip, 104, Orange Tulip, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:orange_tulip, 104, Orange Tulip, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:orange_wool, 83, Orange Wool, minecraft:wool
-Minecraft, minecraft:oxeye_daisy, 107, Oxeye Daisy, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:oxeye_daisy, 107, Oxeye Daisy, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:packed_ice, 318, Packed Ice, 
 Minecraft, minecraft:painting, 586, Painting, 
 Minecraft, minecraft:panda_spawn_egg, 723, Panda Spawn Egg, 
@@ -697,7 +823,7 @@ Minecraft, minecraft:pink_shulker_box, 387, Pink Shulker Box,
 Minecraft, minecraft:pink_stained_glass, 335, Pink Stained Glass, forge:glass, forge:glass/pink, forge:stained_glass
 Minecraft, minecraft:pink_stained_glass_pane, 351, Pink Stained Glass Pane, forge:glass_panes, forge:glass_panes/pink, forge:stained_glass_panes
 Minecraft, minecraft:pink_terracotta, 287, Pink Terracotta, 
-Minecraft, minecraft:pink_tulip, 106, Pink Tulip, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:pink_tulip, 106, Pink Tulip, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:pink_wool, 88, Pink Wool, minecraft:wool
 Minecraft, minecraft:piston, 81, Piston, 
 Minecraft, minecraft:player_head, 771, Player Head, forge:heads
@@ -714,7 +840,7 @@ Minecraft, minecraft:polished_granite, 3, Polished Granite, forge:stone, quark:s
 Minecraft, minecraft:polished_granite_slab, 492, Polished Granite Slab, minecraft:slabs
 Minecraft, minecraft:polished_granite_stairs, 478, Polished Granite Stairs, minecraft:stairs
 Minecraft, minecraft:popped_chorus_fruit, 820, Popped Chorus Fruit, 
-Minecraft, minecraft:poppy, 99, Poppy, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:poppy, 99, Poppy, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:porkchop, 584, Raw Porkchop, 
 Minecraft, minecraft:potato, 764, Potato, forge:crops, forge:crops/potato
 Minecraft, minecraft:potion, 687, Uncraftable Potion, 
@@ -784,7 +910,7 @@ Minecraft, minecraft:red_shulker_box, 395, Red Shulker Box,
 Minecraft, minecraft:red_stained_glass, 343, Red Stained Glass, forge:glass, forge:glass/red, forge:stained_glass
 Minecraft, minecraft:red_stained_glass_pane, 359, Red Stained Glass Pane, forge:glass_panes, forge:glass_panes/red, forge:stained_glass_panes
 Minecraft, minecraft:red_terracotta, 295, Red Terracotta, 
-Minecraft, minecraft:red_tulip, 103, Red Tulip, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:red_tulip, 103, Red Tulip, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:red_wool, 96, Red Wool, minecraft:wool
 Minecraft, minecraft:redstone, 600, Redstone Dust, forge:dusts, forge:dusts/redstone
 Minecraft, minecraft:redstone_block, 272, Block of Redstone, forge:storage_blocks, forge:storage_blocks/redstone
@@ -880,7 +1006,7 @@ Minecraft, minecraft:stone_stairs, 484, Stone Stairs, minecraft:stairs
 Minecraft, minecraft:stone_sword, 537, Stone Sword, 
 Minecraft, minecraft:stonecutter, 873, Stonecutter, 
 Minecraft, minecraft:stray_spawn_egg, 741, Stray Spawn Egg, 
-Minecraft, minecraft:string, 552, String, forge:string
+Minecraft, minecraft:string, 552, String, aquaculture:tackle_box, forge:string
 Minecraft, minecraft:stripped_acacia_log, 42, Stripped Acacia Log, minecraft:acacia_logs, minecraft:logs
 Minecraft, minecraft:stripped_acacia_wood, 48, Stripped Acacia Wood, minecraft:acacia_logs, minecraft:logs
 Minecraft, minecraft:stripped_birch_log, 40, Stripped Birch Log, minecraft:birch_logs, minecraft:logs
@@ -923,7 +1049,7 @@ Minecraft, minecraft:turtle_spawn_egg, 744, Turtle Spawn Egg,
 Minecraft, minecraft:vex_spawn_egg, 745, Vex Spawn Egg, 
 Minecraft, minecraft:villager_spawn_egg, 746, Villager Spawn Egg, 
 Minecraft, minecraft:vindicator_spawn_egg, 747, Vindicator Spawn Egg, 
-Minecraft, minecraft:vine, 215, Vines, 
+Minecraft, minecraft:vine, 215, Vines, aquaculture:turtle_edible
 Minecraft, minecraft:wandering_trader_spawn_egg, 748, Wandering Trader Spawn Egg, 
 Minecraft, minecraft:water_bucket, 596, Water Bucket, 
 Minecraft, minecraft:wet_sponge, 63, Wet Sponge, 
@@ -940,10 +1066,10 @@ Minecraft, minecraft:white_shulker_box, 381, White Shulker Box,
 Minecraft, minecraft:white_stained_glass, 329, White Stained Glass, forge:glass, forge:glass/white, forge:stained_glass
 Minecraft, minecraft:white_stained_glass_pane, 345, White Stained Glass Pane, forge:glass_panes, forge:glass_panes/white, forge:stained_glass_panes
 Minecraft, minecraft:white_terracotta, 281, White Terracotta, 
-Minecraft, minecraft:white_tulip, 105, White Tulip, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:white_tulip, 105, White Tulip, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:white_wool, 82, White Wool, minecraft:wool
 Minecraft, minecraft:witch_spawn_egg, 749, Witch Spawn Egg, 
-Minecraft, minecraft:wither_rose, 110, Wither Rose, minecraft:flowers, minecraft:small_flowers
+Minecraft, minecraft:wither_rose, 110, Wither Rose, aquaculture:turtle_edible, minecraft:flowers, minecraft:small_flowers
 Minecraft, minecraft:wither_skeleton_skull, 770, Wither Skeleton Skull, forge:heads
 Minecraft, minecraft:wither_skeleton_spawn_egg, 750, Wither Skeleton Spawn Egg, 
 Minecraft, minecraft:wolf_spawn_egg, 751, Wolf Spawn Egg, 
@@ -971,692 +1097,692 @@ Minecraft, minecraft:zombie_horse_spawn_egg, 753, Zombie Horse Spawn Egg,
 Minecraft, minecraft:zombie_pigman_spawn_egg, 754, Zombie Pigman Spawn Egg, 
 Minecraft, minecraft:zombie_spawn_egg, 752, Zombie Spawn Egg, 
 Minecraft, minecraft:zombie_villager_spawn_egg, 755, Zombie Villager Spawn Egg, 
-Quark, quark:acacia_bookshelf, 921, Acacia Bookshelf, forge:bookshelves
-Quark, quark:acacia_chest, 1055, Acacia Chest, forge:chests, forge:chests/wooden
-Quark, quark:acacia_ladder, 1419, Acacia Ladder, quark:ladders
-Quark, quark:acacia_leaf_carpet, 977, Acacia Leaf Carpet, 
-Quark, quark:acacia_trapped_chest, 1073, Acacia Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:acacia_vertical_slab, 1475, Acacia Vertical Slab, 
-Quark, quark:ancient_tome, 1127, Ancient Tome, 
-Quark, quark:andesite_bricks, 1278, Andesite Bricks, 
-Quark, quark:andesite_bricks_slab, 1279, Andesite Brick Slab, minecraft:slabs
-Quark, quark:andesite_bricks_stairs, 1280, Andesite Brick Stairs, minecraft:stairs
-Quark, quark:andesite_bricks_vertical_slab, 1563, Andesite Brick Vertical Slab, 
-Quark, quark:andesite_bricks_wall, 1281, Andesite Brick Wall, minecraft:walls
-Quark, quark:andesite_pavement, 1283, Andesite Pavement, 
-Quark, quark:andesite_pillar, 1284, Andesite Pillar, 
+Quark, quark:acacia_bookshelf, 914, Acacia Bookshelf, forge:bookshelves
+Quark, quark:acacia_chest, 1045, Acacia Chest, forge:chests, forge:chests/wooden
+Quark, quark:acacia_ladder, 1112, Acacia Ladder, quark:ladders
+Quark, quark:acacia_leaf_carpet, 1259, Acacia Leaf Carpet, 
+Quark, quark:acacia_trapped_chest, 1063, Acacia Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:acacia_vertical_slab, 1470, Acacia Vertical Slab, 
+Quark, quark:ancient_tome, 918, Ancient Tome, 
+Quark, quark:andesite_bricks, 1161, Andesite Bricks, 
+Quark, quark:andesite_bricks_slab, 1162, Andesite Brick Slab, minecraft:slabs
+Quark, quark:andesite_bricks_stairs, 1163, Andesite Brick Stairs, minecraft:stairs
+Quark, quark:andesite_bricks_vertical_slab, 1547, Andesite Brick Vertical Slab, 
+Quark, quark:andesite_bricks_wall, 1164, Andesite Brick Wall, minecraft:walls
+Quark, quark:andesite_pavement, 1166, Andesite Pavement, 
+Quark, quark:andesite_pillar, 1167, Andesite Pillar, 
 Quark, quark:andesite_speleothem, 1591, Andesite Speleothem, 
-Quark, quark:andesite_vertical_slab, 1476, Andesite Vertical Slab, 
-Quark, quark:apple_crate, 936, Apple Crate, 
-Quark, quark:bamboo_block, 931, Bamboo Bundle, 
-Quark, quark:bamboo_chest, 1057, Bamboo Chest, forge:chests, forge:chests/wooden
-Quark, quark:bamboo_trapped_chest, 1075, Bamboo Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:basalt, 1381, Basalt, forge:stone, quark:stone_tool_materials
-Quark, quark:basalt_bricks, 1313, Basalt Bricks, 
-Quark, quark:basalt_bricks_slab, 1314, Basalt Brick Slab, minecraft:slabs
-Quark, quark:basalt_bricks_stairs, 1315, Basalt Brick Stairs, minecraft:stairs
-Quark, quark:basalt_bricks_vertical_slab, 1568, Basalt Brick Vertical Slab, 
-Quark, quark:basalt_bricks_wall, 1316, Basalt Brick Wall, minecraft:walls
-Quark, quark:basalt_pavement, 1318, Basalt Pavement, 
-Quark, quark:basalt_pillar, 1319, Basalt Pillar, 
-Quark, quark:basalt_slab, 1383, Basalt Slab, minecraft:slabs
+Quark, quark:andesite_vertical_slab, 1471, Andesite Vertical Slab, 
+Quark, quark:apple_crate, 1443, Apple Crate, 
+Quark, quark:bamboo_block, 1438, Bamboo Bundle, 
+Quark, quark:bamboo_chest, 1047, Bamboo Chest, forge:chests, forge:chests/wooden
+Quark, quark:bamboo_trapped_chest, 1065, Bamboo Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:basalt, 1417, Basalt, forge:stone, quark:stone_tool_materials
+Quark, quark:basalt_bricks, 1196, Basalt Bricks, 
+Quark, quark:basalt_bricks_slab, 1197, Basalt Brick Slab, minecraft:slabs
+Quark, quark:basalt_bricks_stairs, 1198, Basalt Brick Stairs, minecraft:stairs
+Quark, quark:basalt_bricks_vertical_slab, 1552, Basalt Brick Vertical Slab, 
+Quark, quark:basalt_bricks_wall, 1199, Basalt Brick Wall, minecraft:walls
+Quark, quark:basalt_pavement, 1201, Basalt Pavement, 
+Quark, quark:basalt_pillar, 1202, Basalt Pillar, 
+Quark, quark:basalt_slab, 1419, Basalt Slab, minecraft:slabs
 Quark, quark:basalt_speleothem, 1596, Basalt Speleothem, 
-Quark, quark:basalt_stairs, 1384, Basalt Stairs, minecraft:stairs
+Quark, quark:basalt_stairs, 1420, Basalt Stairs, minecraft:stairs
 Quark, quark:basalt_vertical_slab, 1580, Basalt Vertical Slab, 
-Quark, quark:basalt_wall, 1385, Basalt Wall, minecraft:walls
-Quark, quark:beetroot_crate, 939, Beetroot Crate, 
-Quark, quark:berry_sack, 943, Sweet Berry Sack, 
-Quark, quark:biotite, 1423, Ender Biotite, forge:gems/biotite
-Quark, quark:biotite_block, 1425, Block of Biotite, 
-Quark, quark:biotite_block_slab, 1426, Biotite Slab, minecraft:slabs
-Quark, quark:biotite_block_stairs, 1427, Biotite Stairs, minecraft:stairs
-Quark, quark:biotite_block_vertical_slab, 1584, Biotite Vertical Slab, 
-Quark, quark:biotite_ore, 1424, Biotite Ore, forge:ores, forge:ores/biotite
-Quark, quark:biotite_pillar, 1432, Biotite Pillar, 
-Quark, quark:birch_bookshelf, 919, Birch Bookshelf, forge:bookshelves
-Quark, quark:birch_chest, 1053, Birch Chest, forge:chests, forge:chests/wooden
-Quark, quark:birch_ladder, 1417, Birch Ladder, quark:ladders
-Quark, quark:birch_leaf_carpet, 975, Birch Leaf Carpet, 
-Quark, quark:birch_trapped_chest, 1071, Birch Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:birch_vertical_slab, 1477, Birch Vertical Slab, 
-Quark, quark:black_candle, 1336, Black Candle, quark:candles
-Quark, quark:black_crystal, 1400, Black Cave Crystal, quark:crystal
-Quark, quark:black_crystal_pane, 1409, Black Crystal Sheet, 
-Quark, quark:black_item_frame, 995, Black Item Frame, 
-Quark, quark:black_quilted_wool, 1452, Black Quilted Wool, quark:quilted_wools
-Quark, quark:black_rune, 1468, Black Rune, quark:runes, quark:runes_lootable
-Quark, quark:black_shard, 968, Black Glass Shard, quark:shards
-Quark, quark:black_shingles, 1048, Black Shingles, 
-Quark, quark:black_shingles_slab, 1049, Black Shingles Slab, minecraft:slabs
-Quark, quark:black_shingles_stairs, 1050, Black Shingles Stairs, minecraft:stairs
-Quark, quark:black_shingles_vertical_slab, 1525, Black Shingles Vertical Slab, 
-Quark, quark:black_stained_planks, 1205, Black Stained Planks, minecraft:planks
-Quark, quark:black_stained_planks_slab, 1206, Black Stained Plank Slab, minecraft:slabs
-Quark, quark:black_stained_planks_stairs, 1207, Black Stained Plank Stairs, minecraft:stairs
-Quark, quark:black_stained_planks_vertical_slab, 1549, Black Stained Plank Vertical Slab, 
-Quark, quark:blaze_lantern, 944, Blaze Lantern, 
-Quark, quark:blue_blossom_leaf_carpet, 1474, Frosty Blossom Leaf Carpet, 
-Quark, quark:blue_blossom_leaves, 1210, Frosty Blossom Leaves, minecraft:leaves
-Quark, quark:blue_blossom_sapling, 1211, Frosty Blossom Sapling, minecraft:saplings
-Quark, quark:blue_candle, 1332, Blue Candle, quark:candles
-Quark, quark:blue_crystal, 1396, Blue Cave Crystal, quark:crystal
-Quark, quark:blue_crystal_pane, 1405, Blue Crystal Sheet, 
-Quark, quark:blue_item_frame, 991, Blue Item Frame, 
-Quark, quark:blue_quilted_wool, 1448, Blue Quilted Wool, quark:quilted_wools
-Quark, quark:blue_rune, 1464, Blue Rune, quark:runes, quark:runes_lootable
-Quark, quark:blue_shard, 964, Blue Glass Shard, quark:shards
-Quark, quark:blue_shingles, 1036, Blue Shingles, 
-Quark, quark:blue_shingles_slab, 1037, Blue Shingles Slab, minecraft:slabs
-Quark, quark:blue_shingles_stairs, 1038, Blue Shingles Stairs, minecraft:stairs
-Quark, quark:blue_shingles_vertical_slab, 1521, Blue Shingles Vertical Slab, 
-Quark, quark:blue_slime_block, 913, Blue Slime Block, quark:slime_blocks
-Quark, quark:blue_stained_planks, 1193, Blue Stained Planks, minecraft:planks
-Quark, quark:blue_stained_planks_slab, 1194, Blue Stained Plank Slab, minecraft:slabs
-Quark, quark:blue_stained_planks_stairs, 1195, Blue Stained Plank Stairs, minecraft:stairs
-Quark, quark:blue_stained_planks_vertical_slab, 1545, Blue Stained Plank Vertical Slab, 
-Quark, quark:bonded_leather, 945, Bonded Leather, 
-Quark, quark:bonded_rabbit_hide, 946, Bonded Rabbit Hide, 
-Quark, quark:brick_vertical_slab, 1478, Brick Vertical Slab, 
-Quark, quark:brimstone, 1134, Brimstone, forge:stone, quark:stone_tool_materials
-Quark, quark:brimstone_bricks, 1138, Brimstone Bricks, 
-Quark, quark:brimstone_bricks_slab, 1139, Brimstone Brick Slab, minecraft:slabs
-Quark, quark:brimstone_bricks_stairs, 1140, Brimstone Brick Stairs, minecraft:stairs
-Quark, quark:brimstone_bricks_vertical_slab, 1530, Brimstone Brick Vertical Slab, 
-Quark, quark:brimstone_bricks_wall, 1141, Brimstone Brick Wall, minecraft:walls
-Quark, quark:brimstone_slab, 1135, Brimstone Slab, minecraft:slabs
-Quark, quark:brimstone_stairs, 1136, Brimstone Stairs, minecraft:stairs
-Quark, quark:brimstone_vertical_slab, 1529, Brimstone Vertical Slab, 
-Quark, quark:brimstone_wall, 1137, Brimstone Wall, minecraft:walls
-Quark, quark:brown_candle, 1333, Brown Candle, quark:candles
-Quark, quark:brown_item_frame, 992, Brown Item Frame, 
-Quark, quark:brown_quilted_wool, 1449, Brown Quilted Wool, quark:quilted_wools
-Quark, quark:brown_rune, 1465, Brown Rune, quark:runes, quark:runes_lootable
-Quark, quark:brown_shard, 965, Brown Glass Shard, quark:shards
-Quark, quark:brown_shingles, 1039, Brown Shingles, 
-Quark, quark:brown_shingles_slab, 1040, Brown Shingles Slab, minecraft:slabs
-Quark, quark:brown_shingles_stairs, 1041, Brown Shingles Stairs, minecraft:stairs
-Quark, quark:brown_shingles_vertical_slab, 1522, Brown Shingles Vertical Slab, 
-Quark, quark:brown_stained_planks, 1196, Brown Stained Planks, minecraft:planks
-Quark, quark:brown_stained_planks_slab, 1197, Brown Stained Plank Slab, minecraft:slabs
-Quark, quark:brown_stained_planks_stairs, 1198, Brown Stained Plank Stairs, minecraft:stairs
-Quark, quark:brown_stained_planks_vertical_slab, 1546, Brown Stained Plank Vertical Slab, 
-Quark, quark:cactus_block, 932, Cactus Batch, 
-Quark, quark:cactus_paste, 996, Cactus Paste, 
-Quark, quark:carrot_crate, 938, Carrot Crate, 
-Quark, quark:charcoal_block, 929, Charcoal Block, forge:storage_blocks/charcoal
-Quark, quark:charred_nether_bricks, 1228, Charred Nether Bricks, 
-Quark, quark:charred_nether_bricks_slab, 1229, Charred Nether Brick Slab, minecraft:slabs
-Quark, quark:charred_nether_bricks_stairs, 1230, Charred Nether Brick Stairs, minecraft:stairs
-Quark, quark:charred_nether_bricks_vertical_slab, 1552, Charred Nether Brick Vertical Slab, 
-Quark, quark:charred_nether_bricks_wall, 1231, Charred Nether Brick Wall, minecraft:walls
-Quark, quark:chiseled_andesite_bricks, 1282, Chiseled Andesite Bricks, 
-Quark, quark:chiseled_basalt_bricks, 1317, Chiseled Basalt Bricks, 
-Quark, quark:chiseled_biotite_block, 1431, Chiseled Biotite Block, 
-Quark, quark:chiseled_diorite_bricks, 1275, Chiseled Diorite Bricks, 
-Quark, quark:chiseled_granite_bricks, 1268, Chiseled Granite Bricks, 
-Quark, quark:chiseled_jasper_bricks, 1303, Chiseled Jasper Bricks, 
-Quark, quark:chiseled_limestone_bricks, 1296, Chiseled Limestone Bricks, 
-Quark, quark:chiseled_marble_bricks, 1289, Chiseled Marble Bricks, 
-Quark, quark:chiseled_slate_bricks, 1310, Chiseled Slate Bricks, 
-Quark, quark:chiseled_soul_sandstone, 1344, Chiseled Soul Sandstone, 
-Quark, quark:chorus_fruit_block, 933, Chorus Fruit Batch, 
-Quark, quark:chute, 917, Chute, 
-Quark, quark:clear_shard, 951, Glass Shard, quark:shards
-Quark, quark:cobbedstone, 1410, Cobbedstone, forge:stone, quark:stone_tool_materials
-Quark, quark:cobbedstone_slab, 1411, Cobbedstone Slab, minecraft:slabs
-Quark, quark:cobbedstone_stairs, 1412, Cobbedstone Stairs, minecraft:stairs
-Quark, quark:cobbedstone_vertical_slab, 1583, Cobbedstone Vertical Slab, 
-Quark, quark:cobbedstone_wall, 1413, Cobbedstone Wall, minecraft:walls
-Quark, quark:cobblestone_bricks, 1255, Cobblestone Bricks, 
-Quark, quark:cobblestone_bricks_slab, 1256, Cobblestone Brick Slab, minecraft:slabs
-Quark, quark:cobblestone_bricks_stairs, 1257, Cobblestone Brick Stairs, minecraft:stairs
-Quark, quark:cobblestone_bricks_vertical_slab, 1559, Cobblestone Brick Vertical Slab, 
-Quark, quark:cobblestone_bricks_wall, 1258, Cobblestone Brick Wall, minecraft:walls
-Quark, quark:cobblestone_vertical_slab, 1479, Cobblestone Vertical Slab, 
-Quark, quark:cocoa_beans_sack, 940, Cocoa Bean Sack, 
-Quark, quark:cooked_crab_leg, 1124, Cooked Crab Leg, 
-Quark, quark:cooked_frog_leg, 970, Cooked Frog Leg, 
-Quark, quark:crab_leg, 1123, Crab Leg, 
-Quark, quark:crab_shell, 1125, Crab Shell, 
-Quark, quark:crab_spawn_egg, 1126, Crab Spawn Egg, 
-Quark, quark:cut_red_sandstone_vertical_slab, 1480, Cut Red Sandstone Vertical Slab, 
-Quark, quark:cut_sandstone_vertical_slab, 1481, Cut Sandstone Vertical Slab, 
-Quark, quark:cut_soul_sandstone, 1345, Cut Soul Sandstone, 
-Quark, quark:cut_soul_sandstone_slab, 1346, Cut Soul Sandstone Slab, minecraft:slabs
-Quark, quark:cut_soul_sandstone_vertical_slab, 1570, Cut Soul Sandstone Vertical Slab, 
-Quark, quark:cyan_candle, 1330, Cyan Candle, quark:candles
-Quark, quark:cyan_item_frame, 989, Cyan Item Frame, 
-Quark, quark:cyan_quilted_wool, 1446, Cyan Quilted Wool, quark:quilted_wools
-Quark, quark:cyan_rune, 1462, Cyan Rune, quark:runes, quark:runes_lootable
-Quark, quark:cyan_shard, 962, Cyan Glass Shard, quark:shards
-Quark, quark:cyan_shingles, 1030, Cyan Shingles, 
-Quark, quark:cyan_shingles_slab, 1031, Cyan Shingles Slab, minecraft:slabs
-Quark, quark:cyan_shingles_stairs, 1032, Cyan Shingles Stairs, minecraft:stairs
-Quark, quark:cyan_shingles_vertical_slab, 1519, Cyan Shingles Vertical Slab, 
-Quark, quark:cyan_slime_block, 914, Cyan Slime Block, quark:slime_blocks
-Quark, quark:cyan_stained_planks, 1187, Cyan Stained Planks, minecraft:planks
-Quark, quark:cyan_stained_planks_slab, 1188, Cyan Stained Plank Slab, minecraft:slabs
-Quark, quark:cyan_stained_planks_stairs, 1189, Cyan Stained Plank Stairs, minecraft:stairs
-Quark, quark:cyan_stained_planks_vertical_slab, 1543, Cyan Stained Plank Vertical Slab, 
-Quark, quark:dark_elder_prismarine, 1156, Dark Elder Prismarine, 
-Quark, quark:dark_elder_prismarine_slab, 1157, Dark Elder Prismarine Slab, minecraft:slabs
-Quark, quark:dark_elder_prismarine_stairs, 1158, Dark Elder Prismarine Stairs, minecraft:stairs
-Quark, quark:dark_elder_prismarine_vertical_slab, 1533, Dark Elder Prismarine Vertical Slab, 
-Quark, quark:dark_oak_bookshelf, 922, Dark Oak Bookshelf, forge:bookshelves
-Quark, quark:dark_oak_chest, 1056, Dark Oak Chest, forge:chests, forge:chests/wooden
-Quark, quark:dark_oak_ladder, 1420, Dark Oak Ladder, quark:ladders
-Quark, quark:dark_oak_leaf_carpet, 978, Dark Oak Leaf Carpet, 
-Quark, quark:dark_oak_trapped_chest, 1074, Dark Oak Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:dark_oak_vertical_slab, 1482, Dark Oak Vertical Slab, 
-Quark, quark:dark_prismarine_vertical_slab, 1483, Dark Prismarine Vertical Slab, 
-Quark, quark:diamond_heart, 1001, Heart of Diamond, 
-Quark, quark:diorite_bricks, 1271, Diorite Bricks, 
-Quark, quark:diorite_bricks_slab, 1272, Diorite Brick Slab, minecraft:slabs
-Quark, quark:diorite_bricks_stairs, 1273, Diorite Brick Stairs, minecraft:stairs
-Quark, quark:diorite_bricks_vertical_slab, 1562, Diorite Brick Vertical Slab, 
-Quark, quark:diorite_bricks_wall, 1274, Diorite Brick Wall, minecraft:walls
-Quark, quark:diorite_pavement, 1276, Diorite Pavement, 
-Quark, quark:diorite_pillar, 1277, Diorite Pillar, 
+Quark, quark:basalt_wall, 1421, Basalt Wall, minecraft:walls
+Quark, quark:beetroot_crate, 1446, Beetroot Crate, 
+Quark, quark:berry_sack, 1450, Sweet Berry Sack, 
+Quark, quark:biotite, 1204, Ender Biotite, forge:gems/biotite
+Quark, quark:biotite_block, 1206, Block of Biotite, 
+Quark, quark:biotite_block_slab, 1207, Biotite Slab, minecraft:slabs
+Quark, quark:biotite_block_stairs, 1208, Biotite Stairs, minecraft:stairs
+Quark, quark:biotite_block_vertical_slab, 1553, Biotite Vertical Slab, 
+Quark, quark:biotite_ore, 1205, Biotite Ore, forge:ores, forge:ores/biotite
+Quark, quark:biotite_pillar, 1213, Biotite Pillar, 
+Quark, quark:birch_bookshelf, 912, Birch Bookshelf, forge:bookshelves
+Quark, quark:birch_chest, 1043, Birch Chest, forge:chests, forge:chests/wooden
+Quark, quark:birch_ladder, 1110, Birch Ladder, quark:ladders
+Quark, quark:birch_leaf_carpet, 1257, Birch Leaf Carpet, 
+Quark, quark:birch_trapped_chest, 1061, Birch Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:birch_vertical_slab, 1472, Birch Vertical Slab, 
+Quark, quark:black_candle, 1247, Black Candle, quark:candles
+Quark, quark:black_crystal, 1031, Black Cave Crystal, quark:crystal
+Quark, quark:black_crystal_pane, 1040, Black Crystal Sheet, 
+Quark, quark:black_item_frame, 1383, Black Item Frame, 
+Quark, quark:black_quilted_wool, 1469, Black Quilted Wool, quark:quilted_wools
+Quark, quark:black_rune, 1365, Black Rune, quark:runes, quark:runes_lootable
+Quark, quark:black_shard, 1137, Black Glass Shard, quark:shards
+Quark, quark:black_shingles, 964, Black Shingles, 
+Quark, quark:black_shingles_slab, 965, Black Shingles Slab, minecraft:slabs
+Quark, quark:black_shingles_stairs, 966, Black Shingles Stairs, minecraft:stairs
+Quark, quark:black_shingles_vertical_slab, 1519, Black Shingles Vertical Slab, 
+Quark, quark:black_stained_planks, 1012, Black Stained Planks, minecraft:planks
+Quark, quark:black_stained_planks_slab, 1013, Black Stained Plank Slab, minecraft:slabs
+Quark, quark:black_stained_planks_stairs, 1014, Black Stained Plank Stairs, minecraft:stairs
+Quark, quark:black_stained_planks_vertical_slab, 1535, Black Stained Plank Vertical Slab, 
+Quark, quark:blaze_lantern, 1451, Blaze Lantern, 
+Quark, quark:blue_blossom_leaf_carpet, 1582, Frosty Blossom Leaf Carpet, 
+Quark, quark:blue_blossom_leaves, 1424, Frosty Blossom Leaves, minecraft:leaves
+Quark, quark:blue_blossom_sapling, 1425, Frosty Blossom Sapling, minecraft:saplings
+Quark, quark:blue_candle, 1243, Blue Candle, quark:candles
+Quark, quark:blue_crystal, 1027, Blue Cave Crystal, quark:crystal
+Quark, quark:blue_crystal_pane, 1036, Blue Crystal Sheet, 
+Quark, quark:blue_item_frame, 1379, Blue Item Frame, 
+Quark, quark:blue_quilted_wool, 1465, Blue Quilted Wool, quark:quilted_wools
+Quark, quark:blue_rune, 1361, Blue Rune, quark:runes, quark:runes_lootable
+Quark, quark:blue_shard, 1133, Blue Glass Shard, quark:shards
+Quark, quark:blue_shingles, 952, Blue Shingles, 
+Quark, quark:blue_shingles_slab, 953, Blue Shingles Slab, minecraft:slabs
+Quark, quark:blue_shingles_stairs, 954, Blue Shingles Stairs, minecraft:stairs
+Quark, quark:blue_shingles_vertical_slab, 1515, Blue Shingles Vertical Slab, 
+Quark, quark:blue_slime_block, 1385, Blue Slime Block, quark:slime_blocks
+Quark, quark:blue_stained_planks, 1000, Blue Stained Planks, minecraft:planks
+Quark, quark:blue_stained_planks_slab, 1001, Blue Stained Plank Slab, minecraft:slabs
+Quark, quark:blue_stained_planks_stairs, 1002, Blue Stained Plank Stairs, minecraft:stairs
+Quark, quark:blue_stained_planks_vertical_slab, 1531, Blue Stained Plank Vertical Slab, 
+Quark, quark:bonded_leather, 1452, Bonded Leather, 
+Quark, quark:bonded_rabbit_hide, 1453, Bonded Rabbit Hide, 
+Quark, quark:brick_vertical_slab, 1473, Brick Vertical Slab, 
+Quark, quark:brimstone, 1077, Brimstone, forge:stone, quark:stone_tool_materials
+Quark, quark:brimstone_bricks, 1081, Brimstone Bricks, 
+Quark, quark:brimstone_bricks_slab, 1082, Brimstone Brick Slab, minecraft:slabs
+Quark, quark:brimstone_bricks_stairs, 1083, Brimstone Brick Stairs, minecraft:stairs
+Quark, quark:brimstone_bricks_vertical_slab, 1539, Brimstone Brick Vertical Slab, 
+Quark, quark:brimstone_bricks_wall, 1084, Brimstone Brick Wall, minecraft:walls
+Quark, quark:brimstone_slab, 1078, Brimstone Slab, minecraft:slabs
+Quark, quark:brimstone_stairs, 1079, Brimstone Stairs, minecraft:stairs
+Quark, quark:brimstone_vertical_slab, 1538, Brimstone Vertical Slab, 
+Quark, quark:brimstone_wall, 1080, Brimstone Wall, minecraft:walls
+Quark, quark:brown_candle, 1244, Brown Candle, quark:candles
+Quark, quark:brown_item_frame, 1380, Brown Item Frame, 
+Quark, quark:brown_quilted_wool, 1466, Brown Quilted Wool, quark:quilted_wools
+Quark, quark:brown_rune, 1362, Brown Rune, quark:runes, quark:runes_lootable
+Quark, quark:brown_shard, 1134, Brown Glass Shard, quark:shards
+Quark, quark:brown_shingles, 955, Brown Shingles, 
+Quark, quark:brown_shingles_slab, 956, Brown Shingles Slab, minecraft:slabs
+Quark, quark:brown_shingles_stairs, 957, Brown Shingles Stairs, minecraft:stairs
+Quark, quark:brown_shingles_vertical_slab, 1516, Brown Shingles Vertical Slab, 
+Quark, quark:brown_stained_planks, 1003, Brown Stained Planks, minecraft:planks
+Quark, quark:brown_stained_planks_slab, 1004, Brown Stained Plank Slab, minecraft:slabs
+Quark, quark:brown_stained_planks_stairs, 1005, Brown Stained Plank Stairs, minecraft:stairs
+Quark, quark:brown_stained_planks_vertical_slab, 1532, Brown Stained Plank Vertical Slab, 
+Quark, quark:cactus_block, 1439, Cactus Batch, 
+Quark, quark:cactus_paste, 1093, Cactus Paste, 
+Quark, quark:carrot_crate, 1445, Carrot Crate, 
+Quark, quark:charcoal_block, 1436, Charcoal Block, forge:storage_blocks/charcoal
+Quark, quark:charred_nether_bricks, 1275, Charred Nether Bricks, 
+Quark, quark:charred_nether_bricks_slab, 1276, Charred Nether Brick Slab, minecraft:slabs
+Quark, quark:charred_nether_bricks_stairs, 1277, Charred Nether Brick Stairs, minecraft:stairs
+Quark, quark:charred_nether_bricks_vertical_slab, 1562, Charred Nether Brick Vertical Slab, 
+Quark, quark:charred_nether_bricks_wall, 1278, Charred Nether Brick Wall, minecraft:walls
+Quark, quark:chiseled_andesite_bricks, 1165, Chiseled Andesite Bricks, 
+Quark, quark:chiseled_basalt_bricks, 1200, Chiseled Basalt Bricks, 
+Quark, quark:chiseled_biotite_block, 1212, Chiseled Biotite Block, 
+Quark, quark:chiseled_diorite_bricks, 1158, Chiseled Diorite Bricks, 
+Quark, quark:chiseled_granite_bricks, 1151, Chiseled Granite Bricks, 
+Quark, quark:chiseled_jasper_bricks, 1186, Chiseled Jasper Bricks, 
+Quark, quark:chiseled_limestone_bricks, 1179, Chiseled Limestone Bricks, 
+Quark, quark:chiseled_marble_bricks, 1172, Chiseled Marble Bricks, 
+Quark, quark:chiseled_slate_bricks, 1193, Chiseled Slate Bricks, 
+Quark, quark:chiseled_soul_sandstone, 1103, Chiseled Soul Sandstone, 
+Quark, quark:chorus_fruit_block, 1440, Chorus Fruit Batch, 
+Quark, quark:chute, 1098, Chute, 
+Quark, quark:clear_shard, 1120, Glass Shard, quark:shards
+Quark, quark:cobbedstone, 1138, Cobbedstone, forge:stone, quark:stone_tool_materials
+Quark, quark:cobbedstone_slab, 1139, Cobbedstone Slab, minecraft:slabs
+Quark, quark:cobbedstone_stairs, 1140, Cobbedstone Stairs, minecraft:stairs
+Quark, quark:cobbedstone_vertical_slab, 1544, Cobbedstone Vertical Slab, 
+Quark, quark:cobbedstone_wall, 1141, Cobbedstone Wall, minecraft:walls
+Quark, quark:cobblestone_bricks, 1015, Cobblestone Bricks, 
+Quark, quark:cobblestone_bricks_slab, 1016, Cobblestone Brick Slab, minecraft:slabs
+Quark, quark:cobblestone_bricks_stairs, 1017, Cobblestone Brick Stairs, minecraft:stairs
+Quark, quark:cobblestone_bricks_vertical_slab, 1536, Cobblestone Brick Vertical Slab, 
+Quark, quark:cobblestone_bricks_wall, 1018, Cobblestone Brick Wall, minecraft:walls
+Quark, quark:cobblestone_vertical_slab, 1474, Cobblestone Vertical Slab, 
+Quark, quark:cocoa_beans_sack, 1447, Cocoa Bean Sack, 
+Quark, quark:cooked_crab_leg, 1144, Cooked Crab Leg, 
+Quark, quark:cooked_frog_leg, 1086, Cooked Frog Leg, 
+Quark, quark:crab_leg, 1143, Crab Leg, 
+Quark, quark:crab_shell, 1145, Crab Shell, 
+Quark, quark:crab_spawn_egg, 1146, Crab Spawn Egg, 
+Quark, quark:cut_red_sandstone_vertical_slab, 1475, Cut Red Sandstone Vertical Slab, 
+Quark, quark:cut_sandstone_vertical_slab, 1476, Cut Sandstone Vertical Slab, 
+Quark, quark:cut_soul_sandstone, 1104, Cut Soul Sandstone, 
+Quark, quark:cut_soul_sandstone_slab, 1105, Cut Soul Sandstone Slab, minecraft:slabs
+Quark, quark:cut_soul_sandstone_vertical_slab, 1542, Cut Soul Sandstone Vertical Slab, 
+Quark, quark:cyan_candle, 1241, Cyan Candle, quark:candles
+Quark, quark:cyan_item_frame, 1377, Cyan Item Frame, 
+Quark, quark:cyan_quilted_wool, 1463, Cyan Quilted Wool, quark:quilted_wools
+Quark, quark:cyan_rune, 1359, Cyan Rune, quark:runes, quark:runes_lootable
+Quark, quark:cyan_shard, 1131, Cyan Glass Shard, quark:shards
+Quark, quark:cyan_shingles, 946, Cyan Shingles, 
+Quark, quark:cyan_shingles_slab, 947, Cyan Shingles Slab, minecraft:slabs
+Quark, quark:cyan_shingles_stairs, 948, Cyan Shingles Stairs, minecraft:stairs
+Quark, quark:cyan_shingles_vertical_slab, 1513, Cyan Shingles Vertical Slab, 
+Quark, quark:cyan_slime_block, 1386, Cyan Slime Block, quark:slime_blocks
+Quark, quark:cyan_stained_planks, 994, Cyan Stained Planks, minecraft:planks
+Quark, quark:cyan_stained_planks_slab, 995, Cyan Stained Plank Slab, minecraft:slabs
+Quark, quark:cyan_stained_planks_stairs, 996, Cyan Stained Plank Stairs, minecraft:stairs
+Quark, quark:cyan_stained_planks_vertical_slab, 1529, Cyan Stained Plank Vertical Slab, 
+Quark, quark:dark_elder_prismarine, 1223, Dark Elder Prismarine, 
+Quark, quark:dark_elder_prismarine_slab, 1224, Dark Elder Prismarine Slab, minecraft:slabs
+Quark, quark:dark_elder_prismarine_stairs, 1225, Dark Elder Prismarine Stairs, minecraft:stairs
+Quark, quark:dark_elder_prismarine_vertical_slab, 1557, Dark Elder Prismarine Vertical Slab, 
+Quark, quark:dark_oak_bookshelf, 915, Dark Oak Bookshelf, forge:bookshelves
+Quark, quark:dark_oak_chest, 1046, Dark Oak Chest, forge:chests, forge:chests/wooden
+Quark, quark:dark_oak_ladder, 1113, Dark Oak Ladder, quark:ladders
+Quark, quark:dark_oak_leaf_carpet, 1260, Dark Oak Leaf Carpet, 
+Quark, quark:dark_oak_trapped_chest, 1064, Dark Oak Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:dark_oak_vertical_slab, 1477, Dark Oak Vertical Slab, 
+Quark, quark:dark_prismarine_vertical_slab, 1478, Dark Prismarine Vertical Slab, 
+Quark, quark:diamond_heart, 1342, Heart of Diamond, 
+Quark, quark:diorite_bricks, 1154, Diorite Bricks, 
+Quark, quark:diorite_bricks_slab, 1155, Diorite Brick Slab, minecraft:slabs
+Quark, quark:diorite_bricks_stairs, 1156, Diorite Brick Stairs, minecraft:stairs
+Quark, quark:diorite_bricks_vertical_slab, 1546, Diorite Brick Vertical Slab, 
+Quark, quark:diorite_bricks_wall, 1157, Diorite Brick Wall, minecraft:walls
+Quark, quark:diorite_pavement, 1159, Diorite Pavement, 
+Quark, quark:diorite_pillar, 1160, Diorite Pillar, 
 Quark, quark:diorite_speleothem, 1590, Diorite Speleothem, 
-Quark, quark:diorite_vertical_slab, 1484, Diorite Vertical Slab, 
-Quark, quark:dirty_glass, 949, Dirty Glass, forge:glass
-Quark, quark:dirty_glass_pane, 950, Dirty Glass Pane, forge:glass_panes
-Quark, quark:dirty_shard, 952, Dirty Glass Shard, quark:shards
-Quark, quark:dragon_scale, 1208, Dragon Scale, 
-Quark, quark:driftwood_chest, 1058, Driftwood Chest, forge:chests, forge:chests/wooden
-Quark, quark:driftwood_trapped_chest, 1076, Driftwood Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:duskbound_block, 1130, Duskbound Block, 
-Quark, quark:duskbound_block_slab, 1131, Duskbound Slab, minecraft:slabs
-Quark, quark:duskbound_block_stairs, 1132, Duskbound Stairs, minecraft:stairs
-Quark, quark:duskbound_block_vertical_slab, 1528, Duskbound Vertical Slab, 
-Quark, quark:duskbound_lantern, 1133, Duskbound Lantern, 
-Quark, quark:elder_prismarine, 1149, Elder Prismarine, forge:stone, quark:stone_tool_materials
-Quark, quark:elder_prismarine_bricks, 1153, Elder Prismarine Bricks, 
-Quark, quark:elder_prismarine_bricks_slab, 1154, Elder Prismarine Brick Slab, minecraft:slabs
-Quark, quark:elder_prismarine_bricks_stairs, 1155, Elder Prismarine Brick Stairs, minecraft:stairs
-Quark, quark:elder_prismarine_bricks_vertical_slab, 1532, Elder Prismarine Brick Vertical Slab, 
-Quark, quark:elder_prismarine_slab, 1150, Elder Prismarine Slab, minecraft:slabs
-Quark, quark:elder_prismarine_stairs, 1151, Elder Prismarine Stairs, minecraft:stairs
-Quark, quark:elder_prismarine_vertical_slab, 1531, Elder Prismarine Vertical Slab, 
-Quark, quark:elder_prismarine_wall, 1152, Elder Prismarine Wall, minecraft:walls
-Quark, quark:elder_sea_lantern, 1159, Elder Sea Lantern, 
-Quark, quark:end_stone_brick_vertical_slab, 1485, End Stone Brick Vertical Slab, 
-Quark, quark:ender_watcher, 1148, Ender Watcher, 
-Quark, quark:feeding_trough, 1433, Feeding Trough, 
-Quark, quark:foxhound_spawn_egg, 1092, Foxhound Spawn Egg, 
-Quark, quark:framed_glass, 947, Framed Glass, forge:glass
-Quark, quark:framed_glass_pane, 948, Framed Glass Pane, forge:glass_panes
-Quark, quark:frog_leg, 969, Frog Leg, 
-Quark, quark:frog_spawn_egg, 972, Frog Spawn Egg, 
-Quark, quark:glass_item_frame, 979, Glass Item Frame, 
-Quark, quark:glowcelium, 924, Glowcelium, 
-Quark, quark:glowshroom, 925, Glowshroom, forge:mushrooms, forge:mushrooms/edible, forge:mushrooms/glowshroom
-Quark, quark:glowshroom_block, 926, Glowshroom Block, forge:mushroom_caps, forge:mushroom_caps/glowshroom
-Quark, quark:glowshroom_stem, 927, Glowshroom Stem, forge:mushroom_stems, forge:mushroom_stems/glowshroom
-Quark, quark:gold_bars, 1146, Gold Bars, 
-Quark, quark:gold_button, 1144, Gold Button, minecraft:buttons
-Quark, quark:golden_apple_crate, 935, Golden Apple Crate, 
-Quark, quark:golden_frog_leg, 971, Golden Frog Leg, 
-Quark, quark:granite_bricks, 1264, Granite Bricks, 
-Quark, quark:granite_bricks_slab, 1265, Granite Brick Slab, minecraft:slabs
-Quark, quark:granite_bricks_stairs, 1266, Granite Brick Stairs, minecraft:stairs
-Quark, quark:granite_bricks_vertical_slab, 1561, Granite Brick Vertical Slab, 
-Quark, quark:granite_bricks_wall, 1267, Granite Brick Wall, minecraft:walls
-Quark, quark:granite_pavement, 1269, Granite Pavement, 
-Quark, quark:granite_pillar, 1270, Granite Pillar, 
+Quark, quark:diorite_vertical_slab, 1479, Diorite Vertical Slab, 
+Quark, quark:dirty_glass, 1118, Dirty Glass, forge:glass
+Quark, quark:dirty_glass_pane, 1119, Dirty Glass Pane, forge:glass_panes
+Quark, quark:dirty_shard, 1121, Dirty Glass Shard, quark:shards
+Quark, quark:dragon_scale, 1297, Dragon Scale, 
+Quark, quark:driftwood_chest, 1048, Driftwood Chest, forge:chests, forge:chests/wooden
+Quark, quark:driftwood_trapped_chest, 1066, Driftwood Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:duskbound_block, 1344, Duskbound Block, 
+Quark, quark:duskbound_block_slab, 1345, Duskbound Slab, minecraft:slabs
+Quark, quark:duskbound_block_stairs, 1346, Duskbound Stairs, minecraft:stairs
+Quark, quark:duskbound_block_vertical_slab, 1571, Duskbound Vertical Slab, 
+Quark, quark:duskbound_lantern, 1347, Duskbound Lantern, 
+Quark, quark:elder_prismarine, 1216, Elder Prismarine, forge:stone, quark:stone_tool_materials
+Quark, quark:elder_prismarine_bricks, 1220, Elder Prismarine Bricks, 
+Quark, quark:elder_prismarine_bricks_slab, 1221, Elder Prismarine Brick Slab, minecraft:slabs
+Quark, quark:elder_prismarine_bricks_stairs, 1222, Elder Prismarine Brick Stairs, minecraft:stairs
+Quark, quark:elder_prismarine_bricks_vertical_slab, 1556, Elder Prismarine Brick Vertical Slab, 
+Quark, quark:elder_prismarine_slab, 1217, Elder Prismarine Slab, minecraft:slabs
+Quark, quark:elder_prismarine_stairs, 1218, Elder Prismarine Stairs, minecraft:stairs
+Quark, quark:elder_prismarine_vertical_slab, 1555, Elder Prismarine Vertical Slab, 
+Quark, quark:elder_prismarine_wall, 1219, Elder Prismarine Wall, minecraft:walls
+Quark, quark:elder_sea_lantern, 1226, Elder Sea Lantern, 
+Quark, quark:end_stone_brick_vertical_slab, 1480, End Stone Brick Vertical Slab, 
+Quark, quark:ender_watcher, 1227, Ender Watcher, 
+Quark, quark:feeding_trough, 1203, Feeding Trough, 
+Quark, quark:foxhound_spawn_egg, 1324, Foxhound Spawn Egg, 
+Quark, quark:framed_glass, 1348, Framed Glass, forge:glass
+Quark, quark:framed_glass_pane, 1349, Framed Glass Pane, forge:glass_panes
+Quark, quark:frog_leg, 1085, Frog Leg, 
+Quark, quark:frog_spawn_egg, 1088, Frog Spawn Egg, 
+Quark, quark:glass_item_frame, 1367, Glass Item Frame, 
+Quark, quark:glowcelium, 1089, Glowcelium, 
+Quark, quark:glowshroom, 1090, Glowshroom, forge:mushrooms, forge:mushrooms/edible, forge:mushrooms/glowshroom
+Quark, quark:glowshroom_block, 1091, Glowshroom Block, forge:mushroom_caps, forge:mushroom_caps/glowshroom
+Quark, quark:glowshroom_stem, 1092, Glowshroom Stem, forge:mushroom_stems, forge:mushroom_stems/glowshroom
+Quark, quark:gold_bars, 1322, Gold Bars, 
+Quark, quark:gold_button, 1229, Gold Button, minecraft:buttons
+Quark, quark:golden_apple_crate, 1442, Golden Apple Crate, 
+Quark, quark:golden_frog_leg, 1087, Golden Frog Leg, 
+Quark, quark:granite_bricks, 1147, Granite Bricks, 
+Quark, quark:granite_bricks_slab, 1148, Granite Brick Slab, minecraft:slabs
+Quark, quark:granite_bricks_stairs, 1149, Granite Brick Stairs, minecraft:stairs
+Quark, quark:granite_bricks_vertical_slab, 1545, Granite Brick Vertical Slab, 
+Quark, quark:granite_bricks_wall, 1150, Granite Brick Wall, minecraft:walls
+Quark, quark:granite_pavement, 1152, Granite Pavement, 
+Quark, quark:granite_pillar, 1153, Granite Pillar, 
 Quark, quark:granite_speleothem, 1589, Granite Speleothem, 
-Quark, quark:granite_vertical_slab, 1486, Granite Vertical Slab, 
-Quark, quark:grate, 1128, Iron Grate, 
-Quark, quark:gravisand, 1209, Gravisand, 
-Quark, quark:gray_candle, 1328, Gray Candle, quark:candles
-Quark, quark:gray_item_frame, 987, Gray Item Frame, 
-Quark, quark:gray_quilted_wool, 1444, Gray Quilted Wool, quark:quilted_wools
-Quark, quark:gray_rune, 1460, Gray Rune, quark:runes, quark:runes_lootable
-Quark, quark:gray_shard, 960, Gray Glass Shard, quark:shards
-Quark, quark:gray_shingles, 1024, Gray Shingles, 
-Quark, quark:gray_shingles_slab, 1025, Gray Shingles Slab, minecraft:slabs
-Quark, quark:gray_shingles_stairs, 1026, Gray Shingles Stairs, minecraft:stairs
-Quark, quark:gray_shingles_vertical_slab, 1517, Gray Shingles Vertical Slab, 
-Quark, quark:gray_stained_planks, 1181, Gray Stained Planks, minecraft:planks
-Quark, quark:gray_stained_planks_slab, 1182, Gray Stained Plank Slab, minecraft:slabs
-Quark, quark:gray_stained_planks_stairs, 1183, Gray Stained Plank Stairs, minecraft:stairs
-Quark, quark:gray_stained_planks_vertical_slab, 1541, Gray Stained Plank Vertical Slab, 
-Quark, quark:green_candle, 1334, Green Candle, quark:candles
-Quark, quark:green_crystal, 1395, Green Cave Crystal, quark:crystal
-Quark, quark:green_crystal_pane, 1404, Green Crystal Sheet, 
-Quark, quark:green_item_frame, 993, Green Item Frame, 
-Quark, quark:green_quilted_wool, 1450, Green Quilted Wool, quark:quilted_wools
-Quark, quark:green_rune, 1466, Green Rune, quark:runes, quark:runes_lootable
-Quark, quark:green_shard, 966, Green Glass Shard, quark:shards
-Quark, quark:green_shingles, 1042, Green Shingles, 
-Quark, quark:green_shingles_slab, 1043, Green Shingles Slab, minecraft:slabs
-Quark, quark:green_shingles_stairs, 1044, Green Shingles Stairs, minecraft:stairs
-Quark, quark:green_shingles_vertical_slab, 1523, Green Shingles Vertical Slab, 
-Quark, quark:green_stained_planks, 1199, Green Stained Planks, minecraft:planks
-Quark, quark:green_stained_planks_slab, 1200, Green Stained Plank Slab, minecraft:slabs
-Quark, quark:green_stained_planks_stairs, 1201, Green Stained Plank Stairs, minecraft:stairs
-Quark, quark:green_stained_planks_vertical_slab, 1547, Green Stained Plank Vertical Slab, 
-Quark, quark:gunpowder_sack, 942, Gunpowder Sack, 
-Quark, quark:hive_chest, 1062, Hive Chest, forge:chests, forge:chests/wooden
-Quark, quark:hive_trapped_chest, 1080, Hive Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:indigo_crystal, 1397, Indigo Cave Crystal, quark:crystal
-Quark, quark:indigo_crystal_pane, 1406, Indigo Crystal Sheet, 
-Quark, quark:iron_button, 1143, Iron Button, minecraft:buttons
-Quark, quark:iron_chain, 1263, Iron Chain, 
-Quark, quark:iron_ladder, 1421, Iron Ladder, quark:ladders
-Quark, quark:iron_plate, 1249, Iron Plate, 
-Quark, quark:iron_plate_slab, 1250, Iron Plate Slab, minecraft:slabs
-Quark, quark:iron_plate_stairs, 1251, Iron Plate Stairs, minecraft:stairs
-Quark, quark:iron_plate_vertical_slab, 1557, Iron Plate Vertical Slab, 
-Quark, quark:iron_rod, 1352, Iron Rod, 
-Quark, quark:jasper, 1367, Jasper, forge:stone, quark:stone_tool_materials
-Quark, quark:jasper_bricks, 1299, Jasper Bricks, 
-Quark, quark:jasper_bricks_slab, 1300, Jasper Brick Slab, minecraft:slabs
-Quark, quark:jasper_bricks_stairs, 1301, Jasper Brick Stairs, minecraft:stairs
-Quark, quark:jasper_bricks_vertical_slab, 1566, Jasper Brick Vertical Slab, 
-Quark, quark:jasper_bricks_wall, 1302, Jasper Brick Wall, minecraft:walls
-Quark, quark:jasper_pavement, 1304, Jasper Pavement, 
-Quark, quark:jasper_pillar, 1305, Jasper Pillar, 
-Quark, quark:jasper_slab, 1369, Jasper Slab, minecraft:slabs
+Quark, quark:granite_vertical_slab, 1481, Granite Vertical Slab, 
+Quark, quark:grate, 1334, Iron Grate, 
+Quark, quark:gravisand, 917, Gravisand, 
+Quark, quark:gray_candle, 1239, Gray Candle, quark:candles
+Quark, quark:gray_item_frame, 1375, Gray Item Frame, 
+Quark, quark:gray_quilted_wool, 1461, Gray Quilted Wool, quark:quilted_wools
+Quark, quark:gray_rune, 1357, Gray Rune, quark:runes, quark:runes_lootable
+Quark, quark:gray_shard, 1129, Gray Glass Shard, quark:shards
+Quark, quark:gray_shingles, 940, Gray Shingles, 
+Quark, quark:gray_shingles_slab, 941, Gray Shingles Slab, minecraft:slabs
+Quark, quark:gray_shingles_stairs, 942, Gray Shingles Stairs, minecraft:stairs
+Quark, quark:gray_shingles_vertical_slab, 1511, Gray Shingles Vertical Slab, 
+Quark, quark:gray_stained_planks, 988, Gray Stained Planks, minecraft:planks
+Quark, quark:gray_stained_planks_slab, 989, Gray Stained Plank Slab, minecraft:slabs
+Quark, quark:gray_stained_planks_stairs, 990, Gray Stained Plank Stairs, minecraft:stairs
+Quark, quark:gray_stained_planks_vertical_slab, 1527, Gray Stained Plank Vertical Slab, 
+Quark, quark:green_candle, 1245, Green Candle, quark:candles
+Quark, quark:green_crystal, 1026, Green Cave Crystal, quark:crystal
+Quark, quark:green_crystal_pane, 1035, Green Crystal Sheet, 
+Quark, quark:green_item_frame, 1381, Green Item Frame, 
+Quark, quark:green_quilted_wool, 1467, Green Quilted Wool, quark:quilted_wools
+Quark, quark:green_rune, 1363, Green Rune, quark:runes, quark:runes_lootable
+Quark, quark:green_shard, 1135, Green Glass Shard, quark:shards
+Quark, quark:green_shingles, 958, Green Shingles, 
+Quark, quark:green_shingles_slab, 959, Green Shingles Slab, minecraft:slabs
+Quark, quark:green_shingles_stairs, 960, Green Shingles Stairs, minecraft:stairs
+Quark, quark:green_shingles_vertical_slab, 1517, Green Shingles Vertical Slab, 
+Quark, quark:green_stained_planks, 1006, Green Stained Planks, minecraft:planks
+Quark, quark:green_stained_planks_slab, 1007, Green Stained Plank Slab, minecraft:slabs
+Quark, quark:green_stained_planks_stairs, 1008, Green Stained Plank Stairs, minecraft:stairs
+Quark, quark:green_stained_planks_vertical_slab, 1533, Green Stained Plank Vertical Slab, 
+Quark, quark:gunpowder_sack, 1449, Gunpowder Sack, 
+Quark, quark:hive_chest, 1052, Hive Chest, forge:chests, forge:chests/wooden
+Quark, quark:hive_trapped_chest, 1070, Hive Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:indigo_crystal, 1028, Indigo Cave Crystal, quark:crystal
+Quark, quark:indigo_crystal_pane, 1037, Indigo Crystal Sheet, 
+Quark, quark:iron_button, 1228, Iron Button, minecraft:buttons
+Quark, quark:iron_chain, 1230, Iron Chain, 
+Quark, quark:iron_ladder, 1114, Iron Ladder, quark:ladders
+Quark, quark:iron_plate, 1336, Iron Plate, 
+Quark, quark:iron_plate_slab, 1337, Iron Plate Slab, minecraft:slabs
+Quark, quark:iron_plate_stairs, 1338, Iron Plate Stairs, minecraft:stairs
+Quark, quark:iron_plate_vertical_slab, 1569, Iron Plate Vertical Slab, 
+Quark, quark:iron_rod, 1434, Iron Rod, 
+Quark, quark:jasper, 1403, Jasper, forge:stone, quark:stone_tool_materials
+Quark, quark:jasper_bricks, 1182, Jasper Bricks, 
+Quark, quark:jasper_bricks_slab, 1183, Jasper Brick Slab, minecraft:slabs
+Quark, quark:jasper_bricks_stairs, 1184, Jasper Brick Stairs, minecraft:stairs
+Quark, quark:jasper_bricks_vertical_slab, 1550, Jasper Brick Vertical Slab, 
+Quark, quark:jasper_bricks_wall, 1185, Jasper Brick Wall, minecraft:walls
+Quark, quark:jasper_pavement, 1187, Jasper Pavement, 
+Quark, quark:jasper_pillar, 1188, Jasper Pillar, 
+Quark, quark:jasper_slab, 1405, Jasper Slab, minecraft:slabs
 Quark, quark:jasper_speleothem, 1594, Jasper Speleothem, 
-Quark, quark:jasper_stairs, 1370, Jasper Stairs, minecraft:stairs
+Quark, quark:jasper_stairs, 1406, Jasper Stairs, minecraft:stairs
 Quark, quark:jasper_vertical_slab, 1576, Jasper Vertical Slab, 
-Quark, quark:jasper_wall, 1371, Jasper Wall, minecraft:walls
-Quark, quark:jungle_bookshelf, 920, Jungle Bookshelf, forge:bookshelves
-Quark, quark:jungle_chest, 1054, Jungle Chest, forge:chests, forge:chests/wooden
-Quark, quark:jungle_ladder, 1418, Jungle Ladder, quark:ladders
-Quark, quark:jungle_leaf_carpet, 976, Jungle Leaf Carpet, 
-Quark, quark:jungle_trapped_chest, 1072, Jungle Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:jungle_vertical_slab, 1487, Jungle Vertical Slab, 
-Quark, quark:lavender_blossom_leaf_carpet, 1472, Serene Blossom Leaf Carpet, 
-Quark, quark:lavender_blossom_leaves, 1212, Serene Blossom Leaves, minecraft:leaves
-Quark, quark:lavender_blossom_sapling, 1213, Serene Blossom Sapling, minecraft:saplings
-Quark, quark:light_blue_candle, 1324, Light Blue Candle, quark:candles
-Quark, quark:light_blue_item_frame, 983, Light Blue Item Frame, 
-Quark, quark:light_blue_quilted_wool, 1440, Light Blue Quilted Wool, quark:quilted_wools
-Quark, quark:light_blue_rune, 1456, Light Blue Rune, quark:runes, quark:runes_lootable
-Quark, quark:light_blue_shard, 956, Light Blue Glass Shard, quark:shards
-Quark, quark:light_blue_shingles, 1012, Light Blue Shingles, 
-Quark, quark:light_blue_shingles_slab, 1013, Light Blue Shingles Slab, minecraft:slabs
-Quark, quark:light_blue_shingles_stairs, 1014, Light Blue Shingles Stairs, minecraft:stairs
-Quark, quark:light_blue_shingles_vertical_slab, 1513, Light Blue Shingles Vertical Slab, 
-Quark, quark:light_blue_stained_planks, 1169, Light Blue Stained Planks, minecraft:planks
-Quark, quark:light_blue_stained_planks_slab, 1170, Light Blue Stained Plank Slab, minecraft:slabs
-Quark, quark:light_blue_stained_planks_stairs, 1171, Light Blue Stained Plank Stairs, minecraft:stairs
-Quark, quark:light_blue_stained_planks_vertical_slab, 1537, Light Blue Stained Plank Vertical Slab, 
-Quark, quark:light_gray_candle, 1329, Light Gray Candle, quark:candles
-Quark, quark:light_gray_item_frame, 988, Light Gray Item Frame, 
-Quark, quark:light_gray_quilted_wool, 1445, Light Gray Quilted Wool, quark:quilted_wools
-Quark, quark:light_gray_rune, 1461, Light Gray Rune, quark:runes, quark:runes_lootable
-Quark, quark:light_gray_shard, 961, Light Gray Glass Shard, quark:shards
-Quark, quark:light_gray_shingles, 1027, Light Gray Shingles, 
-Quark, quark:light_gray_shingles_slab, 1028, Light Gray Shingles Slab, minecraft:slabs
-Quark, quark:light_gray_shingles_stairs, 1029, Light Gray Shingles Stairs, minecraft:stairs
-Quark, quark:light_gray_shingles_vertical_slab, 1518, Light Gray Shingles Vertical Slab, 
-Quark, quark:light_gray_stained_planks, 1184, Light Gray Stained Planks, minecraft:planks
-Quark, quark:light_gray_stained_planks_slab, 1185, Light Gray Stained Plank Slab, minecraft:slabs
-Quark, quark:light_gray_stained_planks_stairs, 1186, Light Gray Stained Plank Stairs, minecraft:stairs
-Quark, quark:light_gray_stained_planks_vertical_slab, 1542, Light Gray Stained Plank Vertical Slab, 
-Quark, quark:lime_candle, 1326, Lime Candle, quark:candles
-Quark, quark:lime_item_frame, 985, Lime Item Frame, 
-Quark, quark:lime_quilted_wool, 1442, Lime Quilted Wool, quark:quilted_wools
-Quark, quark:lime_rune, 1458, Lime Rune, quark:runes, quark:runes_lootable
-Quark, quark:lime_shard, 958, Lime Glass Shard, quark:shards
-Quark, quark:lime_shingles, 1018, Lime Shingles, 
-Quark, quark:lime_shingles_slab, 1019, Lime Shingles Slab, minecraft:slabs
-Quark, quark:lime_shingles_stairs, 1020, Lime Shingles Stairs, minecraft:stairs
-Quark, quark:lime_shingles_vertical_slab, 1515, Lime Shingles Vertical Slab, 
-Quark, quark:lime_stained_planks, 1175, Lime Stained Planks, minecraft:planks
-Quark, quark:lime_stained_planks_slab, 1176, Lime Stained Plank Slab, minecraft:slabs
-Quark, quark:lime_stained_planks_stairs, 1177, Lime Stained Plank Stairs, minecraft:stairs
-Quark, quark:lime_stained_planks_vertical_slab, 1539, Lime Stained Plank Vertical Slab, 
-Quark, quark:limestone, 1360, Limestone, forge:stone, quark:stone_tool_materials
-Quark, quark:limestone_bricks, 1292, Limestone Bricks, 
-Quark, quark:limestone_bricks_slab, 1293, Limestone Brick Slab, minecraft:slabs
-Quark, quark:limestone_bricks_stairs, 1294, Limestone Brick Stairs, minecraft:stairs
-Quark, quark:limestone_bricks_vertical_slab, 1565, Limestone Brick Vertical Slab, 
-Quark, quark:limestone_bricks_wall, 1295, Limestone Brick Wall, minecraft:walls
-Quark, quark:limestone_pavement, 1297, Limestone Pavement, 
-Quark, quark:limestone_pillar, 1298, Limestone Pillar, 
-Quark, quark:limestone_slab, 1362, Limestone Slab, minecraft:slabs
+Quark, quark:jasper_wall, 1407, Jasper Wall, minecraft:walls
+Quark, quark:jungle_bookshelf, 913, Jungle Bookshelf, forge:bookshelves
+Quark, quark:jungle_chest, 1044, Jungle Chest, forge:chests, forge:chests/wooden
+Quark, quark:jungle_ladder, 1111, Jungle Ladder, quark:ladders
+Quark, quark:jungle_leaf_carpet, 1258, Jungle Leaf Carpet, 
+Quark, quark:jungle_trapped_chest, 1062, Jungle Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:jungle_vertical_slab, 1482, Jungle Vertical Slab, 
+Quark, quark:lavender_blossom_leaf_carpet, 1584, Serene Blossom Leaf Carpet, 
+Quark, quark:lavender_blossom_leaves, 1426, Serene Blossom Leaves, minecraft:leaves
+Quark, quark:lavender_blossom_sapling, 1427, Serene Blossom Sapling, minecraft:saplings
+Quark, quark:light_blue_candle, 1235, Light Blue Candle, quark:candles
+Quark, quark:light_blue_item_frame, 1371, Light Blue Item Frame, 
+Quark, quark:light_blue_quilted_wool, 1457, Light Blue Quilted Wool, quark:quilted_wools
+Quark, quark:light_blue_rune, 1353, Light Blue Rune, quark:runes, quark:runes_lootable
+Quark, quark:light_blue_shard, 1125, Light Blue Glass Shard, quark:shards
+Quark, quark:light_blue_shingles, 928, Light Blue Shingles, 
+Quark, quark:light_blue_shingles_slab, 929, Light Blue Shingles Slab, minecraft:slabs
+Quark, quark:light_blue_shingles_stairs, 930, Light Blue Shingles Stairs, minecraft:stairs
+Quark, quark:light_blue_shingles_vertical_slab, 1507, Light Blue Shingles Vertical Slab, 
+Quark, quark:light_blue_stained_planks, 976, Light Blue Stained Planks, minecraft:planks
+Quark, quark:light_blue_stained_planks_slab, 977, Light Blue Stained Plank Slab, minecraft:slabs
+Quark, quark:light_blue_stained_planks_stairs, 978, Light Blue Stained Plank Stairs, minecraft:stairs
+Quark, quark:light_blue_stained_planks_vertical_slab, 1523, Light Blue Stained Plank Vertical Slab, 
+Quark, quark:light_gray_candle, 1240, Light Gray Candle, quark:candles
+Quark, quark:light_gray_item_frame, 1376, Light Gray Item Frame, 
+Quark, quark:light_gray_quilted_wool, 1462, Light Gray Quilted Wool, quark:quilted_wools
+Quark, quark:light_gray_rune, 1358, Light Gray Rune, quark:runes, quark:runes_lootable
+Quark, quark:light_gray_shard, 1130, Light Gray Glass Shard, quark:shards
+Quark, quark:light_gray_shingles, 943, Light Gray Shingles, 
+Quark, quark:light_gray_shingles_slab, 944, Light Gray Shingles Slab, minecraft:slabs
+Quark, quark:light_gray_shingles_stairs, 945, Light Gray Shingles Stairs, minecraft:stairs
+Quark, quark:light_gray_shingles_vertical_slab, 1512, Light Gray Shingles Vertical Slab, 
+Quark, quark:light_gray_stained_planks, 991, Light Gray Stained Planks, minecraft:planks
+Quark, quark:light_gray_stained_planks_slab, 992, Light Gray Stained Plank Slab, minecraft:slabs
+Quark, quark:light_gray_stained_planks_stairs, 993, Light Gray Stained Plank Stairs, minecraft:stairs
+Quark, quark:light_gray_stained_planks_vertical_slab, 1528, Light Gray Stained Plank Vertical Slab, 
+Quark, quark:lime_candle, 1237, Lime Candle, quark:candles
+Quark, quark:lime_item_frame, 1373, Lime Item Frame, 
+Quark, quark:lime_quilted_wool, 1459, Lime Quilted Wool, quark:quilted_wools
+Quark, quark:lime_rune, 1355, Lime Rune, quark:runes, quark:runes_lootable
+Quark, quark:lime_shard, 1127, Lime Glass Shard, quark:shards
+Quark, quark:lime_shingles, 934, Lime Shingles, 
+Quark, quark:lime_shingles_slab, 935, Lime Shingles Slab, minecraft:slabs
+Quark, quark:lime_shingles_stairs, 936, Lime Shingles Stairs, minecraft:stairs
+Quark, quark:lime_shingles_vertical_slab, 1509, Lime Shingles Vertical Slab, 
+Quark, quark:lime_stained_planks, 982, Lime Stained Planks, minecraft:planks
+Quark, quark:lime_stained_planks_slab, 983, Lime Stained Plank Slab, minecraft:slabs
+Quark, quark:lime_stained_planks_stairs, 984, Lime Stained Plank Stairs, minecraft:stairs
+Quark, quark:lime_stained_planks_vertical_slab, 1525, Lime Stained Plank Vertical Slab, 
+Quark, quark:limestone, 1396, Limestone, forge:stone, quark:stone_tool_materials
+Quark, quark:limestone_bricks, 1175, Limestone Bricks, 
+Quark, quark:limestone_bricks_slab, 1176, Limestone Brick Slab, minecraft:slabs
+Quark, quark:limestone_bricks_stairs, 1177, Limestone Brick Stairs, minecraft:stairs
+Quark, quark:limestone_bricks_vertical_slab, 1549, Limestone Brick Vertical Slab, 
+Quark, quark:limestone_bricks_wall, 1178, Limestone Brick Wall, minecraft:walls
+Quark, quark:limestone_pavement, 1180, Limestone Pavement, 
+Quark, quark:limestone_pillar, 1181, Limestone Pillar, 
+Quark, quark:limestone_slab, 1398, Limestone Slab, minecraft:slabs
 Quark, quark:limestone_speleothem, 1593, Limestone Speleothem, 
-Quark, quark:limestone_stairs, 1363, Limestone Stairs, minecraft:stairs
+Quark, quark:limestone_stairs, 1399, Limestone Stairs, minecraft:stairs
 Quark, quark:limestone_vertical_slab, 1574, Limestone Vertical Slab, 
-Quark, quark:limestone_wall, 1364, Limestone Wall, minecraft:walls
-Quark, quark:lit_lamp, 1415, Lit Redstone Lamp, 
-Quark, quark:magenta_candle, 1323, Magenta Candle, quark:candles
-Quark, quark:magenta_item_frame, 982, Magenta Item Frame, 
-Quark, quark:magenta_quilted_wool, 1439, Magenta Quilted Wool, quark:quilted_wools
-Quark, quark:magenta_rune, 1455, Magenta Rune, quark:runes, quark:runes_lootable
-Quark, quark:magenta_shard, 955, Magenta Glass Shard, quark:shards
-Quark, quark:magenta_shingles, 1009, Magenta Shingles, 
-Quark, quark:magenta_shingles_slab, 1010, Magenta Shingles Slab, minecraft:slabs
-Quark, quark:magenta_shingles_stairs, 1011, Magenta Shingles Stairs, minecraft:stairs
-Quark, quark:magenta_shingles_vertical_slab, 1512, Magenta Shingles Vertical Slab, 
-Quark, quark:magenta_slime_block, 915, Magenta Slime Block, quark:slime_blocks
-Quark, quark:magenta_stained_planks, 1166, Magenta Stained Planks, minecraft:planks
-Quark, quark:magenta_stained_planks_slab, 1167, Magenta Stained Plank Slab, minecraft:slabs
-Quark, quark:magenta_stained_planks_stairs, 1168, Magenta Stained Plank Stairs, minecraft:stairs
-Quark, quark:magenta_stained_planks_vertical_slab, 1536, Magenta Stained Plank Vertical Slab, 
-Quark, quark:magma_bricks, 1244, Magma Bricks, 
-Quark, quark:magma_bricks_slab, 1245, Magma Brick Slab, minecraft:slabs
-Quark, quark:magma_bricks_stairs, 1246, Magma Brick Stairs, minecraft:stairs
-Quark, quark:magma_bricks_vertical_slab, 1556, Magma Brick Vertical Slab, 
-Quark, quark:magma_bricks_wall, 1247, Magma Brick Wall, minecraft:walls
-Quark, quark:maple_chest, 1063, Maple Chest, forge:chests, forge:chests/wooden
-Quark, quark:maple_trapped_chest, 1081, Maple Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:marble, 1353, Marble, forge:stone, quark:stone_tool_materials
-Quark, quark:marble_bricks, 1285, Marble Bricks, 
-Quark, quark:marble_bricks_slab, 1286, Marble Brick Slab, minecraft:slabs
-Quark, quark:marble_bricks_stairs, 1287, Marble Brick Stairs, minecraft:stairs
-Quark, quark:marble_bricks_vertical_slab, 1564, Marble Brick Vertical Slab, 
-Quark, quark:marble_bricks_wall, 1288, Marble Brick Wall, minecraft:walls
-Quark, quark:marble_pavement, 1290, Marble Pavement, 
-Quark, quark:marble_pillar, 1291, Marble Pillar, 
-Quark, quark:marble_slab, 1355, Marble Slab, minecraft:slabs
+Quark, quark:limestone_wall, 1400, Limestone Wall, minecraft:walls
+Quark, quark:lit_lamp, 1117, Lit Redstone Lamp, 
+Quark, quark:magenta_candle, 1234, Magenta Candle, quark:candles
+Quark, quark:magenta_item_frame, 1370, Magenta Item Frame, 
+Quark, quark:magenta_quilted_wool, 1456, Magenta Quilted Wool, quark:quilted_wools
+Quark, quark:magenta_rune, 1352, Magenta Rune, quark:runes, quark:runes_lootable
+Quark, quark:magenta_shard, 1124, Magenta Glass Shard, quark:shards
+Quark, quark:magenta_shingles, 925, Magenta Shingles, 
+Quark, quark:magenta_shingles_slab, 926, Magenta Shingles Slab, minecraft:slabs
+Quark, quark:magenta_shingles_stairs, 927, Magenta Shingles Stairs, minecraft:stairs
+Quark, quark:magenta_shingles_vertical_slab, 1506, Magenta Shingles Vertical Slab, 
+Quark, quark:magenta_slime_block, 1387, Magenta Slime Block, quark:slime_blocks
+Quark, quark:magenta_stained_planks, 973, Magenta Stained Planks, minecraft:planks
+Quark, quark:magenta_stained_planks_slab, 974, Magenta Stained Plank Slab, minecraft:slabs
+Quark, quark:magenta_stained_planks_stairs, 975, Magenta Stained Plank Stairs, minecraft:stairs
+Quark, quark:magenta_stained_planks_vertical_slab, 1522, Magenta Stained Plank Vertical Slab, 
+Quark, quark:magma_bricks, 1291, Magma Bricks, 
+Quark, quark:magma_bricks_slab, 1292, Magma Brick Slab, minecraft:slabs
+Quark, quark:magma_bricks_stairs, 1293, Magma Brick Stairs, minecraft:stairs
+Quark, quark:magma_bricks_vertical_slab, 1566, Magma Brick Vertical Slab, 
+Quark, quark:magma_bricks_wall, 1294, Magma Brick Wall, minecraft:walls
+Quark, quark:maple_chest, 1053, Maple Chest, forge:chests, forge:chests/wooden
+Quark, quark:maple_trapped_chest, 1071, Maple Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:marble, 1389, Marble, forge:stone, quark:stone_tool_materials
+Quark, quark:marble_bricks, 1168, Marble Bricks, 
+Quark, quark:marble_bricks_slab, 1169, Marble Brick Slab, minecraft:slabs
+Quark, quark:marble_bricks_stairs, 1170, Marble Brick Stairs, minecraft:stairs
+Quark, quark:marble_bricks_vertical_slab, 1548, Marble Brick Vertical Slab, 
+Quark, quark:marble_bricks_wall, 1171, Marble Brick Wall, minecraft:walls
+Quark, quark:marble_pavement, 1173, Marble Pavement, 
+Quark, quark:marble_pillar, 1174, Marble Pillar, 
+Quark, quark:marble_slab, 1391, Marble Slab, minecraft:slabs
 Quark, quark:marble_speleothem, 1592, Marble Speleothem, 
-Quark, quark:marble_stairs, 1356, Marble Stairs, minecraft:stairs
+Quark, quark:marble_stairs, 1392, Marble Stairs, minecraft:stairs
 Quark, quark:marble_vertical_slab, 1572, Marble Vertical Slab, 
-Quark, quark:marble_wall, 1357, Marble Wall, minecraft:walls
-Quark, quark:midori_block, 997, Midori Block, 
-Quark, quark:midori_block_slab, 998, Midori Slab, minecraft:slabs
-Quark, quark:midori_block_stairs, 999, Midori Stairs, minecraft:stairs
-Quark, quark:midori_block_vertical_slab, 1509, Midori Vertical Slab, 
-Quark, quark:midori_pillar, 1000, Midori Pillar, 
-Quark, quark:monster_box, 1391, Monster Box, 
-Quark, quark:mossy_cobblestone_bricks, 1259, Mossy Cobblestone Bricks, 
-Quark, quark:mossy_cobblestone_bricks_slab, 1260, Mossy Cobblestone Brick Slab, minecraft:slabs
-Quark, quark:mossy_cobblestone_bricks_stairs, 1261, Mossy Cobblestone Brick Stairs, minecraft:stairs
-Quark, quark:mossy_cobblestone_bricks_vertical_slab, 1560, Mossy Cobblestone Brick Vertical Slab, 
-Quark, quark:mossy_cobblestone_bricks_wall, 1262, Mossy Cobblestone Brick Wall, minecraft:walls
-Quark, quark:mossy_cobblestone_vertical_slab, 1488, Mossy Cobblestone Vertical Slab, 
-Quark, quark:mossy_stone_brick_vertical_slab, 1489, Mossy Stone Brick Vertical Slab, 
-Quark, quark:mushroom_chest, 1068, Mushroom Chest, 
-Quark, quark:mushroom_trapped_chest, 1086, Mushroom Trapped Chest, forge:chests, forge:chests/trapped
-Quark, quark:nether_brick_chest, 1065, Nether Brick Chest, 
-Quark, quark:nether_brick_fence_gate, 1142, Nether Brick Fence Gate, forge:fence_gates
-Quark, quark:nether_brick_trapped_chest, 1083, Nether Brick Trapped Chest, forge:chests, forge:chests/trapped
-Quark, quark:nether_brick_vertical_slab, 1490, Nether Brick Vertical Slab, 
-Quark, quark:nether_wart_sack, 941, Nether Wart Sack, 
+Quark, quark:marble_wall, 1393, Marble Wall, minecraft:walls
+Quark, quark:midori_block, 1094, Midori Block, 
+Quark, quark:midori_block_slab, 1095, Midori Slab, minecraft:slabs
+Quark, quark:midori_block_stairs, 1096, Midori Stairs, minecraft:stairs
+Quark, quark:midori_block_vertical_slab, 1540, Midori Vertical Slab, 
+Quark, quark:midori_pillar, 1097, Midori Pillar, 
+Quark, quark:monster_box, 916, Monster Box, 
+Quark, quark:mossy_cobblestone_bricks, 1019, Mossy Cobblestone Bricks, 
+Quark, quark:mossy_cobblestone_bricks_slab, 1020, Mossy Cobblestone Brick Slab, minecraft:slabs
+Quark, quark:mossy_cobblestone_bricks_stairs, 1021, Mossy Cobblestone Brick Stairs, minecraft:stairs
+Quark, quark:mossy_cobblestone_bricks_vertical_slab, 1537, Mossy Cobblestone Brick Vertical Slab, 
+Quark, quark:mossy_cobblestone_bricks_wall, 1022, Mossy Cobblestone Brick Wall, minecraft:walls
+Quark, quark:mossy_cobblestone_vertical_slab, 1483, Mossy Cobblestone Vertical Slab, 
+Quark, quark:mossy_stone_brick_vertical_slab, 1484, Mossy Stone Brick Vertical Slab, 
+Quark, quark:mushroom_chest, 1058, Mushroom Chest, 
+Quark, quark:mushroom_trapped_chest, 1076, Mushroom Trapped Chest, forge:chests, forge:chests/trapped
+Quark, quark:nether_brick_chest, 1055, Nether Brick Chest, 
+Quark, quark:nether_brick_fence_gate, 1261, Nether Brick Fence Gate, forge:fence_gates
+Quark, quark:nether_brick_trapped_chest, 1073, Nether Brick Trapped Chest, forge:chests, forge:chests/trapped
+Quark, quark:nether_brick_vertical_slab, 1485, Nether Brick Vertical Slab, 
+Quark, quark:nether_wart_sack, 1448, Nether Wart Sack, 
 Quark, quark:netherrack_speleothem, 1588, Netherrack Speleothem, 
-Quark, quark:oak_chest, 1051, Oak Chest, forge:chests, forge:chests/wooden
-Quark, quark:oak_leaf_carpet, 973, Oak Leaf Carpet, 
-Quark, quark:oak_trapped_chest, 1069, Oak Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:oak_vertical_slab, 1491, Oak Vertical Slab, 
-Quark, quark:obsidian_pressure_plate, 1145, Obsidian Pressure Plate, 
-Quark, quark:orange_blossom_leaf_carpet, 1473, Warm Blossom Leaf Carpet, 
-Quark, quark:orange_blossom_leaves, 1214, Warm Blossom Leaves, minecraft:leaves
-Quark, quark:orange_blossom_sapling, 1215, Warm Blossom Sapling, minecraft:saplings
-Quark, quark:orange_candle, 1322, Orange Candle, quark:candles
-Quark, quark:orange_crystal, 1393, Orange Cave Crystal, quark:crystal
-Quark, quark:orange_crystal_pane, 1402, Orange Crystal Sheet, 
-Quark, quark:orange_item_frame, 981, Orange Item Frame, 
-Quark, quark:orange_quilted_wool, 1438, Orange Quilted Wool, quark:quilted_wools
-Quark, quark:orange_rune, 1454, Orange Rune, quark:runes, quark:runes_lootable
-Quark, quark:orange_shard, 954, Orange Glass Shard, quark:shards
-Quark, quark:orange_shingles, 1006, Orange Shingles, 
-Quark, quark:orange_shingles_slab, 1007, Orange Shingles Slab, minecraft:slabs
-Quark, quark:orange_shingles_stairs, 1008, Orange Shingles Stairs, minecraft:stairs
-Quark, quark:orange_shingles_vertical_slab, 1511, Orange Shingles Vertical Slab, 
-Quark, quark:orange_stained_planks, 1163, Orange Stained Planks, minecraft:planks
-Quark, quark:orange_stained_planks_slab, 1164, Orange Stained Plank Slab, minecraft:slabs
-Quark, quark:orange_stained_planks_stairs, 1165, Orange Stained Plank Stairs, minecraft:stairs
-Quark, quark:orange_stained_planks_vertical_slab, 1535, Orange Stained Plank Vertical Slab, 
-Quark, quark:paper_lantern, 1087, Paper Lantern, 
-Quark, quark:paper_lantern_sakura, 1088, Decorated Paper Lantern, 
-Quark, quark:paper_wall, 1089, Paper Wall, minecraft:walls
-Quark, quark:paper_wall_big, 1090, Big Paper Wall, minecraft:walls
-Quark, quark:paper_wall_sakura, 1091, Decorated Paper Wall, minecraft:walls
-Quark, quark:permafrost, 1115, Permafrost, forge:stone, quark:stone_tool_materials
-Quark, quark:permafrost_bricks, 1119, Permafrost Bricks, 
-Quark, quark:permafrost_bricks_slab, 1120, Permafrost Brick Slab, minecraft:slabs
-Quark, quark:permafrost_bricks_stairs, 1121, Permafrost Brick Stairs, minecraft:stairs
-Quark, quark:permafrost_bricks_vertical_slab, 1527, Permafrost Brick Vertical Slab, 
-Quark, quark:permafrost_bricks_wall, 1122, Permafrost Brick Wall, minecraft:walls
-Quark, quark:permafrost_slab, 1116, Permafrost Slab, minecraft:slabs
-Quark, quark:permafrost_stairs, 1117, Permafrost Stairs, minecraft:stairs
-Quark, quark:permafrost_vertical_slab, 1526, Permafrost Vertical Slab, 
-Quark, quark:permafrost_wall, 1118, Permafrost Wall, minecraft:walls
-Quark, quark:pickarang, 1248, Pickarang, 
-Quark, quark:pink_blossom_leaf_carpet, 1471, Sweet Blossom Leaf Carpet, 
-Quark, quark:pink_blossom_leaves, 1216, Sweet Blossom Leaves, minecraft:leaves
-Quark, quark:pink_blossom_sapling, 1217, Sweet Blossom Sapling, minecraft:saplings
-Quark, quark:pink_candle, 1327, Pink Candle, quark:candles
-Quark, quark:pink_item_frame, 986, Pink Item Frame, 
-Quark, quark:pink_quilted_wool, 1443, Pink Quilted Wool, quark:quilted_wools
-Quark, quark:pink_rune, 1459, Pink Rune, quark:runes, quark:runes_lootable
-Quark, quark:pink_shard, 959, Pink Glass Shard, quark:shards
-Quark, quark:pink_shingles, 1021, Pink Shingles, 
-Quark, quark:pink_shingles_slab, 1022, Pink Shingles Slab, minecraft:slabs
-Quark, quark:pink_shingles_stairs, 1023, Pink Shingles Stairs, minecraft:stairs
-Quark, quark:pink_shingles_vertical_slab, 1516, Pink Shingles Vertical Slab, 
-Quark, quark:pink_stained_planks, 1178, Pink Stained Planks, minecraft:planks
-Quark, quark:pink_stained_planks_slab, 1179, Pink Stained Plank Slab, minecraft:slabs
-Quark, quark:pink_stained_planks_stairs, 1180, Pink Stained Plank Stairs, minecraft:stairs
-Quark, quark:pink_stained_planks_vertical_slab, 1540, Pink Stained Plank Vertical Slab, 
-Quark, quark:poise_chest, 1059, Poise Chest, forge:chests, forge:chests/wooden
-Quark, quark:poise_trapped_chest, 1077, Poise Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:polished_andesite_vertical_slab, 1492, Polished Andesite Vertical Slab, 
-Quark, quark:polished_basalt, 1382, Polished Basalt, forge:stone, quark:stone_tool_materials
-Quark, quark:polished_basalt_slab, 1386, Polished Basalt Slab, minecraft:slabs
-Quark, quark:polished_basalt_stairs, 1387, Polished Basalt Stairs, minecraft:stairs
+Quark, quark:oak_chest, 1041, Oak Chest, forge:chests, forge:chests/wooden
+Quark, quark:oak_leaf_carpet, 1255, Oak Leaf Carpet, 
+Quark, quark:oak_trapped_chest, 1059, Oak Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:oak_vertical_slab, 1486, Oak Vertical Slab, 
+Quark, quark:obsidian_pressure_plate, 1299, Obsidian Pressure Plate, 
+Quark, quark:orange_blossom_leaf_carpet, 1586, Warm Blossom Leaf Carpet, 
+Quark, quark:orange_blossom_leaves, 1428, Warm Blossom Leaves, minecraft:leaves
+Quark, quark:orange_blossom_sapling, 1429, Warm Blossom Sapling, minecraft:saplings
+Quark, quark:orange_candle, 1233, Orange Candle, quark:candles
+Quark, quark:orange_crystal, 1024, Orange Cave Crystal, quark:crystal
+Quark, quark:orange_crystal_pane, 1033, Orange Crystal Sheet, 
+Quark, quark:orange_item_frame, 1369, Orange Item Frame, 
+Quark, quark:orange_quilted_wool, 1455, Orange Quilted Wool, quark:quilted_wools
+Quark, quark:orange_rune, 1351, Orange Rune, quark:runes, quark:runes_lootable
+Quark, quark:orange_shard, 1123, Orange Glass Shard, quark:shards
+Quark, quark:orange_shingles, 922, Orange Shingles, 
+Quark, quark:orange_shingles_slab, 923, Orange Shingles Slab, minecraft:slabs
+Quark, quark:orange_shingles_stairs, 924, Orange Shingles Stairs, minecraft:stairs
+Quark, quark:orange_shingles_vertical_slab, 1505, Orange Shingles Vertical Slab, 
+Quark, quark:orange_stained_planks, 970, Orange Stained Planks, minecraft:planks
+Quark, quark:orange_stained_planks_slab, 971, Orange Stained Plank Slab, minecraft:slabs
+Quark, quark:orange_stained_planks_stairs, 972, Orange Stained Plank Stairs, minecraft:stairs
+Quark, quark:orange_stained_planks_vertical_slab, 1521, Orange Stained Plank Vertical Slab, 
+Quark, quark:paper_lantern, 1262, Paper Lantern, 
+Quark, quark:paper_lantern_sakura, 1263, Decorated Paper Lantern, 
+Quark, quark:paper_wall, 1264, Paper Wall, minecraft:walls
+Quark, quark:paper_wall_big, 1265, Big Paper Wall, minecraft:walls
+Quark, quark:paper_wall_sakura, 1266, Decorated Paper Wall, minecraft:walls
+Quark, quark:permafrost, 1325, Permafrost, forge:stone, quark:stone_tool_materials
+Quark, quark:permafrost_bricks, 1329, Permafrost Bricks, 
+Quark, quark:permafrost_bricks_slab, 1330, Permafrost Brick Slab, minecraft:slabs
+Quark, quark:permafrost_bricks_stairs, 1331, Permafrost Brick Stairs, minecraft:stairs
+Quark, quark:permafrost_bricks_vertical_slab, 1568, Permafrost Brick Vertical Slab, 
+Quark, quark:permafrost_bricks_wall, 1332, Permafrost Brick Wall, minecraft:walls
+Quark, quark:permafrost_slab, 1326, Permafrost Slab, minecraft:slabs
+Quark, quark:permafrost_stairs, 1327, Permafrost Stairs, minecraft:stairs
+Quark, quark:permafrost_vertical_slab, 1567, Permafrost Vertical Slab, 
+Quark, quark:permafrost_wall, 1328, Permafrost Wall, minecraft:walls
+Quark, quark:pickarang, 1335, Pickarang, 
+Quark, quark:pink_blossom_leaf_carpet, 1585, Sweet Blossom Leaf Carpet, 
+Quark, quark:pink_blossom_leaves, 1430, Sweet Blossom Leaves, minecraft:leaves
+Quark, quark:pink_blossom_sapling, 1431, Sweet Blossom Sapling, minecraft:saplings
+Quark, quark:pink_candle, 1238, Pink Candle, quark:candles
+Quark, quark:pink_item_frame, 1374, Pink Item Frame, 
+Quark, quark:pink_quilted_wool, 1460, Pink Quilted Wool, quark:quilted_wools
+Quark, quark:pink_rune, 1356, Pink Rune, quark:runes, quark:runes_lootable
+Quark, quark:pink_shard, 1128, Pink Glass Shard, quark:shards
+Quark, quark:pink_shingles, 937, Pink Shingles, 
+Quark, quark:pink_shingles_slab, 938, Pink Shingles Slab, minecraft:slabs
+Quark, quark:pink_shingles_stairs, 939, Pink Shingles Stairs, minecraft:stairs
+Quark, quark:pink_shingles_vertical_slab, 1510, Pink Shingles Vertical Slab, 
+Quark, quark:pink_stained_planks, 985, Pink Stained Planks, minecraft:planks
+Quark, quark:pink_stained_planks_slab, 986, Pink Stained Plank Slab, minecraft:slabs
+Quark, quark:pink_stained_planks_stairs, 987, Pink Stained Plank Stairs, minecraft:stairs
+Quark, quark:pink_stained_planks_vertical_slab, 1526, Pink Stained Plank Vertical Slab, 
+Quark, quark:poise_chest, 1049, Poise Chest, forge:chests, forge:chests/wooden
+Quark, quark:poise_trapped_chest, 1067, Poise Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:polished_andesite_vertical_slab, 1487, Polished Andesite Vertical Slab, 
+Quark, quark:polished_basalt, 1418, Polished Basalt, forge:stone, quark:stone_tool_materials
+Quark, quark:polished_basalt_slab, 1422, Polished Basalt Slab, minecraft:slabs
+Quark, quark:polished_basalt_stairs, 1423, Polished Basalt Stairs, minecraft:stairs
 Quark, quark:polished_basalt_vertical_slab, 1581, Polished Basalt Vertical Slab, 
-Quark, quark:polished_diorite_vertical_slab, 1493, Polished Diorite Vertical Slab, 
-Quark, quark:polished_granite_vertical_slab, 1494, Polished Granite Vertical Slab, 
-Quark, quark:polished_jasper, 1368, Polished Jasper, forge:stone, quark:stone_tool_materials
-Quark, quark:polished_jasper_slab, 1372, Polished Jasper Slab, minecraft:slabs
-Quark, quark:polished_jasper_stairs, 1373, Polished Jasper Stairs, minecraft:stairs
+Quark, quark:polished_diorite_vertical_slab, 1488, Polished Diorite Vertical Slab, 
+Quark, quark:polished_granite_vertical_slab, 1489, Polished Granite Vertical Slab, 
+Quark, quark:polished_jasper, 1404, Polished Jasper, forge:stone, quark:stone_tool_materials
+Quark, quark:polished_jasper_slab, 1408, Polished Jasper Slab, minecraft:slabs
+Quark, quark:polished_jasper_stairs, 1409, Polished Jasper Stairs, minecraft:stairs
 Quark, quark:polished_jasper_vertical_slab, 1577, Polished Jasper Vertical Slab, 
-Quark, quark:polished_limestone, 1361, Polished Limestone, forge:stone, quark:stone_tool_materials
-Quark, quark:polished_limestone_slab, 1365, Polished Limestone Slab, minecraft:slabs
-Quark, quark:polished_limestone_stairs, 1366, Polished Limestone Stairs, minecraft:stairs
+Quark, quark:polished_limestone, 1397, Polished Limestone, forge:stone, quark:stone_tool_materials
+Quark, quark:polished_limestone_slab, 1401, Polished Limestone Slab, minecraft:slabs
+Quark, quark:polished_limestone_stairs, 1402, Polished Limestone Stairs, minecraft:stairs
 Quark, quark:polished_limestone_vertical_slab, 1575, Polished Limestone Vertical Slab, 
-Quark, quark:polished_marble, 1354, Polished Marble, forge:stone, quark:stone_tool_materials
-Quark, quark:polished_marble_slab, 1358, Polished Marble Slab, minecraft:slabs
-Quark, quark:polished_marble_stairs, 1359, Polished Marble Stairs, minecraft:stairs
+Quark, quark:polished_marble, 1390, Polished Marble, forge:stone, quark:stone_tool_materials
+Quark, quark:polished_marble_slab, 1394, Polished Marble Slab, minecraft:slabs
+Quark, quark:polished_marble_stairs, 1395, Polished Marble Stairs, minecraft:stairs
 Quark, quark:polished_marble_vertical_slab, 1573, Polished Marble Vertical Slab, 
-Quark, quark:polished_slate, 1375, Polished Slate, forge:stone, quark:stone_tool_materials
-Quark, quark:polished_slate_slab, 1379, Polished Slate Slab, minecraft:slabs
-Quark, quark:polished_slate_stairs, 1380, Polished Slate Stairs, minecraft:stairs
+Quark, quark:polished_slate, 1411, Polished Slate, forge:stone, quark:stone_tool_materials
+Quark, quark:polished_slate_slab, 1415, Polished Slate Slab, minecraft:slabs
+Quark, quark:polished_slate_stairs, 1416, Polished Slate Stairs, minecraft:stairs
 Quark, quark:polished_slate_vertical_slab, 1579, Polished Slate Vertical Slab, 
-Quark, quark:potato_crate, 937, Potato Crate, 
-Quark, quark:prismarine_brick_vertical_slab, 1496, Prismarine Brick Vertical Slab, 
-Quark, quark:prismarine_chest, 1067, Prismarine Chest, 
-Quark, quark:prismarine_trapped_chest, 1085, Prismarine Trapped Chest, forge:chests, forge:chests/trapped
-Quark, quark:prismarine_vertical_slab, 1495, Prismarine Vertical Slab, 
-Quark, quark:purple_candle, 1331, Purple Candle, quark:candles
-Quark, quark:purple_item_frame, 990, Purple Item Frame, 
-Quark, quark:purple_quilted_wool, 1447, Purple Quilted Wool, quark:quilted_wools
-Quark, quark:purple_rune, 1463, Purple Rune, quark:runes, quark:runes_lootable
-Quark, quark:purple_shard, 963, Purple Glass Shard, quark:shards
-Quark, quark:purple_shingles, 1033, Purple Shingles, 
-Quark, quark:purple_shingles_slab, 1034, Purple Shingles Slab, minecraft:slabs
-Quark, quark:purple_shingles_stairs, 1035, Purple Shingles Stairs, minecraft:stairs
-Quark, quark:purple_shingles_vertical_slab, 1520, Purple Shingles Vertical Slab, 
-Quark, quark:purple_stained_planks, 1190, Purple Stained Planks, minecraft:planks
-Quark, quark:purple_stained_planks_slab, 1191, Purple Stained Plank Slab, minecraft:slabs
-Quark, quark:purple_stained_planks_stairs, 1192, Purple Stained Plank Stairs, minecraft:stairs
-Quark, quark:purple_stained_planks_vertical_slab, 1544, Purple Stained Plank Vertical Slab, 
-Quark, quark:purpur_chest, 1066, Purpur Chest, 
-Quark, quark:purpur_trapped_chest, 1084, Purpur Trapped Chest, forge:chests, forge:chests/trapped
-Quark, quark:purpur_vertical_slab, 1497, Purpur Vertical Slab, 
-Quark, quark:quartz_vertical_slab, 1498, Quartz Vertical Slab, 
-Quark, quark:rainbow_rune, 1469, Rainbow Rune, quark:runes
-Quark, quark:red_candle, 1335, Red Candle, quark:candles
-Quark, quark:red_crystal, 1392, Red Cave Crystal, quark:crystal
-Quark, quark:red_crystal_pane, 1401, Red Crystal Sheet, 
-Quark, quark:red_item_frame, 994, Red Item Frame, 
-Quark, quark:red_nether_brick_vertical_slab, 1499, Red Nether Brick Vertical Slab, 
-Quark, quark:red_quilted_wool, 1451, Red Quilted Wool, quark:quilted_wools
-Quark, quark:red_rune, 1467, Red Rune, quark:runes, quark:runes_lootable
-Quark, quark:red_sandstone_bricks, 1236, Red Sandstone Bricks, 
-Quark, quark:red_sandstone_bricks_slab, 1237, Red Sandstone Brick Slab, minecraft:slabs
-Quark, quark:red_sandstone_bricks_stairs, 1238, Red Sandstone Brick Stairs, minecraft:stairs
-Quark, quark:red_sandstone_bricks_vertical_slab, 1554, Red Sandstone Brick Vertical Slab, 
-Quark, quark:red_sandstone_bricks_wall, 1239, Red Sandstone Brick Wall, minecraft:walls
-Quark, quark:red_sandstone_vertical_slab, 1500, Red Sandstone Vertical Slab, 
-Quark, quark:red_shard, 967, Red Glass Shard, quark:shards
-Quark, quark:red_shingles, 1045, Red Shingles, 
-Quark, quark:red_shingles_slab, 1046, Red Shingles Slab, minecraft:slabs
-Quark, quark:red_shingles_stairs, 1047, Red Shingles Stairs, minecraft:stairs
-Quark, quark:red_shingles_vertical_slab, 1524, Red Shingles Vertical Slab, 
-Quark, quark:red_slime_block, 912, Red Slime Block, quark:slime_blocks
-Quark, quark:red_stained_planks, 1202, Red Stained Planks, minecraft:planks
-Quark, quark:red_stained_planks_slab, 1203, Red Stained Plank Slab, minecraft:slabs
-Quark, quark:red_stained_planks_stairs, 1204, Red Stained Plank Stairs, minecraft:stairs
-Quark, quark:red_stained_planks_vertical_slab, 1548, Red Stained Plank Vertical Slab, 
-Quark, quark:redstone_inductor, 1351, Redstone Inductor, 
-Quark, quark:redstone_randomizer, 1350, Redstone Randomizer, 
-Quark, quark:root, 1338, Cave Roots, 
-Quark, quark:root_item, 1339, Cave Root, 
-Quark, quark:rope, 1422, Rope Coil, 
-Quark, quark:rosewood_chest, 1064, Rosewood Chest, forge:chests, forge:chests/wooden
-Quark, quark:rosewood_trapped_chest, 1082, Rosewood Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:rusty_iron_plate, 1252, Rusty Iron Plate, 
-Quark, quark:rusty_iron_plate_slab, 1253, Rusty Iron Plate Slab, minecraft:slabs
-Quark, quark:rusty_iron_plate_stairs, 1254, Rusty Iron Plate Stairs, minecraft:stairs
-Quark, quark:rusty_iron_plate_vertical_slab, 1558, Rusty Iron Plate Vertical Slab, 
-Quark, quark:sandstone_bricks, 1232, Sandstone Bricks, 
-Quark, quark:sandstone_bricks_slab, 1233, Sandstone Brick Slab, minecraft:slabs
-Quark, quark:sandstone_bricks_stairs, 1234, Sandstone Brick Stairs, minecraft:stairs
-Quark, quark:sandstone_bricks_vertical_slab, 1553, Sandstone Brick Vertical Slab, 
-Quark, quark:sandstone_bricks_wall, 1235, Sandstone Brick Wall, minecraft:walls
-Quark, quark:sandstone_vertical_slab, 1501, Sandstone Vertical Slab, 
-Quark, quark:sandy_bricks, 1220, Sandy Bricks, 
-Quark, quark:sandy_bricks_slab, 1221, Sandy Brick Slab, minecraft:slabs
-Quark, quark:sandy_bricks_stairs, 1222, Sandy Brick Stairs, minecraft:stairs
-Quark, quark:sandy_bricks_vertical_slab, 1550, Sandy Brick Vertical Slab, 
-Quark, quark:sandy_bricks_wall, 1223, Sandy Brick Wall, minecraft:walls
-Quark, quark:slate, 1374, Slate, forge:stone, quark:stone_tool_materials
-Quark, quark:slate_bricks, 1306, Slate Bricks, 
-Quark, quark:slate_bricks_slab, 1307, Slate Brick Slab, minecraft:slabs
-Quark, quark:slate_bricks_stairs, 1308, Slate Brick Stairs, minecraft:stairs
-Quark, quark:slate_bricks_vertical_slab, 1567, Slate Brick Vertical Slab, 
-Quark, quark:slate_bricks_wall, 1309, Slate Brick Wall, minecraft:walls
-Quark, quark:slate_pavement, 1311, Slate Pavement, 
-Quark, quark:slate_pillar, 1312, Slate Pillar, 
-Quark, quark:slate_slab, 1376, Slate Slab, minecraft:slabs
+Quark, quark:potato_crate, 1444, Potato Crate, 
+Quark, quark:prismarine_brick_vertical_slab, 1491, Prismarine Brick Vertical Slab, 
+Quark, quark:prismarine_chest, 1057, Prismarine Chest, 
+Quark, quark:prismarine_trapped_chest, 1075, Prismarine Trapped Chest, forge:chests, forge:chests/trapped
+Quark, quark:prismarine_vertical_slab, 1490, Prismarine Vertical Slab, 
+Quark, quark:purple_candle, 1242, Purple Candle, quark:candles
+Quark, quark:purple_item_frame, 1378, Purple Item Frame, 
+Quark, quark:purple_quilted_wool, 1464, Purple Quilted Wool, quark:quilted_wools
+Quark, quark:purple_rune, 1360, Purple Rune, quark:runes, quark:runes_lootable
+Quark, quark:purple_shard, 1132, Purple Glass Shard, quark:shards
+Quark, quark:purple_shingles, 949, Purple Shingles, 
+Quark, quark:purple_shingles_slab, 950, Purple Shingles Slab, minecraft:slabs
+Quark, quark:purple_shingles_stairs, 951, Purple Shingles Stairs, minecraft:stairs
+Quark, quark:purple_shingles_vertical_slab, 1514, Purple Shingles Vertical Slab, 
+Quark, quark:purple_stained_planks, 997, Purple Stained Planks, minecraft:planks
+Quark, quark:purple_stained_planks_slab, 998, Purple Stained Plank Slab, minecraft:slabs
+Quark, quark:purple_stained_planks_stairs, 999, Purple Stained Plank Stairs, minecraft:stairs
+Quark, quark:purple_stained_planks_vertical_slab, 1530, Purple Stained Plank Vertical Slab, 
+Quark, quark:purpur_chest, 1056, Purpur Chest, 
+Quark, quark:purpur_trapped_chest, 1074, Purpur Trapped Chest, forge:chests, forge:chests/trapped
+Quark, quark:purpur_vertical_slab, 1492, Purpur Vertical Slab, 
+Quark, quark:quartz_vertical_slab, 1493, Quartz Vertical Slab, 
+Quark, quark:rainbow_rune, 1366, Rainbow Rune, quark:runes
+Quark, quark:red_candle, 1246, Red Candle, quark:candles
+Quark, quark:red_crystal, 1023, Red Cave Crystal, quark:crystal
+Quark, quark:red_crystal_pane, 1032, Red Crystal Sheet, 
+Quark, quark:red_item_frame, 1382, Red Item Frame, 
+Quark, quark:red_nether_brick_vertical_slab, 1494, Red Nether Brick Vertical Slab, 
+Quark, quark:red_quilted_wool, 1468, Red Quilted Wool, quark:quilted_wools
+Quark, quark:red_rune, 1364, Red Rune, quark:runes, quark:runes_lootable
+Quark, quark:red_sandstone_bricks, 1283, Red Sandstone Bricks, 
+Quark, quark:red_sandstone_bricks_slab, 1284, Red Sandstone Brick Slab, minecraft:slabs
+Quark, quark:red_sandstone_bricks_stairs, 1285, Red Sandstone Brick Stairs, minecraft:stairs
+Quark, quark:red_sandstone_bricks_vertical_slab, 1564, Red Sandstone Brick Vertical Slab, 
+Quark, quark:red_sandstone_bricks_wall, 1286, Red Sandstone Brick Wall, minecraft:walls
+Quark, quark:red_sandstone_vertical_slab, 1495, Red Sandstone Vertical Slab, 
+Quark, quark:red_shard, 1136, Red Glass Shard, quark:shards
+Quark, quark:red_shingles, 961, Red Shingles, 
+Quark, quark:red_shingles_slab, 962, Red Shingles Slab, minecraft:slabs
+Quark, quark:red_shingles_stairs, 963, Red Shingles Stairs, minecraft:stairs
+Quark, quark:red_shingles_vertical_slab, 1518, Red Shingles Vertical Slab, 
+Quark, quark:red_slime_block, 1384, Red Slime Block, quark:slime_blocks
+Quark, quark:red_stained_planks, 1009, Red Stained Planks, minecraft:planks
+Quark, quark:red_stained_planks_slab, 1010, Red Stained Plank Slab, minecraft:slabs
+Quark, quark:red_stained_planks_stairs, 1011, Red Stained Plank Stairs, minecraft:stairs
+Quark, quark:red_stained_planks_vertical_slab, 1534, Red Stained Plank Vertical Slab, 
+Quark, quark:redstone_inductor, 1116, Redstone Inductor, 
+Quark, quark:redstone_randomizer, 1115, Redstone Randomizer, 
+Quark, quark:root, 1214, Cave Roots, 
+Quark, quark:root_item, 1215, Cave Root, 
+Quark, quark:rope, 1435, Rope Coil, 
+Quark, quark:rosewood_chest, 1054, Rosewood Chest, forge:chests, forge:chests/wooden
+Quark, quark:rosewood_trapped_chest, 1072, Rosewood Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:rusty_iron_plate, 1339, Rusty Iron Plate, 
+Quark, quark:rusty_iron_plate_slab, 1340, Rusty Iron Plate Slab, minecraft:slabs
+Quark, quark:rusty_iron_plate_stairs, 1341, Rusty Iron Plate Stairs, minecraft:stairs
+Quark, quark:rusty_iron_plate_vertical_slab, 1570, Rusty Iron Plate Vertical Slab, 
+Quark, quark:sandstone_bricks, 1279, Sandstone Bricks, 
+Quark, quark:sandstone_bricks_slab, 1280, Sandstone Brick Slab, minecraft:slabs
+Quark, quark:sandstone_bricks_stairs, 1281, Sandstone Brick Stairs, minecraft:stairs
+Quark, quark:sandstone_bricks_vertical_slab, 1563, Sandstone Brick Vertical Slab, 
+Quark, quark:sandstone_bricks_wall, 1282, Sandstone Brick Wall, minecraft:walls
+Quark, quark:sandstone_vertical_slab, 1496, Sandstone Vertical Slab, 
+Quark, quark:sandy_bricks, 1267, Sandy Bricks, 
+Quark, quark:sandy_bricks_slab, 1268, Sandy Brick Slab, minecraft:slabs
+Quark, quark:sandy_bricks_stairs, 1269, Sandy Brick Stairs, minecraft:stairs
+Quark, quark:sandy_bricks_vertical_slab, 1560, Sandy Brick Vertical Slab, 
+Quark, quark:sandy_bricks_wall, 1270, Sandy Brick Wall, minecraft:walls
+Quark, quark:slate, 1410, Slate, forge:stone, quark:stone_tool_materials
+Quark, quark:slate_bricks, 1189, Slate Bricks, 
+Quark, quark:slate_bricks_slab, 1190, Slate Brick Slab, minecraft:slabs
+Quark, quark:slate_bricks_stairs, 1191, Slate Brick Stairs, minecraft:stairs
+Quark, quark:slate_bricks_vertical_slab, 1551, Slate Brick Vertical Slab, 
+Quark, quark:slate_bricks_wall, 1192, Slate Brick Wall, minecraft:walls
+Quark, quark:slate_pavement, 1194, Slate Pavement, 
+Quark, quark:slate_pillar, 1195, Slate Pillar, 
+Quark, quark:slate_slab, 1412, Slate Slab, minecraft:slabs
 Quark, quark:slate_speleothem, 1595, Slate Speleothem, 
-Quark, quark:slate_stairs, 1377, Slate Stairs, minecraft:stairs
+Quark, quark:slate_stairs, 1413, Slate Stairs, minecraft:stairs
 Quark, quark:slate_vertical_slab, 1578, Slate Vertical Slab, 
-Quark, quark:slate_wall, 1378, Slate Wall, minecraft:walls
-Quark, quark:slime_in_a_bucket, 1129, Slime in a Bucket, 
-Quark, quark:smooth_biotite, 1428, Smooth Biotite, 
-Quark, quark:smooth_biotite_slab, 1429, Smooth Biotite Slab, minecraft:slabs
-Quark, quark:smooth_biotite_stairs, 1430, Smooth Biotite Stairs, minecraft:stairs
-Quark, quark:smooth_biotite_vertical_slab, 1585, Smooth Biotite Vertical Slab, 
-Quark, quark:smooth_quartz_vertical_slab, 1502, Smooth Quartz Vertical Slab, 
-Quark, quark:smooth_red_sandstone_vertical_slab, 1503, Smooth Red Sandstone Vertical Slab, 
-Quark, quark:smooth_sandstone_vertical_slab, 1504, Smooth Sandstone Vertical Slab, 
-Quark, quark:smooth_soul_sandstone, 1347, Smooth Soul Sandstone, 
-Quark, quark:smooth_soul_sandstone_slab, 1348, Smooth Soul Sandstone Slab, minecraft:slabs
-Quark, quark:smooth_soul_sandstone_stairs, 1349, Smooth Soul Sandstone Stairs, minecraft:stairs
-Quark, quark:smooth_soul_sandstone_vertical_slab, 1571, Smooth Soul Sandstone Vertical Slab, 
-Quark, quark:smooth_stone_vertical_slab, 1505, Smooth Stone Vertical Slab, 
-Quark, quark:snow_bricks, 1224, Snow Bricks, 
-Quark, quark:snow_bricks_slab, 1225, Snow Brick Slab, minecraft:slabs
-Quark, quark:snow_bricks_stairs, 1226, Snow Brick Stairs, minecraft:stairs
-Quark, quark:snow_bricks_vertical_slab, 1551, Snow Brick Vertical Slab, 
-Quark, quark:snow_bricks_wall, 1227, Snow Brick Wall, minecraft:walls
-Quark, quark:soul_sandstone, 1340, Soul Sandstone, 
-Quark, quark:soul_sandstone_bricks, 1240, Soul Sandstone Bricks, 
-Quark, quark:soul_sandstone_bricks_slab, 1241, Soul Sandstone Brick Slab, minecraft:slabs
-Quark, quark:soul_sandstone_bricks_stairs, 1242, Soul Sandstone Brick Stairs, minecraft:stairs
-Quark, quark:soul_sandstone_bricks_vertical_slab, 1555, Soul Sandstone Brick Vertical Slab, 
-Quark, quark:soul_sandstone_bricks_wall, 1243, Soul Sandstone Brick Wall, minecraft:walls
-Quark, quark:soul_sandstone_slab, 1341, Soul Sandstone Slab, minecraft:slabs
-Quark, quark:soul_sandstone_stairs, 1342, Soul Sandstone Stairs, minecraft:stairs
-Quark, quark:soul_sandstone_vertical_slab, 1569, Soul Sandstone Vertical Slab, 
-Quark, quark:soul_sandstone_wall, 1343, Soul Sandstone Wall, minecraft:walls
-Quark, quark:spruce_bookshelf, 918, Spruce Bookshelf, forge:bookshelves
-Quark, quark:spruce_chest, 1052, Spruce Chest, forge:chests, forge:chests/wooden
-Quark, quark:spruce_ladder, 1416, Spruce Ladder, quark:ladders
-Quark, quark:spruce_leaf_carpet, 974, Spruce Leaf Carpet, 
-Quark, quark:spruce_trapped_chest, 1070, Spruce Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:spruce_vertical_slab, 1506, Spruce Vertical Slab, 
-Quark, quark:stick_block, 934, Stick Stack, 
-Quark, quark:stone_brick_vertical_slab, 1508, Stone Brick Vertical Slab, 
+Quark, quark:slate_wall, 1414, Slate Wall, minecraft:walls
+Quark, quark:slime_in_a_bucket, 1333, Slime in a Bucket, 
+Quark, quark:smooth_biotite, 1209, Smooth Biotite, 
+Quark, quark:smooth_biotite_slab, 1210, Smooth Biotite Slab, minecraft:slabs
+Quark, quark:smooth_biotite_stairs, 1211, Smooth Biotite Stairs, minecraft:stairs
+Quark, quark:smooth_biotite_vertical_slab, 1554, Smooth Biotite Vertical Slab, 
+Quark, quark:smooth_quartz_vertical_slab, 1497, Smooth Quartz Vertical Slab, 
+Quark, quark:smooth_red_sandstone_vertical_slab, 1498, Smooth Red Sandstone Vertical Slab, 
+Quark, quark:smooth_sandstone_vertical_slab, 1499, Smooth Sandstone Vertical Slab, 
+Quark, quark:smooth_soul_sandstone, 1106, Smooth Soul Sandstone, 
+Quark, quark:smooth_soul_sandstone_slab, 1107, Smooth Soul Sandstone Slab, minecraft:slabs
+Quark, quark:smooth_soul_sandstone_stairs, 1108, Smooth Soul Sandstone Stairs, minecraft:stairs
+Quark, quark:smooth_soul_sandstone_vertical_slab, 1543, Smooth Soul Sandstone Vertical Slab, 
+Quark, quark:smooth_stone_vertical_slab, 1500, Smooth Stone Vertical Slab, 
+Quark, quark:snow_bricks, 1271, Snow Bricks, 
+Quark, quark:snow_bricks_slab, 1272, Snow Brick Slab, minecraft:slabs
+Quark, quark:snow_bricks_stairs, 1273, Snow Brick Stairs, minecraft:stairs
+Quark, quark:snow_bricks_vertical_slab, 1561, Snow Brick Vertical Slab, 
+Quark, quark:snow_bricks_wall, 1274, Snow Brick Wall, minecraft:walls
+Quark, quark:soul_sandstone, 1099, Soul Sandstone, 
+Quark, quark:soul_sandstone_bricks, 1287, Soul Sandstone Bricks, 
+Quark, quark:soul_sandstone_bricks_slab, 1288, Soul Sandstone Brick Slab, minecraft:slabs
+Quark, quark:soul_sandstone_bricks_stairs, 1289, Soul Sandstone Brick Stairs, minecraft:stairs
+Quark, quark:soul_sandstone_bricks_vertical_slab, 1565, Soul Sandstone Brick Vertical Slab, 
+Quark, quark:soul_sandstone_bricks_wall, 1290, Soul Sandstone Brick Wall, minecraft:walls
+Quark, quark:soul_sandstone_slab, 1100, Soul Sandstone Slab, minecraft:slabs
+Quark, quark:soul_sandstone_stairs, 1101, Soul Sandstone Stairs, minecraft:stairs
+Quark, quark:soul_sandstone_vertical_slab, 1541, Soul Sandstone Vertical Slab, 
+Quark, quark:soul_sandstone_wall, 1102, Soul Sandstone Wall, minecraft:walls
+Quark, quark:spruce_bookshelf, 911, Spruce Bookshelf, forge:bookshelves
+Quark, quark:spruce_chest, 1042, Spruce Chest, forge:chests, forge:chests/wooden
+Quark, quark:spruce_ladder, 1109, Spruce Ladder, quark:ladders
+Quark, quark:spruce_leaf_carpet, 1256, Spruce Leaf Carpet, 
+Quark, quark:spruce_trapped_chest, 1060, Spruce Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:spruce_vertical_slab, 1501, Spruce Vertical Slab, 
+Quark, quark:stick_block, 1441, Stick Stack, 
+Quark, quark:stone_brick_vertical_slab, 1503, Stone Brick Vertical Slab, 
 Quark, quark:stone_speleothem, 1587, Stone Speleothem, 
-Quark, quark:stone_vertical_slab, 1507, Stone Vertical Slab, 
-Quark, quark:stoneling_spawn_egg, 1002, Stoneling Spawn Egg, 
-Quark, quark:sturdy_stone, 1147, Sturdy Stone, 
-Quark, quark:sugar_cane_block, 930, Sugar Cane Bundle, 
-Quark, quark:tallow, 1320, Tallow, forge:tallow
-Quark, quark:tallow_block, 1337, Tallow Block, 
-Quark, quark:thatch, 1434, Thatch, 
-Quark, quark:thatch_slab, 1435, Thatch Slab, minecraft:slabs
-Quark, quark:thatch_stairs, 1436, Thatch Stairs, minecraft:stairs
-Quark, quark:thatch_vertical_slab, 1586, Thatch Vertical Slab, 
-Quark, quark:toretoise_spawn_egg, 911, Toretoise Spawn Egg, 
-Quark, quark:trowel, 923, Trowel, 
-Quark, quark:turf, 1388, Turf, 
-Quark, quark:turf_slab, 1389, Turf Slab, minecraft:slabs
-Quark, quark:turf_stairs, 1390, Turf Stairs, minecraft:stairs
-Quark, quark:turf_vertical_slab, 1582, Turf Vertical Slab, 
-Quark, quark:vertical_acacia_planks, 1097, Vertical Acacia Planks, minecraft:planks
-Quark, quark:vertical_birch_planks, 1095, Vertical Birch Planks, minecraft:planks
-Quark, quark:vertical_black_stained_planks, 1114, Vertical Black Stained Planks, minecraft:planks
-Quark, quark:vertical_blue_stained_planks, 1110, Vertical Blue Stained Planks, minecraft:planks
-Quark, quark:vertical_brown_stained_planks, 1111, Vertical Brown Stained Planks, minecraft:planks
-Quark, quark:vertical_cyan_stained_planks, 1108, Vertical Cyan Stained Planks, minecraft:planks
-Quark, quark:vertical_dark_oak_planks, 1098, Vertical Dark Oak Planks, minecraft:planks
-Quark, quark:vertical_gray_stained_planks, 1106, Vertical Gray Stained Planks, minecraft:planks
-Quark, quark:vertical_green_stained_planks, 1112, Vertical Green Stained Planks, minecraft:planks
-Quark, quark:vertical_jungle_planks, 1096, Vertical Jungle Planks, minecraft:planks
-Quark, quark:vertical_light_blue_stained_planks, 1102, Vertical Light Blue Stained Planks, minecraft:planks
-Quark, quark:vertical_light_gray_stained_planks, 1107, Vertical Light Gray Stained Planks, minecraft:planks
-Quark, quark:vertical_lime_stained_planks, 1104, Vertical Lime Stained Planks, minecraft:planks
-Quark, quark:vertical_magenta_stained_planks, 1101, Vertical Magenta Stained Planks, minecraft:planks
-Quark, quark:vertical_oak_planks, 1093, Vertical Oak Planks, minecraft:planks
-Quark, quark:vertical_orange_stained_planks, 1100, Vertical Orange Stained Planks, minecraft:planks
-Quark, quark:vertical_pink_stained_planks, 1105, Vertical Pink Stained Planks, minecraft:planks
-Quark, quark:vertical_purple_stained_planks, 1109, Vertical Purple Stained Planks, minecraft:planks
-Quark, quark:vertical_red_stained_planks, 1113, Vertical Red Stained Planks, minecraft:planks
-Quark, quark:vertical_spruce_planks, 1094, Vertical Spruce Planks, minecraft:planks
-Quark, quark:vertical_white_stained_planks, 1099, Vertical White Stained Planks, minecraft:planks
-Quark, quark:vertical_yellow_stained_planks, 1103, Vertical Yellow Stained Planks, minecraft:planks
-Quark, quark:violet_crystal, 1398, Violet Cave Crystal, quark:crystal
-Quark, quark:violet_crystal_pane, 1407, Violet Crystal Sheet, 
-Quark, quark:weather_sensor, 928, Weather Sensor, 
-Quark, quark:white_candle, 1321, White Candle, quark:candles
-Quark, quark:white_crystal, 1399, White Cave Crystal, quark:crystal
-Quark, quark:white_crystal_pane, 1408, White Crystal Sheet, 
-Quark, quark:white_item_frame, 980, White Item Frame, 
-Quark, quark:white_quilted_wool, 1437, White Quilted Wool, quark:quilted_wools
-Quark, quark:white_rune, 1453, White Rune, quark:runes, quark:runes_lootable
-Quark, quark:white_shard, 953, White Glass Shard, quark:shards
-Quark, quark:white_shingles, 1003, White Shingles, 
-Quark, quark:white_shingles_slab, 1004, White Shingles Slab, minecraft:slabs
-Quark, quark:white_shingles_stairs, 1005, White Shingles Stairs, minecraft:stairs
-Quark, quark:white_shingles_vertical_slab, 1510, White Shingles Vertical Slab, 
-Quark, quark:white_stained_planks, 1160, White Stained Planks, minecraft:planks
-Quark, quark:white_stained_planks_slab, 1161, White Stained Plank Slab, minecraft:slabs
-Quark, quark:white_stained_planks_stairs, 1162, White Stained Plank Stairs, minecraft:stairs
-Quark, quark:white_stained_planks_vertical_slab, 1534, White Stained Plank Vertical Slab, 
-Quark, quark:willow_chest, 1060, Willow Chest, forge:chests, forge:chests/wooden
-Quark, quark:willow_trapped_chest, 1078, Willow Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:wisteria_chest, 1061, Wisteria Chest, forge:chests, forge:chests/wooden
-Quark, quark:wisteria_trapped_chest, 1079, Wisteria Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
-Quark, quark:wrapped_spawn_egg, 1414, Wrapped Spawn Egg, 
-Quark, quark:yellow_blossom_leaf_carpet, 1470, Sunny Blossom Leaf Carpet, 
-Quark, quark:yellow_blossom_leaves, 1218, Sunny Blossom Leaves, minecraft:leaves
-Quark, quark:yellow_blossom_sapling, 1219, Sunny Blossom Sapling, minecraft:saplings
-Quark, quark:yellow_candle, 1325, Yellow Candle, quark:candles
-Quark, quark:yellow_crystal, 1394, Yellow Cave Crystal, quark:crystal
-Quark, quark:yellow_crystal_pane, 1403, Yellow Crystal Sheet, 
-Quark, quark:yellow_item_frame, 984, Yellow Item Frame, 
-Quark, quark:yellow_quilted_wool, 1441, Yellow Quilted Wool, quark:quilted_wools
-Quark, quark:yellow_rune, 1457, Yellow Rune, quark:runes, quark:runes_lootable
-Quark, quark:yellow_shard, 957, Yellow Glass Shard, quark:shards
-Quark, quark:yellow_shingles, 1015, Yellow Shingles, 
-Quark, quark:yellow_shingles_slab, 1016, Yellow Shingles Slab, minecraft:slabs
-Quark, quark:yellow_shingles_stairs, 1017, Yellow Shingles Stairs, minecraft:stairs
-Quark, quark:yellow_shingles_vertical_slab, 1514, Yellow Shingles Vertical Slab, 
-Quark, quark:yellow_slime_block, 916, Yellow Slime Block, quark:slime_blocks
-Quark, quark:yellow_stained_planks, 1172, Yellow Stained Planks, minecraft:planks
-Quark, quark:yellow_stained_planks_slab, 1173, Yellow Stained Plank Slab, minecraft:slabs
-Quark, quark:yellow_stained_planks_stairs, 1174, Yellow Stained Plank Stairs, minecraft:stairs
-Quark, quark:yellow_stained_planks_vertical_slab, 1538, Yellow Stained Plank Vertical Slab, 
+Quark, quark:stone_vertical_slab, 1502, Stone Vertical Slab, 
+Quark, quark:stoneling_spawn_egg, 1343, Stoneling Spawn Egg, 
+Quark, quark:sturdy_stone, 1295, Sturdy Stone, 
+Quark, quark:sugar_cane_block, 1437, Sugar Cane Bundle, 
+Quark, quark:tallow, 1231, Tallow, forge:tallow
+Quark, quark:tallow_block, 1248, Tallow Block, 
+Quark, quark:thatch, 1252, Thatch, 
+Quark, quark:thatch_slab, 1253, Thatch Slab, minecraft:slabs
+Quark, quark:thatch_stairs, 1254, Thatch Stairs, minecraft:stairs
+Quark, quark:thatch_vertical_slab, 1559, Thatch Vertical Slab, 
+Quark, quark:toretoise_spawn_egg, 1296, Toretoise Spawn Egg, 
+Quark, quark:trowel, 1323, Trowel, 
+Quark, quark:turf, 1249, Turf, 
+Quark, quark:turf_slab, 1250, Turf Slab, minecraft:slabs
+Quark, quark:turf_stairs, 1251, Turf Stairs, minecraft:stairs
+Quark, quark:turf_vertical_slab, 1558, Turf Vertical Slab, 
+Quark, quark:vertical_acacia_planks, 1304, Vertical Acacia Planks, minecraft:planks
+Quark, quark:vertical_birch_planks, 1302, Vertical Birch Planks, minecraft:planks
+Quark, quark:vertical_black_stained_planks, 1321, Vertical Black Stained Planks, minecraft:planks
+Quark, quark:vertical_blue_stained_planks, 1317, Vertical Blue Stained Planks, minecraft:planks
+Quark, quark:vertical_brown_stained_planks, 1318, Vertical Brown Stained Planks, minecraft:planks
+Quark, quark:vertical_cyan_stained_planks, 1315, Vertical Cyan Stained Planks, minecraft:planks
+Quark, quark:vertical_dark_oak_planks, 1305, Vertical Dark Oak Planks, minecraft:planks
+Quark, quark:vertical_gray_stained_planks, 1313, Vertical Gray Stained Planks, minecraft:planks
+Quark, quark:vertical_green_stained_planks, 1319, Vertical Green Stained Planks, minecraft:planks
+Quark, quark:vertical_jungle_planks, 1303, Vertical Jungle Planks, minecraft:planks
+Quark, quark:vertical_light_blue_stained_planks, 1309, Vertical Light Blue Stained Planks, minecraft:planks
+Quark, quark:vertical_light_gray_stained_planks, 1314, Vertical Light Gray Stained Planks, minecraft:planks
+Quark, quark:vertical_lime_stained_planks, 1311, Vertical Lime Stained Planks, minecraft:planks
+Quark, quark:vertical_magenta_stained_planks, 1308, Vertical Magenta Stained Planks, minecraft:planks
+Quark, quark:vertical_oak_planks, 1300, Vertical Oak Planks, minecraft:planks
+Quark, quark:vertical_orange_stained_planks, 1307, Vertical Orange Stained Planks, minecraft:planks
+Quark, quark:vertical_pink_stained_planks, 1312, Vertical Pink Stained Planks, minecraft:planks
+Quark, quark:vertical_purple_stained_planks, 1316, Vertical Purple Stained Planks, minecraft:planks
+Quark, quark:vertical_red_stained_planks, 1320, Vertical Red Stained Planks, minecraft:planks
+Quark, quark:vertical_spruce_planks, 1301, Vertical Spruce Planks, minecraft:planks
+Quark, quark:vertical_white_stained_planks, 1306, Vertical White Stained Planks, minecraft:planks
+Quark, quark:vertical_yellow_stained_planks, 1310, Vertical Yellow Stained Planks, minecraft:planks
+Quark, quark:violet_crystal, 1029, Violet Cave Crystal, quark:crystal
+Quark, quark:violet_crystal_pane, 1038, Violet Crystal Sheet, 
+Quark, quark:weather_sensor, 1298, Weather Sensor, 
+Quark, quark:white_candle, 1232, White Candle, quark:candles
+Quark, quark:white_crystal, 1030, White Cave Crystal, quark:crystal
+Quark, quark:white_crystal_pane, 1039, White Crystal Sheet, 
+Quark, quark:white_item_frame, 1368, White Item Frame, 
+Quark, quark:white_quilted_wool, 1454, White Quilted Wool, quark:quilted_wools
+Quark, quark:white_rune, 1350, White Rune, quark:runes, quark:runes_lootable
+Quark, quark:white_shard, 1122, White Glass Shard, quark:shards
+Quark, quark:white_shingles, 919, White Shingles, 
+Quark, quark:white_shingles_slab, 920, White Shingles Slab, minecraft:slabs
+Quark, quark:white_shingles_stairs, 921, White Shingles Stairs, minecraft:stairs
+Quark, quark:white_shingles_vertical_slab, 1504, White Shingles Vertical Slab, 
+Quark, quark:white_stained_planks, 967, White Stained Planks, minecraft:planks
+Quark, quark:white_stained_planks_slab, 968, White Stained Plank Slab, minecraft:slabs
+Quark, quark:white_stained_planks_stairs, 969, White Stained Plank Stairs, minecraft:stairs
+Quark, quark:white_stained_planks_vertical_slab, 1520, White Stained Plank Vertical Slab, 
+Quark, quark:willow_chest, 1050, Willow Chest, forge:chests, forge:chests/wooden
+Quark, quark:willow_trapped_chest, 1068, Willow Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:wisteria_chest, 1051, Wisteria Chest, forge:chests, forge:chests/wooden
+Quark, quark:wisteria_trapped_chest, 1069, Wisteria Trapped Chest, forge:chests, forge:chests/trapped, forge:chests/wooden
+Quark, quark:wrapped_spawn_egg, 1142, Wrapped Spawn Egg, 
+Quark, quark:yellow_blossom_leaf_carpet, 1583, Sunny Blossom Leaf Carpet, 
+Quark, quark:yellow_blossom_leaves, 1432, Sunny Blossom Leaves, minecraft:leaves
+Quark, quark:yellow_blossom_sapling, 1433, Sunny Blossom Sapling, minecraft:saplings
+Quark, quark:yellow_candle, 1236, Yellow Candle, quark:candles
+Quark, quark:yellow_crystal, 1025, Yellow Cave Crystal, quark:crystal
+Quark, quark:yellow_crystal_pane, 1034, Yellow Crystal Sheet, 
+Quark, quark:yellow_item_frame, 1372, Yellow Item Frame, 
+Quark, quark:yellow_quilted_wool, 1458, Yellow Quilted Wool, quark:quilted_wools
+Quark, quark:yellow_rune, 1354, Yellow Rune, quark:runes, quark:runes_lootable
+Quark, quark:yellow_shard, 1126, Yellow Glass Shard, quark:shards
+Quark, quark:yellow_shingles, 931, Yellow Shingles, 
+Quark, quark:yellow_shingles_slab, 932, Yellow Shingles Slab, minecraft:slabs
+Quark, quark:yellow_shingles_stairs, 933, Yellow Shingles Stairs, minecraft:stairs
+Quark, quark:yellow_shingles_vertical_slab, 1508, Yellow Shingles Vertical Slab, 
+Quark, quark:yellow_slime_block, 1388, Yellow Slime Block, quark:slime_blocks
+Quark, quark:yellow_stained_planks, 979, Yellow Stained Planks, minecraft:planks
+Quark, quark:yellow_stained_planks_slab, 980, Yellow Stained Plank Slab, minecraft:slabs
+Quark, quark:yellow_stained_planks_stairs, 981, Yellow Stained Plank Stairs, minecraft:stairs
+Quark, quark:yellow_stained_planks_vertical_slab, 1524, Yellow Stained Plank Vertical Slab, 
 Traverse, traverse:brown_autumnal_leaves, 887, Brown Autumnal Leaves, minecraft:leaves
 Traverse, traverse:brown_autumnal_sapling, 888, Brown Autumnal Sapling, minecraft:saplings
 Traverse, traverse:fir_button, 906, Fir Button, minecraft:buttons, minecraft:wooden_buttons
