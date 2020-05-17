@@ -428,7 +428,7 @@
 			Rarity = 4
 			"Min Y Level" = 20
 			"Horizontal Variation" = 9
-			Enabled = true
+			Enabled = false
 			"Max Y Level" = 80
 			"Vertical Size" = 14
 			"Vertical Variation" = 9
@@ -446,7 +446,7 @@
 			Rarity = 20
 			"Min Y Level" = 20
 			"Horizontal Variation" = 6
-			Enabled = true
+			Enabled = false
 			"Max Y Level" = 120
 			"Vertical Size" = 19
 			"Vertical Variation" = 6
@@ -464,7 +464,7 @@
 			Rarity = 4
 			"Min Y Level" = 20
 			"Horizontal Variation" = 9
-			Enabled = true
+			Enabled = false
 			"Max Y Level" = 80
 			"Vertical Size" = 14
 			"Vertical Variation" = 9
@@ -518,7 +518,7 @@
 			Rarity = 4
 			"Min Y Level" = 20
 			"Horizontal Variation" = 9
-			Enabled = true
+			Enabled = false
 			"Max Y Level" = 80
 			"Vertical Size" = 14
 			"Vertical Variation" = 9
@@ -554,7 +554,7 @@
 			Rarity = 4
 			"Min Y Level" = 20
 			"Horizontal Variation" = 9
-			Enabled = true
+			Enabled = false
 			"Max Y Level" = 80
 			"Vertical Size" = 14
 			"Vertical Variation" = 9
@@ -664,7 +664,7 @@
 		"Chance Per Chunk" = 0.05
 		"Big Spike Spawners" = true
 		#Should a chunk have spikes, how many would the generator try to place
-		"Tries Per Chunk" = 4
+		"Tries Per Chunk" = 10
 		#The chance for a spike to be big (1 is 100%, 0 is 0%)
 		"Big Spike Chance" = 0.06
 
@@ -692,7 +692,7 @@
 
 		[world.crevices.spawn_settings]
 			"Horizontal Size" = 60
-			Rarity = 600
+			Rarity = 500
 			"Min Y Level" = 15
 			"Horizontal Variation" = 20
 			"Max Y Level" = 50
@@ -741,11 +741,11 @@
 			"Is Blacklist" = false
 
 	[world.new_stone_types]
-		"Enable Marble" = true
-		"Enable Jasper" = true
-		"Enable Basalt" = true
-		"Enable Slate" = true
-		"Enable Limestone" = true
+		"Enable Marble" = false
+		"Enable Jasper" = false
+		"Enable Basalt" = false
+		"Enable Slate" = false
+		"Enable Limestone" = false
 
 		[world.new_stone_types.marble]
 
