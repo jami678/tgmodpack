@@ -1,15 +1,5 @@
 import mods.jei.JEI; 
  
-JEI.hideItem(<item:quark:chiseled_granite_bricks>);
- JEI.hideItem(<item:quark:chiseled_granite_bricks>);
- JEI.hideItem(<item:quark:granite_bricks>);
- JEI.hideItem(<item:quark:granite_bricks>);
- JEI.hideItem(<item:quark:granite_bricks_slab>);
- JEI.hideItem(<item:quark:granite_bricks_slab>);
- JEI.hideItem(<item:quark:granite_bricks_stairs>);
- JEI.hideItem(<item:quark:granite_bricks_stairs>);
- JEI.hideItem(<item:quark:granite_bricks_vertical_slab>);
- JEI.hideItem(<item:quark:granite_bricks_vertical_slab>);
  JEI.hideItem(<item:quark:granite_bricks_wall>);
  JEI.hideItem(<item:quark:granite_bricks_wall>);
  JEI.hideItem(<item:quark:granite_pavement>);

@@ -104,7 +104,7 @@
 	"Lit Lamp" = true
 	"Vertical Planks" = false
 	Midori = false
-	"More Stone Variants" = false
+	"More Stone Variants" = true
 	"Framed Glass" = false
 	"Fairy Rings" = true
 	"Tallow And Candles" = true
@@ -125,9 +125,9 @@
 
 	[building.more_stone_variants]
 		"Enable Bricks" = true
-		"Enable Pillar" = true
+		"Enable Pillar" = false
 		"Enable Chiseled Bricks" = true
-		"Enable Pavement" = true
+		"Enable Pavement" = false
 
 	[building.thatch]
 		"Fall Damage Multiplier" = 0.5
