@@ -75,7 +75,7 @@
 [woodlands_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 6
+	weight = 3
 
 #snowy_high_coniferous_forest biome generation
 [snowy_high_coniferous_forest_biome]
@@ -93,7 +93,7 @@
 [autumnal_woods_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 3
+	weight = 2
 
 #high_coniferous_forest biome generation
 [high_coniferous_forest_biome]
@@ -105,5 +105,5 @@
 [mini_jungle_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 2
+	weight = 1
 
