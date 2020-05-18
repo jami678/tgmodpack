@@ -1,0 +1,148 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 5/18/20 8:58 PM
+Description: Exception generating new chunk
+
+java.util.ConcurrentModificationException: null
+	at com.google.common.collect.HashBiMap$Itr.hasNext(HashBiMap.java:401) ~[guava-21.0.jar:?] {}
+	at net.minecraft.world.gen.ChunkGenerator.func_227058_a_(ChunkGenerator.java:153) ~[?:?] {re:classloading}
+	at net.minecraft.world.chunk.ChunkStatus.lambda$static$2(ChunkStatus.java:41) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.chunk.ChunkStatus$$Lambda$1639/808969475.doWork(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:195) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:519) ~[?:?] {re:classloading}
+	at net.minecraft.world.server.ChunkManager$$Lambda$4976/293458531.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-2.0.24.jar:?] {re:classloading,re:classloading}
+	at net.minecraft.world.server.ChunkManager.lambda$func_223156_b$20(ChunkManager.java:517) ~[?:?] {re:classloading}
+	at net.minecraft.world.server.ChunkManager$$Lambda$4961/404726063.apply(Unknown Source) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952) ~[?:1.8.0_51] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926) ~[?:1.8.0_51] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442) ~[?:1.8.0_51] {}
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?] {re:classloading}
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter$$Lambda$4974/403556786.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:83) ~[?:?] {re:classloading}
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:123) ~[?:?] {re:classloading}
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:91) ~[?:?] {re:classloading}
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1402) ~[?:1.8.0_51] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_51] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_51] {}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1689) ~[?:1.8.0_51] {}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_51] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.google.common.collect.HashBiMap$Itr.hasNext(HashBiMap.java:401)
+	at net.minecraft.world.gen.ChunkGenerator.func_227058_a_(ChunkGenerator.java:153)
+	at net.minecraft.world.chunk.ChunkStatus.lambda$static$2(ChunkStatus.java:41)
+	at net.minecraft.world.chunk.ChunkStatus$$Lambda$1639/808969475.doWork(Unknown Source)
+	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:195)
+
+-- Chunk to be generated --
+Details:
+	Location: 2,2
+	Position hash: 8589934594
+	Generator: net.minecraft.world.gen.OverworldChunkGenerator@7f6e00ca
+Stacktrace:
+	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManager.java:519)
+	at net.minecraft.world.server.ChunkManager$$Lambda$4976/293458531.apply(Unknown Source)
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+	at net.minecraft.world.server.ChunkManager.lambda$func_223156_b$20(ChunkManager.java:517)
+	at net.minecraft.world.server.ChunkManager$$Lambda$4961/404726063.apply(Unknown Source)
+	at java.util.concurrent.CompletableFuture.uniCompose(CompletableFuture.java:952)
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:926)
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58)
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter$$Lambda$4974/403556786.run(Unknown Source)
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:83)
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:123)
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:91)
+
+-- Affected level --
+Details:
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 529
+	Level dimension: DimensionType{minecraft:overworld}
+	Level name: New World (3)
+	Level seed: 1580554297627614477
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (104,64,-88), Chunk: (at 8,4,8 in 6,-6; contains blocks 96,0,-96 to 111,255,-81), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 0 game time, 0 day time
+	Known server brands: forge
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_213194_a(MinecraftServer.java:394)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:78)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:96)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:613)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.15.2
+	Minecraft Version ID: 1.15.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 385871200 bytes (367 MB) / 924319744 bytes (881 MB) up to 1431830528 bytes (1365 MB)
+	CPUs: 16
+	JVM Flags: 5 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx1536m -Xms256m -XX:PermSize=256m
+	ModLauncher: 5.1.0+69+master.79f13f7
+	ModLauncher launch target: fmlclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/eventbus-2.2.0-service.jar eventbus PLUGINSERVICE 
+		/forge-1.15.2-31.1.79.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.15.2-31.1.79.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-2.1.1-shadowed.jar accesstransformer PLUGINSERVICE 
+		/forge-1.15.2-31.1.79.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.15.2-31.1.79.jar runtimedistcleaner PLUGINSERVICE 
+		/forge-1.15.2-31.1.79.jar fml TRANSFORMATIONSERVICE 
+		/MixinBootstrap-1.0.3.jar mixinbootstrap TRANSFORMATIONSERVICE 
+		/MixinBootstrap-1.0.3.jar mixin PLUGINSERVICE 
+		/MixinBootstrap-1.0.3.jar mixinbootstrap PLUGINSERVICE 
+	FML: 31.1
+	Forge: net.minecraftforge:31.1.79
+	FML Language Providers: 
+		javafml@31.1
+		minecraft@1
+		kotlinfml@1.5.2
+	Mod List: 
+		forge-1.15.2-31.1.79-client.jar Minecraft {minecraft@1.15.2 DONE}
+		MouseTweaks-2.13-mc1.15.1.jar Mouse Tweaks {mousetweaks@2.13 DONE}
+		phosphor-forge-mc1.15.2-0.5.2+build.4.jar Phosphor {phosphor@0.5.2+build.4 DONE}
+		valhelsia_structures-15.0.2a.jar Valhelsia Structures {valhelsia_structures@15.0.2a DONE}
+		jei-1.15.2-6.0.0.4.jar Just Enough Items {jei@6.0.0.4 DONE}
+		ForgeEndertech-1.15.2-6.0.3.0-build.0036.jar Forge Endertech {forgeendertech@6.0.3.0 DONE}
+		AdLods-1.15.2-3.0.3.0-build.0035.jar Large Ore Deposits {adlods@3.0.3.0 DONE}
+		Clumps-5.0.2.jar Clumps {clumps@5.0.2 DONE}
+		Placebo-1.15.2-3.0.2.jar Placebo {placebo@3.0.2 DONE}
+		AutoRegLib-1.5-40.jar AutoRegLib {autoreglib@1.5-40 DONE}
+		AppleSkin-mc1.15.2-forge-1.0.13.jar AppleSkin {appleskin@1.0.13 DONE}
+		AI-Improvements-1.15.2-0.3.0.jar AI-Improvements {aiimprovements@0.3.0 DONE}
+		ToastControl-1.15.2-3.0.1.jar Toast Control {toastcontrol@3.0.1 DONE}
+		JEITweaker-1.0.1.jar JEI Tweaker {jeitweaker@1.0.1 DONE}
+		traverse-1.15.2-3.0.0.jar Traverse {traverse@1.15.2-3.0.0 DONE}
+		JustEnoughResources-1.15.2-0.10.1.77.jar Just Enough Resources {jeresources@0.10.1.77 DONE}
+		CraftTweaker-1.15.2-6.0.0.24.jar CraftTweaker {crafttweaker@6.0.0.24 DONE}
+		forge-1.15.2-31.1.79-universal.jar Forge {forge@31.1.79 DONE}
+		Bountiful-1.15.2-3.1.1.jar Bountiful {bountiful@1.15.2-3.1.1 DONE}
+		Quark-r2.1-236.jar Quark {quark@r2.1-236 DONE}
+		Aquaculture-1.15.2-2.0.14.jar Aquaculture 2 {aquaculture@1.15.2-2.0.14 DONE}
+		Charm-1.15.2-1.5.7.jar Charm {charm@1.15.2-1.5.7 DONE}
+		mysticallib-1.15.2-2.0.0.jar Mystical Lib {mysticallib@1.15.2-2.0.0 DONE}
+		tellme-forge-1.15.2-0.8.0.jar TellMe {tellme@0.8.0 DONE}
+		DefaultOptions_1.15.2-11.0.1.jar Default Options {defaultoptions@11.0.1 DONE}
+		BetterAdvancements-1.15.2-0.1.0.96.jar Better Advancements {betteradvancements@0.1.0.96 DONE}
+	Player Count: 0 / 8; []
+	Data Packs: vanilla, mod:mousetweaks (incompatible), mod:phosphor, mod:valhelsia_structures (incompatible), mod:jei (incompatible), mod:forgeendertech (incompatible), mod:adlods (incompatible), mod:clumps (incompatible), mod:placebo (incompatible), mod:autoreglib (incompatible), mod:appleskin (incompatible), mod:aiimprovements (incompatible), mod:toastcontrol (incompatible), mod:jeitweaker, mod:traverse, mod:jeresources (incompatible), mod:crafttweaker (incompatible), mod:forge (incompatible), mod:bountiful (incompatible), mod:quark, mod:aquaculture, mod:charm (incompatible), mod:mysticallib, mod:tellme (incompatible), mod:defaultoptions (incompatible), mod:betteradvancements (incompatible)
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'forge'
