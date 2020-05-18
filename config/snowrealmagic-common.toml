@@ -1,0 +1,15 @@
+placeSnowInBlock = true
+snowGravity = false
+snowAlwaysReplaceable = true
+snowAccumulationDuringSnowstorm = true
+snowAccumulationDuringSnowfall = true
+snowAccumulationOnSpecialBlocks = true
+thinnerBoundingBox = true
+snowMakingIce = true
+snowOnIce = false
+snowNeverMelt = false
+replaceWorldFeature = true
+#Requires Mixin
+sustainGrassIfLayerMoreThanOne = true
+invalidSupportingBlocks = ["ice", "packed_ice", "barrier"]
+
