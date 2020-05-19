@@ -330,7 +330,7 @@
 	"GoldLanterns enabled" = true
 	#A bookshelf with 9 slots that can store books.
 	#Provides the same enchanting power as a normal bookshelf as long as there is at least 1 book on the shelf.
-	"BookshelfChests enabled" = true
+	"BookshelfChests enabled" = false
 	#Barrels are available in all types of vanilla wood.
 	"AllTheBarrels enabled" = false
 
