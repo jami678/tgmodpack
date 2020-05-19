@@ -12,5 +12,5 @@ realms_persistence.json
 usercache.json
 usernamecache.json
 .curseclient
-config\tellme
+config/tellme
 crash-reports
