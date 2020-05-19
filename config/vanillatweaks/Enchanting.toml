@@ -1,0 +1,18 @@
+
+#Do you want enchantments?
+[Enchanting]
+	#Don't want the zombies stealing your items when you are mining?
+	enableSiphon = false
+	#Want more speed with an enchantment?
+	enableNimble = false
+	#Want more health with an enchant?
+	enableVigor = false
+	#Want all the experience in the nearby area?
+	enableVeteran = false
+	#Want to smelt things when you mine them?
+	enableBlazing = false
+	#Want to jump more than a block high with an enchantment?
+	enableHops = false
+	#Don't want to aim but love shooting arrows?
+	enableHoming = false
+

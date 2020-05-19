@@ -1483,6 +1483,10 @@ Traverse, traverse:stripped_fir_wood, traverse:stripped_fir_wood, Stripped Fir W
 Traverse, traverse:yellow_autumnal_leaves, traverse:yellow_autumnal_leaves, Yellow Autumnal Leaves, true, minecraft:leaves
 Traverse, traverse:yellow_autumnal_sapling, traverse:yellow_autumnal_sapling, Yellow Autumnal Sapling, true, minecraft:saplings
 Valhelsia Structures, valhelsia_structures:special_spawner, valhelsia_structures:special_spawner, Special Spawner, true, 
+VanillaTweaks, vanillatweaks:charcoalblock, vanillatweaks:charcoalblock, Block of Charcoal, true, 
+VanillaTweaks, vanillatweaks:flintblock, vanillatweaks:flintblock, Block of Flint, true, 
+VanillaTweaks, vanillatweaks:pedestal, vanillatweaks:pedestal, Pedestal, true, 
+VanillaTweaks, vanillatweaks:sugarblock, vanillatweaks:sugarblock, Block of Sugar, true, 
 ------------------------------------------------------------
 Mod name, Registry name, Item ID, Display name, Exists, Tags
 ------------------------------------------------------------
