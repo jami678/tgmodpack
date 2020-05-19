@@ -1,1 +1,0 @@
-If this file exists, the old java version popup will not be shown. This should not be included with modpacks by default!
