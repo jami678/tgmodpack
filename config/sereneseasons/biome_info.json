@@ -20,7 +20,7 @@
     "use_tropical_seasons": true
   },
   "minecraft:river": {
-    "enable_seasonal_effects": true
+    "enable_seasonal_effects": true,
     "use_tropical_seasons": false
   },
   "biomesoplenty:origin_hills": {
@@ -73,37 +73,30 @@
   },
   "traverse:badlands": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "use_tropical_seasons": true
   },
   "traverse:desert_shrubland": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "use_tropical_seasons": true
   },
   "traverse:arid_highland": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "use_tropical_seasons": true
   },
   "traverse:canyon": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "use_tropical_seasons": true
   },
   "traverse:mini_jungle": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "use_tropical_seasons": true
   },
   "traverse:red_desert": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
+    "use_tropical_seasons": true
   },
   "traverse:mountainous_desert": {
     "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
-  },
+    "use_tropical_seasons": true
+  }
 }
