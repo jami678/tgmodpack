@@ -1,6 +1,5 @@
 import mods.jei.JEI; 
- 
-JEI.hideItem(<item:inspirations:glass_trapdoor>);
+
  JEI.hideItem(<item:inspirations:light_blue_carpeted_trapdoor>);
  JEI.hideItem(<item:inspirations:magenta_carpeted_trapdoor>);
  JEI.hideItem(<item:inspirations:orange_carpeted_trapdoor>);
