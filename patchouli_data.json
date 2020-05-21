@@ -1,0 +1,18 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:tg_book": {
+      "viewedEntries": [
+        "patchouli:tools/diamond_fishing_rod",
+        "patchouli:tools/fishing_rods"
+      ],
+      "bookmarks": [],
+      "history": [
+        "patchouli:tools/fishing_rods",
+        "patchouli:tools/diamond_fishing_rod"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
