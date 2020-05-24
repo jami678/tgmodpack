@@ -1,0 +1,14 @@
+{
+    "name": "Misc",
+    "icon": "charm:bat_bucket",
+    "category": "new_tools",
+    "pages": [
+      {
+        "type": "spotlight",
+        "title": "Bat In a Bucket",
+        "item" : "charm:bat_bucket",
+        "link_recipe": false,
+        "text": "You can now capture bats in a bucket. When releasing the bat you will see a glow around all near by enities for 10 seconds."
+      }
+    ]
+}
