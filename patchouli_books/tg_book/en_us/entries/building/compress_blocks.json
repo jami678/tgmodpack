@@ -55,6 +55,12 @@
       {
         "type": "crafting",
         "recipe": "quark:building/crafting/compressed/berry_sack"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "charm:crafting/rotten_flesh_block",
+        "text": "Placing this under farmland will increase the speed at which planted crops grow.  The block will turn to dirt when next to water."
       }
 
 

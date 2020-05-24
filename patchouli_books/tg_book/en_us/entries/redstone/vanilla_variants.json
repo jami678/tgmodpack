@@ -15,11 +15,15 @@
       },
       {
         "type": "crafting",
+        "recipe": "charm:crafting/variable_redstone_lamp",
+        "text" : "Like the vanilla redstone lamp but emits a light level according to the strength of the input redstone signal."
+      },
+      {
+        "type": "crafting",
         "title" : "Colored Slime",
         "recipe": "quark:automation/crafting/blue_slime_block",
         "text": "Colored slime wont stick to other types of colored slime block. Supported colors include: red, blue, cyan, magenta and yellow."
       }
-
 
     ]
 }

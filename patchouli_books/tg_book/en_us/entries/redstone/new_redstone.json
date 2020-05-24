@@ -1,5 +1,5 @@
 {
-    "name": "New redstone",
+    "name": "New Redstone",
     "icon": "quark:redstone_randomizer",
     "category": "redstone",
     "pages": [
@@ -8,10 +8,17 @@
         "title": "New redstone",
         "text" : "New redstone items that you can add to your contraptions."
       },
+
       {
         "type": "crafting",
         "recipe": "quark:automation/crafting/gravisand",
         "text" : "Gravisand falls like regular sand unless powered by redstone. Additonally, gravisand will propagate the signal to any adjacent gravisand block, causing them to float or fall also."
+      },
+
+     {
+        "type": "crafting",
+        "recipe": "charm:crafting/redstone_sand",
+        "text" : "Redstone stand falls like sand and emits a signal like a Redstone Block."
       },
 
       {

@@ -15,6 +15,13 @@
        "title": "Potion of Stability",
        "item": "minecraft:potion{Potion: \"quark:resilience\"}",
        "text": "A potion that provides the player with reduced knockback from attacks. To brew one you can use awkard potions and crab shells."
+      },
+
+      {
+       "type": "spotlight",
+       "title": "Potion of Decay",
+       "item": "minecraft:potion{Potion: \"charm:decay_potion\"}",
+       "text": "A potion that gives the effected entity the wither effect. It is brewed using awkard potions and a wither rose."
       }
 
     ]

@@ -1,0 +1,14 @@
+{
+    "name": "Structure maps",
+    "icon": "minecraft:map",
+    "category": "biomes",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Structure maps",
+        "text" : "Catographers in villages can sell maps that can take you to structures. Use these maps to find rare structures that might be too difficult to locate."
+      }
+  
+
+    ]
+}

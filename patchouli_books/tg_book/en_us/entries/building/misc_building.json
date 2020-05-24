@@ -15,6 +15,11 @@
       },
 
       {
+        "type": "crafting",
+        "recipe": "charm:crafting/gold_lantern"
+      },
+
+      {
         "type": "text",
         "title" : "Potted Plants",
         "text": "You can now put more plants in pots. These include $(li)cocoa beans $(li)sugar cane $(li)berries $(li)sea pickles $(li)daisy $(li)long grass $(li)seed $(li)potato $(li)carrot $(li)melon $(li)pumkin $(li)beetroot"

@@ -6,9 +6,12 @@
       {
        "type": "text",
        "text": "$(li) You can now pet dogs by sneak clicking them with an empty hand :) $(li) You can edit signs by right clicking $(li) You can right click to harvest crops $(li)Villagers will follow you if you have an emerald block in your hand.$(li) Campfires make the eltra go higher"
-      }
+      },
 
-    
+      {
+       "type": "text",
+       "text": "$(li) Beacons will heal tamed and netural mobs $(li) Cauldrons can be used as an infinite water source by sneaking when placing water."
+      }
 
     ]
 }
