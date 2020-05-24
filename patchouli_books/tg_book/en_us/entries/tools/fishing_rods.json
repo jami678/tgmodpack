@@ -3,7 +3,7 @@
     "icon": "aquaculture:diamond_fishing_rod",
     "category": "new_tools",
     "pages": [
-    	{
+        {
             "type": "text",
             "text": "With aquaculture you can get new fishing rods to improve the durability."
         },

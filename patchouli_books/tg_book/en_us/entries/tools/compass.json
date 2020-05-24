@@ -1,0 +1,72 @@
+{
+    "name": "Compasses",
+    "icon": "minecraft:compass",
+    "category": "new_tools",
+    "pages": [
+    	{
+            "type": "text",
+            "text": "The default minecraft compass now has some additonal fuctionality which will be more useful when navigating your world."
+        },
+        {
+            "type": "crafting",
+            "recipe": "minecraft:compass",
+            "text" : "As a refresher here is how to craft a compass"
+        },
+        {
+            "type": "multiblock",
+            "name" : "Nether Portal",
+            "multiblock": {
+            	"mapping": {
+            		"O": "minecraft:obsidian",
+            		" ": "ANY"
+  			    },
+  			    "pattern": [
+  			    	["  OO  "],
+  			    	[" O  O "],
+  			    	[" O  O "],
+  			    	[" O 0O "],
+  			    	["  OO  "]
+  			    ]
+            },
+            "text": "When in the nether, compasses now track the portal you entered from.",
+            "enable_visualize": false
+        },
+        {
+			"type": "multiblock",
+			"name": "Banners",
+			"multiblock": {
+				"pattern": [ [
+					"  NNN  ",
+					" WPPPE ",
+					" WP0PE ",
+					" WPPPE ",
+					"  SSS  "
+				] ],
+				"mapping": {
+					" ": "ANY",
+					"0": "minecraft:end_portal",
+					"P": "minecraft:end_portal",
+					"N": "minecraft:end_portal_frame[eye=true,facing=south]",
+					"S": "minecraft:end_portal_frame[eye=true,facing=north]",
+					"E": "minecraft:end_portal_frame[eye=true,facing=west]",
+					"W": "minecraft:end_portal_frame[eye=true,facing=east]"
+				},
+				"symmetrical": true
+    		},
+			"enable_visualize": false,
+			"text": "When in the end, the compass will point to the overworld portal."
+		},
+        {
+			"type": "spotlight",
+			"title": "Banners",
+			"item" : "minecraft:red_banner",
+			"link_recipe": false,
+			"text": "When holding a compass shift click on a banner. This compass will now be bound to that banner and will always point to it."
+		},
+	    {
+			"type": "text",
+			"title": "Dimensional Compasses",
+			"text": "Once a compass has been bound to a banner you can create a Dimensional compass by taking an ender eye and the bound compass into an anvil. Put the bound compass in the FIRST slot and the ender eye in the SECOND. Now the compass will work between dimensions. This can be useful when creating nether portals between two points from the overworld to the nether."
+		}
+    ]
+}
