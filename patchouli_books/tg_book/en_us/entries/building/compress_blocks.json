@@ -1,0 +1,62 @@
+{
+    "name": "Compressed Blocks",
+    "icon": "quark:sugar_cane_block",
+    "category": "building",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Compressed Blocks",
+        "text" : "You can now make various compressed blocks for decoration or storage."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/charcoal_block",
+        "recipe2": "quark:building/crafting/compressed/sugar_cane_block"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/bamboo_block",
+        "recipe2": "quark:building/crafting/compressed/cactus_block"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/chorus_fruit_block",
+        "recipe2": "quark:building/crafting/compressed/stick_block"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/golden_apple_crate",
+        "recipe2": "quark:building/crafting/compressed/apple_crate"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/potato_crate",
+        "recipe2": "quark:building/crafting/compressed/carrot_crate"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/beetroot_crate",
+        "recipe2": "quark:building/crafting/compressed/cocoa_beans_sack"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/nether_wart_sack",
+        "recipe2": "quark:building/crafting/compressed/gunpowder_sack"
+      },
+
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/compressed/berry_sack"
+      }
+
+
+    ]
+}

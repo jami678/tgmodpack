@@ -1,0 +1,25 @@
+{
+    "name": "Vanilla Variants",
+    "icon": "quark:lit_lamp",
+    "category": "redstone",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Vanilla redstone",
+        "text" : "Here will be a list of changes to redstone or vanilla style blocks added by mods."
+      },
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/lit_lamp",
+        "text" : "A lamp that doesn't need to be powered by redstone"
+      },
+      {
+        "type": "crafting",
+        "title" : "Colored Slime",
+        "recipe": "quark:automation/crafting/blue_slime_block",
+        "text": "Colored slime wont stick to other types of colored slime block. Supported colors include: red, blue, cyan, magenta and yellow."
+      }
+
+
+    ]
+}

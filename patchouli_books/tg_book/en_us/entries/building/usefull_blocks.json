@@ -1,0 +1,24 @@
+{
+    "name": "Usefull blocks",
+    "icon": "quark:feeding_trough",
+    "category": "building",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Usefull blocks",
+        "text" : "Here is a list of blocks that add new mechanics or usefull features."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:automation/crafting/feeding_trough",
+        "text": "Nearby animals will flock to the trough to eat the food within. This works just as if a player had fed the animal, but with a few differences: $(li)There's a chance the animal will need more than one bit of food to get in love mode."
+      },
+
+      {
+        "type": "text",
+        "text": " $(li) Animals bred with the trough will not produce XP $(li) If there's more than 32 animals in a 10 block radius, the animals will eat, but never enter love mode."
+      }
+
+    ]
+}

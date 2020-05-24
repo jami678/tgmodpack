@@ -1,0 +1,12 @@
+{
+    "name": "Colored Planks",
+    "icon": "quark:pink_stained_planks",
+    "category": "building",
+    "pages": [
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/pink_stained_planks",
+        "text": "You now use dyes on planks to create pastel colored planks."
+      }
+    ]
+}

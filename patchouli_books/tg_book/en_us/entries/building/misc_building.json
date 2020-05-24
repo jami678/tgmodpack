@@ -1,0 +1,18 @@
+{
+    "name": "Misc building",
+    "icon": "quark:gold_bars",
+    "category": "building",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Leaf Carpets",
+        "text" : "Here is a list of small crafting recipes you can use."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/gold_bars"
+      }
+
+    ]
+}

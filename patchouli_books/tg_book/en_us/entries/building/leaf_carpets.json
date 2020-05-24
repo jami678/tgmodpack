@@ -1,0 +1,34 @@
+{
+    "name": "Leaf Carpets",
+    "icon": "quark:oak_leaf_carpet",
+    "category": "building",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Leaf Carpets",
+        "text" : "Similarly to wool carpets you can now use leafs to craft carpets."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/oak_leaf_carpet",
+        "recipe2": "quark:building/crafting/spruce_leaf_carpet"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/birch_leaf_carpet",
+        "recipe2": "quark:building/crafting/jungle_leaf_carpet"
+      },
+
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/acacia_leaf_carpet",
+        "recipe2": "quark:building/crafting/dark_oak_leaf_carpet"
+      }
+
+
+
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Vanilla Bricks",
+    "icon": "quark:andesite_bricks",
+    "category": "building",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Vanilla Bricks",
+        "text" : "You can now make bricks of certain blocks. As well as stair, wall and slab variants."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/stonevariants/andesite_bricks",
+        "recipe2": "quark:building/crafting/stonevariants/granite_bricks"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/stonevariants/diorite_bricks",
+        "recipe2": "quark:building/crafting/charred_nether_bricks"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/sandstone_bricks",
+        "recipe2": "quark:building/crafting/magma_bricks"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/snow_bricks",
+        "recipe2": "quark:building/crafting/red_sandstone_bricks"
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/soul_sandstone",
+        "recipe2": "quark:building/crafting/soul_sandstone_bricks"
+      }
+
+
+
+    ]
+}
