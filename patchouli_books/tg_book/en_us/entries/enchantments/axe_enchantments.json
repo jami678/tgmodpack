@@ -1,0 +1,13 @@
+{
+    "name": "Axe enchantments",
+    "icon": "minecraft:diamond_axe",
+    "category": "enchantments",
+    "pages": [
+      {
+       "type": "spotlight",
+       "title": "Axe Upgrades",
+       "item": "minecraft:diamond_axe",
+       "text": "Diamond axes can now be enchanted with the following: Fire aspect, knockback, looting, sharpness, smite and bane of arthropods. I wouldn't try put them all on though."
+      }
+    ]
+}

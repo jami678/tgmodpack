@@ -44,6 +44,13 @@
         "type": "crafting",
         "recipe": "quark:automation/crafting/ender_watcher_obsidian",
         "text" : "The ender watcher outputs a redstone signal if the player is looking at it."
+      },
+
+
+      {
+        "type": "crafting",
+        "recipe": "sereneseasons:season_sensor",
+        "text" : "Outputs a redstone signal if the season matches what you have configure it to. Make a calendar by using nine pieces of paper."
       }
 
 

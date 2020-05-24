@@ -1,0 +1,20 @@
+{
+    "name": "Books",
+    "icon": "minecraft:book",
+    "category": "building",
+    "pages": [
+      {
+        "type" : "crafting",
+        "title": "Coolered Books",
+        "recipe" : "inspirations:light_gray_book",
+        "text" : "You can use dye to create coolered books."
+      },
+      {
+        "type" : "crafting",
+        "title": "Bookshelves",
+        "recipe" : "inspirations:bookshelf",
+        "text" : "You can store any type of book using a bookshelf. These can be created with any type of wood."
+      }
+
+    ]
+}

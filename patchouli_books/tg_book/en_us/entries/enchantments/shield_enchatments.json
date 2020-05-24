@@ -1,0 +1,13 @@
+{
+    "name": "Shield enchantments",
+    "icon": "minecraft:shield",
+    "category": "enchantments",
+    "pages": [
+      {
+       "type": "spotlight",
+       "title": "Shield Upgrades",
+       "item": "minecraft:shield",
+       "text": "Shields can now be enchanted with the following: unbreaking, mending, knockback, fire aspect, thorns, protection, fire protection and projectile protection."
+      }
+    ]
+}
