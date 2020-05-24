@@ -1,0 +1,25 @@
+{
+    "name": "Crabs",
+    "icon": "quark:crab_spawn_egg",
+    "category": "mobs",
+    "pages": [
+  
+      {
+       "type": "entity",
+       "entity": "quark:crab",
+       "text": "Crabs can be found on beaches around the world. Watch out their claws are sharp and will damage you if agro them."
+      },
+
+
+      {
+       "type": "relations",
+       "entries": [
+          "food/crab_legs", "brewing/new_potions"
+      ],
+       "text": "Crabs are edible and can be used to make potions. They can also be bred with wheat, chicken and fish."
+      }
+
+
+
+    ]
+}

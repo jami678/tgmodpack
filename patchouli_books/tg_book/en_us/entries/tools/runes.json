@@ -1,0 +1,19 @@
+{
+    "name": "Runes",
+    "icon": "quark:rainbow_rune",
+    "category": "new_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Runes are items that can be used to give tools and armor a glow similar to enchatments but with a specific color. Crystals can be found rarely inside caves or inside chests. Also if places deep underground they can be grown up to 4 blocks high."
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:tools/crafting/runes/red_rune"
+        },
+        {
+            "type": "crafting",
+            "recipe": "quark:tools/crafting/runes/rainbow_rune"
+        }
+    ]
+}

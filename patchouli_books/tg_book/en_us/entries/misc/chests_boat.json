@@ -1,0 +1,12 @@
+{
+    "name": "Boat chests",
+    "icon": "minecraft:oak_boat",
+    "category": "misc",
+    "pages": [
+      {
+       "type": "spotlight",
+       "item": "minecraft:oak_boat",
+       "text": "Right clicking a chest onto a boat adds the chests in as a passenger. To access the chest, simply enter the boat and open your inventory, just like you would for a horse. To remove the chest (and the items inside), break the boat."
+      }
+    ]
+}

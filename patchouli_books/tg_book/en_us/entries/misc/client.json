@@ -1,0 +1,19 @@
+{
+    "name": "Client Changes",
+    "icon": "minecraft:music_disc_strad",
+    "category": "misc",
+    "pages": [
+      {
+       "type": "text",
+       "title": "Camera Mode",
+       "text": "Pressing F12 puts you into camera mode. In this mode you can take screenshots and add multiple instagram style filters to make everything look green."
+      },
+
+      {
+       "type": "text",
+       "title": "Tooltips",
+       "text": "Pressing shift will allow to gain some extra information about what item you are looking at in your inventory. For instance shifting on a shulker in your inventory will show you whats inside it."
+      }
+
+    ]
+}

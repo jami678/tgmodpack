@@ -5,13 +5,19 @@
     "pages": [
       {
         "type" : "text",
-        "title": "Leaf Carpets",
+        "title": "Misc building",
         "text" : "Here is a list of small crafting recipes you can use."
       },
 
       {
         "type": "crafting",
         "recipe": "quark:building/crafting/gold_bars"
+      },
+
+      {
+        "type": "text",
+        "title" : "Potted Plants",
+        "text": "You can now put more plants in pots. These include $(li)cocoa beans $(li)sugar cane $(li)berries $(li)sea pickles $(li)daisy $(li)long grass $(li)seed $(li)potato $(li)carrot $(li)melon $(li)pumkin $(li)beetroot"
       }
 
     ]

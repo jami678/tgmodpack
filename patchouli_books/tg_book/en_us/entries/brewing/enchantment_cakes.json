@@ -1,7 +1,7 @@
 {
     "name": "Enchantment Cakes",
     "icon": "charm:cake_regeneration",
-    "category": "food",
+    "category": "brewing",
     "pages": [
       {
        "type": "spotlight",

@@ -1,0 +1,17 @@
+{
+    "name": "Item Frames",
+    "icon": "quark:green_item_frame",
+    "category": "building",
+    "pages": [
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/frames/green_frame",
+        "text": "You can now dye item frames to a specific color."
+      },
+      {
+        "type": "crafting",
+        "recipe": "quark:building/crafting/frames/glass_frame",
+        "text": "You can also make a glass frame."
+      }      
+    ]
+}

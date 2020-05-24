@@ -1,0 +1,14 @@
+{
+    "name": "Biome maps",
+    "icon": "minecraft:map",
+    "category": "biomes",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "Biome maps",
+        "text" : "Catographers in villages can sell maps that can take you to biomes. Use these maps to find rare biomes that might be too difficult to locate"
+      }
+  
+
+    ]
+}

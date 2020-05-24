@@ -9,6 +9,14 @@
         "item" : "charm:bat_bucket",
         "link_recipe": false,
         "text": "You can now capture bats in a bucket. When releasing the bat you will see a glow around all near by enities for 10 seconds."
+      },
+
+      {
+        "type": "spotlight",
+        "title": "Slime In a Bucket",
+        "item" : "quark:slime_in_a_bucket",
+        "link_recipe": false,
+        "text": "You can now capture slime in a bucket. The slime will jump around in a bucket when you are in a slime chunk."        
       }
     ]
 }

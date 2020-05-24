@@ -1,6 +1,6 @@
 {
 	"name": "TG Book",
-	"landing_text" : "Welcome to the TG pack! You don't need this book to use this pack, however if you want to get acquainted with some of the features provided by this modpack, please view this book to help you out.",
+	"landing_text" : "Welcome to the TG pack! You don't need this book to use this pack, however if you want to get acquainted with some of the features provided by this modpack, please view this book to help you out. $(br) Please note this book doesn't include everything as some features are intended to be discoved during gameplay. You can use JEI to check for additonal crafting recipes.",
 	"version" : 1,
 	"show_progress": false 
 }

@@ -1,0 +1,5 @@
+{
+	"name": "Brewing",
+	"description": "New potions and brewing techniques",
+	"icon": "minecraft:potion{Potion: \"quark:danger_sight\"}"
+}

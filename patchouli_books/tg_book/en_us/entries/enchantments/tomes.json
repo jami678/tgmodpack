@@ -1,0 +1,13 @@
+{
+    "name": "Tomes",
+    "icon": "quark:ancient_tome",
+    "category": "enchantments",
+    "pages": [
+      {
+       "type": "spotlight",
+       "title": "Hoe upgrades",
+       "item": "quark:ancient_tome",
+       "text": "Tomes can be found in dungeons and strongholds. They are used to upgrade your enchantments one level higher than vanilla minecraft. Tomes can't be applied to an item and must be applied by using another book of the same level in the anvil. E.g. looting 3 book + looting 3 tome = looting 4 book"
+      }
+    ]
+}

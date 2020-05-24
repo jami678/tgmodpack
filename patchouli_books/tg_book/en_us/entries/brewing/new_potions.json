@@ -1,0 +1,21 @@
+{
+    "name": "New Potions",
+    "icon": "minecraft:potion{Potion: \"quark:danger_sight\"}",
+    "category": "brewing",
+    "pages": [
+      {
+       "type": "spotlight",
+       "title": "Potion of Danger Sight",
+       "item": "minecraft:potion{Potion: \"quark:danger_sight\"}",
+       "text": "A potion of danger sight reveals where mobs can spawn in the world. To brew one use awkard potions and a glowshroom. Glowshrooms can be found in rare cave biomes."
+      },
+
+      {
+       "type": "spotlight",
+       "title": "Potion of Stability",
+       "item": "minecraft:potion{Potion: \"quark:resilience\"}",
+       "text": "A potion that provides the player with reduced knockback from attacks. To brew one you can use awkard potions and crab shells."
+      }
+
+    ]
+}

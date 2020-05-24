@@ -1,0 +1,13 @@
+{
+    "name": "Hoe enchantments",
+    "icon": "minecraft:diamond_hoe",
+    "category": "enchantments",
+    "pages": [
+      {
+       "type": "spotlight",
+       "title": "Hoe upgrades",
+       "item": "minecraft:wooden_hoe",
+       "text": "You can upgrade your hoe with the fortune enchantment which will give you more food. You can also right click with a hoe to harvest a 3x3 area. Diamond hoes are better and harvest 5x5 areas."
+      }
+    ]
+}

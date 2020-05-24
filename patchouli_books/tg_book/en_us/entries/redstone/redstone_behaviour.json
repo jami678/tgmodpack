@@ -1,0 +1,14 @@
+  {
+    "name": "Redstone Behaviour",
+    "icon": "minecraft:redstone",
+    "category": "redstone",
+    "pages": [
+ 	  {
+        "type" : "text",
+        "title" : "Redstone Behaviour",
+        "text" : "$(li) Dispensers can now place blocks $(li) Pistons can now move tile entities, examples of tile entities include chests, dispensers and furnaces."
+      }
+    ]
+}
+
+

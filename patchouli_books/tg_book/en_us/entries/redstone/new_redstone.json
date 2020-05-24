@@ -1,0 +1,44 @@
+{
+    "name": "New redstone",
+    "icon": "quark:redstone_randomizer",
+    "category": "redstone",
+    "pages": [
+      {
+        "type" : "text",
+        "title": "New redstone",
+        "text" : "New redstone items that you can add to your contraptions."
+      },
+      {
+        "type": "crafting",
+        "recipe": "quark:automation/crafting/gravisand",
+        "text" : "Gravisand falls like regular sand unless powered by redstone. Additonally, gravisand will propagate the signal to any adjacent gravisand block, causing them to float or fall also."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:automation/crafting/redstone_randomizer_ender",
+        "text" : "When powered the randomizer will have a random chance of disrupting a redstone signal either to the left or right."
+      },      
+
+      {
+        "type": "crafting",
+        "recipe": "quark:automation/crafting/redstone_inductor",
+        "text" : "The inductors output value is the analog sum of all 3 input sides. It can also be locked by having a repeater or comparator pointing to it. While locked, it'll maintain the output value regardless of any changes."
+      },
+
+
+      {
+        "type": "crafting",
+        "recipe": "quark:automation/crafting/weather_sensor_obsidian",
+        "text" : "The weather sensor outpus a redstone signal if it is raining or snowing."
+      },
+
+      {
+        "type": "crafting",
+        "recipe": "quark:automation/crafting/ender_watcher_obsidian",
+        "text" : "The ender watcher outputs a redstone signal if the player is looking at it."
+      }
+
+
+    ]
+}

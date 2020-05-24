@@ -1,0 +1,14 @@
+{
+    "name": "Small Changes",
+    "icon": "minecraft:dirt",
+    "category": "misc",
+    "pages": [
+      {
+       "type": "text",
+       "text": "$(li) You can now pet dogs by sneak clicking them with an empty hand :) $(li) You can edit signs by right clicking $(li) You can right click to harvest crops $(li)Villagers will follow you if you have an emerald block in your hand.$(li) Campfires make the eltra go higher"
+      }
+
+    
+
+    ]
+}

@@ -107,7 +107,7 @@
 	"More Stone Variants" = true
 	"Framed Glass" = false
 	"Fairy Rings" = true
-	"Tallow And Candles" = true
+	"Tallow And Candles" = false
 	Turf = false
 	"Paper Decor" = false
 	Rope = false

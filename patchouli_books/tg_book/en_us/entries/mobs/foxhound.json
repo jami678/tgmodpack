@@ -1,0 +1,36 @@
+{
+    "name": "Foxhounds",
+    "icon": "quark:foxhound_spawn_egg",
+    "category": "mobs",
+    "pages": [
+      {
+       "type": "entity",
+       "entity": "quark:foxhound",
+       "text": "Hostile mobs that are found in the nether."
+      },
+
+      {
+        "type": "text",
+        "text": "If you're brave enough, drink a fire resistance potion and feed them some Coal to tame them. Tamed Foxhounds work just like regular wolves, but with a few extra tidbits:$(br) $(li)They'll sleep on hot blocks like magma. $(li)If put on top of a furnace, they'll make the furnace faster. You can't put multiple doggos on a furnace to speed it up more, though."
+      },
+
+
+      {
+       "type": "entity",
+       "entity": "quark:crab",
+       "text": "Crabs can be found on beaches around the world. Watch out their claws are sharp and will damage you if agro them."
+      },
+
+
+      {
+       "type": "relations",
+       "entries": [
+          "food/crab_legs", "brewing/new_potions"
+      ],
+       "text": "Crabs are edible and can be used to make potions. They can also be bred with wheat, chicken and fish."
+      }
+
+
+
+    ]
+}

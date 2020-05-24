@@ -1,0 +1,21 @@
+{
+    "name": "Toretoises",
+    "icon": "quark:toretoise_spawn_egg",
+    "category": "mobs",
+    "pages": [
+  
+      {
+       "type": "entity",
+       "entity": "quark:toretoise",
+       "text": "Toretoises are rare mobs found underground."
+      },
+
+
+      {
+       "type": "text",
+       "text": "Toretoises come in a random ore variant (coal, iron, lapis, redstone). Clicking on them with a pickaxe will drop their ore. These creatures can not be bred and can be feed using cactus. You can move them around using minecarts." 
+      }
+
+
+    ]
+}

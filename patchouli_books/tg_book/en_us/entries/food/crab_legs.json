@@ -1,0 +1,13 @@
+{
+    "name": "Crab legs",
+    "icon": "quark:cooked_crab_leg",
+    "category": "food",
+    "pages": [
+      {
+       "type": "spotlight",
+       "item": "quark:cooked_crab_leg",
+       "text": "Crabs that are found on beaches make for great food when cooked."
+      }
+
+    ]
+}
