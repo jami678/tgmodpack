@@ -7,12 +7,25 @@
        "type": "spotlight",
        "title": "Enchantment Cakes",
        "item": "charm:cake_regeneration",
-       "text": "You can create flavored cakes that give you potion effects when eaten. To do this right click on any cake with a $(l)LINGERING$() potion to create a flavored cake. "
+       "text": "You can create flavored cakes that give you potion effects when eaten. To do this right click on any cake with a potion to create a flavored cake."
       },
       {
         "type" : "text",
         "title": "Vanilla Potion Cakes",
         "text" : "$(li) $(#9194FE) Speed $(li) $(#D430CF) Strength $(li) $(#29FF56) Jump Boost $(li) $(#D430CF) Regeneration $(li) $(#B57D30) Fire Resistance $(li) $(#112B50) Water breathing $(li) $(#4C5257) Invisibility $(li) $(#3D5B91) Night vision"
+      },
+      {
+        "type" : "text",
+        "title": "Modded Potion Cakes",
+        "text" : "$(li) $(#00ffff) Prescience $(li) $(#654321) Stability"
+      },
+      {
+        "type": "crafting",
+        "title": "Crafting Recipe",
+        "recipe": "crafttweaker:cake_fire_resistance",
+        "text": "You can also craft the cakes with a base version of the potion and a cake."
       }
+
+
     ]
 }
