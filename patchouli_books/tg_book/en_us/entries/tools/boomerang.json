@@ -1,0 +1,13 @@
+{
+    "name": "Boomerang",
+    "icon": "hunterillager:boomerang",
+    "category": "new_tools",
+    "pages": [
+        {
+            "type": "crafting",
+            "recipe": "hunterillager:boomerang",
+            "text" : "Craft boomerangs that return to you when thrown. Also make sure to watch out for firebenders."
+        }
+    
+    ]
+}

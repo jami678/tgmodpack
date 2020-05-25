@@ -17,7 +17,7 @@
 
       {
         "type": "crafting",
-        "recipe": "quark:building/crafting/compressed/bamboo_block",
+        "recipe": "quark:building/crafting/compressed/berry_sack",
         "recipe2": "quark:building/crafting/compressed/cactus_block"
       },
 
@@ -54,7 +54,8 @@
 
       {
         "type": "crafting",
-        "recipe": "quark:building/crafting/compressed/berry_sack"
+        "recipe": "bambooeverything:bamboo_bundle",
+	"text": "You can also make multiple things out of bamboo e.g. stairs, fences, slabs and doors."
       },
 
       {
@@ -62,6 +63,7 @@
         "recipe": "charm:crafting/rotten_flesh_block",
         "text": "Placing this under farmland will increase the speed at which planted crops grow.  The block will turn to dirt when next to water."
       }
+
 
 
     ]

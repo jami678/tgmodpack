@@ -10,7 +10,7 @@
 
       {
        "type": "text",
-       "text": "$(li) Beacons will heal tamed and netural mobs $(li) Cauldrons can be used as an infinite water source by sneaking when placing water. $(li) You can color nether portals by placing colored glass underneath"
+       "text": "$(li) Beacons will heal tamed and netural mobs $(li) Cauldrons can be used as an infinite water source by sneaking when placing water. $(li) You can color nether portals by placing colored glass underneath $(li) You can use pig iron to give tools a small boost in durability at an anvil"
       }
 
     ]
