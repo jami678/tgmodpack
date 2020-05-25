@@ -93,7 +93,7 @@
 
 [TravelJournal]
 	#Records interesting places around your world.
-	"TravelJournal enabled" = true
+	"TravelJournal enabled" = false
 
 	[TravelJournal.TravelJournal]
 		#Maximum number of entries a single travel journal can hold.
