@@ -21,7 +21,7 @@
 [coniferous_forest_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 4
+	weight = 0
 
 #plains_plateau biome generation
 [plains_plateau_biome]
@@ -33,7 +33,7 @@
 [snowy_coniferous_forest_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 5
+	weight = 0
 
 #wooded_plateau biome generation
 [wooded_plateau_biome]
@@ -51,7 +51,7 @@
 [snowy_coniferous_wooded_hills_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 2
+	weight = 0
 
 #desert_shrubland biome generation
 [desert_shrubland_biome]
@@ -69,7 +69,7 @@
 [coniferous_woodland_hills_biome_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 1
+	weight = 0
 
 #woodlands biome generation
 [woodlands_biome]
@@ -81,7 +81,7 @@
 [snowy_high_coniferous_forest_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 1
+	weight = 0
 
 #arid_highlands biome generation
 [arid_highlands_biome]
@@ -99,7 +99,7 @@
 [high_coniferous_forest_biome]
 	#weight of the biome (set to 0 to disable generation)
 	#Range: 0 ~ 256
-	weight = 2
+	weight = 0
 
 #mini_jungle biome generation
 [mini_jungle_biome]

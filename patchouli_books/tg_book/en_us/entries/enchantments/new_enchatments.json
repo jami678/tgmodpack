@@ -1,0 +1,13 @@
+{
+    "name": "New enchantments",
+    "icon": "minecraft:enchanted_book{StoredEnchantments: [{lvl: 1, id: \"strange:ice_aspect\"}]}",
+    "category": "enchantments",
+    "pages": [
+      {
+       "type": "spotlight",
+       "title": "Ice Aspect",
+       "item": "minecraft:enchanted_book{StoredEnchantments: [{lvl: 1, id: \"strange:ice_aspect\"}]}",
+       "text": "Ice aspect slows down enemies when hitting them. There is a max of two levels for this enchant."
+      }
+    ]
+}
