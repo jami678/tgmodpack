@@ -1,0 +1,43 @@
+
+[oreGen]
+
+	[oreGen.copper]
+		#Max size of vein
+		#Default: 12
+		#Range: 1 ~ 256
+		maxVein = 12
+		#Veins per chunk
+		#Default: 12
+		#Range: 1 ~ 256
+		perChunk = 12
+		#Start height of veins
+		#Default: 24
+		#Range: 0 ~ 256
+		start = 24
+		#End height of veins
+		#Default: 64
+		#Range: 0 ~ 256
+		end = 64
+		#Is this oregen option enabled
+		enabled = true
+
+	[oreGen.cobalt]
+		#Max size of vein
+		#Default: 5
+		#Range: 1 ~ 256
+		maxVein = 5
+		#Veins per chunk
+		#Default: 4
+		#Range: 1 ~ 256
+		perChunk = 4
+		#Start height of veins
+		#Default: 80
+		#Range: 0 ~ 256
+		start = 80
+		#End height of veins
+		#Default: 127
+		#Range: 0 ~ 256
+		end = 127
+		#Is this oregen option enabled
+		enabled = true
+

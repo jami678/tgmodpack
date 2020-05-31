@@ -1,0 +1,63 @@
+
+[stoneGen]
+
+	[stoneGen.marble]
+		#Max size of vein
+		#Default: 20
+		#Range: 1 ~ 256
+		maxVein = 20
+		#Veins per chunk
+		#Default: 6
+		#Range: 1 ~ 256
+		perChunk = 6
+		#Start height of veins
+		#Default: 20
+		#Range: 0 ~ 256
+		start = 20
+		#End height of veins
+		#Default: 80
+		#Range: 0 ~ 256
+		end = 80
+		#Is this stonegen option enabled
+		enabled = true
+
+	[stoneGen.basalt]
+		#Max size of vein
+		#Default: 20
+		#Range: 1 ~ 256
+		maxVein = 20
+		#Veins per chunk
+		#Default: 6
+		#Range: 1 ~ 256
+		perChunk = 6
+		#Start height of veins
+		#Default: 15
+		#Range: 0 ~ 256
+		start = 15
+		#End height of veins
+		#Default: 50
+		#Range: 0 ~ 256
+		end = 50
+		#Is this stonegen option enabled
+		enabled = true
+
+	[stoneGen.limestone]
+		#Max size of vein
+		#Default: 20
+		#Range: 1 ~ 256
+		maxVein = 20
+		#Veins per chunk
+		#Default: 6
+		#Range: 1 ~ 256
+		perChunk = 6
+		#Start height of veins
+		#Default: 20
+		#Range: 0 ~ 256
+		start = 20
+		#End height of veins
+		#Default: 80
+		#Range: 0 ~ 256
+		end = 80
+		#Is this stonegen option enabled
+		enabled = true
+

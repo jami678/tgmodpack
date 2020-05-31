@@ -54,8 +54,7 @@
 
       {
         "type": "crafting",
-        "recipe": "bambooeverything:bamboo_bundle",
-	"text": "You can also make multiple things out of bamboo e.g. stairs, fences, slabs and doors."
+        "recipe": "quark:building/crafting/compressed/bamboo_block"
       },
 
       {
