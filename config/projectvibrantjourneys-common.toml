@@ -54,13 +54,13 @@
 [biomes]
 	#Baobab Fields Weight
 	#Range: 0 ~ 100
-	baobabFieldsWeight = 3
+	baobabFieldsWeight = 2
 	#Boreal Plateau Weight
 	#Range: 0 ~ 100
-	borealPlateauWeight = 3
+	borealPlateauWeight = 0
 	#Boreal Forest Weight
 	#Range: 0 ~ 100
-	borealForestWeight = 7
+	borealForestWeight = 0
 	#Redwoods Weight
 	#Range: 0 ~ 100
 	redwoodsWeight = 0
@@ -69,22 +69,22 @@
 	crimsonThicketWeight = 0
 	#Overgrown Spires Weight
 	#Range: 0 ~ 100
-	overgrownSpiresWeight = 2
+	overgrownSpiresWeight = 1
 	#Willow Wetlands Weight
 	#Range: 0 ~ 100
-	willowWetlandsWeight = 5
+	willowWetlandsWeight = 0
 	#Prairie Weight
 	#Range: 0 ~ 100
-	prairieWeight = 5
+	prairieWeight = 0
 	#Snowy Boreal Forest Weight
 	#Range: 0 ~ 100
-	snowyBorealForestWeight = 6
+	snowyBorealForestWeight = 0
 	#Aspen Grove Weight
 	#Range: 0 ~ 100
-	aspenGroveWeight = 5
+	aspenGroveWeight = 0
 	#Verdant Sands Weight
 	#Range: 0 ~ 100
-	verdantSandsWeight = 4
+	verdantSandsWeight = 5
 	#Redwood Peaks Weight
 	#Range: 0 ~ 100
 	redwoodPeaksWeight = 0
@@ -92,7 +92,7 @@
 #World Gen Settings
 [worldgen]
 	#Normal frequency
-	oakTreesBiomes = ["minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest", "minecraft:swamp", "minecraft:swamp_hills", "minecraft:wooded_badlands_plateau", "minecraft:modified_wooded_badlands_plateau", "projectvibrantjourneys:aspen_grove"]
+	oakTreesBiomes = []
 	#Sparse frequency
 	darkOakTreesSparseBiomes = []
 	#Sandstone Rocks Biomes
@@ -110,45 +110,45 @@
 	#Gold Nugget Biomes (Common)
 	goldNuggetCommonBiomes = []
 	#Sparse frequency
-	jungleTreesSparseBiomes = ["minecraft:jungle_edge", "minecraft:modified_jungle_edge", "projectvibrantjourneys:verdant_sands"]
+	jungleTreesSparseBiomes = []
 	#Sparse frequency
-	baobabTreesSparseBiomes = ["minecraft:savanna", "minecraft:savanna_plateau", "minecraft:shattered_savanna", "minecraft:shattered_savanna_plateau"]
+	baobabTreesSparseBiomes = []
 	#Normal frequency
-	purpleMapleTreesBiomes = ["projectvibrantjourneys:aspen_grove", "projectvibrantjourneys:crimson_thicket"]
+	purpleMapleTreesBiomes = []
 	#Normal frequency
-	acaciaTreesBiomes = ["minecraft:savanna", "minecraft:savanna_plateau", "minecraft:shattered_savanna", "minecraft:shattered_savanna_plateau", "projectvibrantjourneys:baobab_fields"]
+	acaciaTreesBiomes = []
 	#Netherrack Rocks Biomes
 	netherrackRocksBiomes = []
 	#Normal frequency
 	juniperTreesBiomes = []
 	#Sparse frequency
-	mangroveTreesSparseBiomes = ["minecraft:swamp", "minecraft:jungle", "minecraft:modified_jungle", "minecraft:bamboo_jungle"]
+	mangroveTreesSparseBiomes = []
 	#Lily Pad Biomes
 	lilypadBiomes = ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:birch_forest_hills", "minecraft:tall_birch_forest", "minecraft:tall_birch_hills", "minecraft:dark_forest", "minecraft:dark_forest_hills", "minecraft:taiga", "minecraft:taiga_hills", "minecraft:giant_tree_taiga", "minecraft:giant_tree_taiga_hills", "minecraft:taiga_mountains", "minecraft:giant_spruce_taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:mountains", "minecraft:mountain_edge", "minecraft:wooded_mountains", "minecraft:gravelly_mountains", "minecraft:modified_gravelly_mountains", "minecraft:jungle", "minecraft:jungle_hills", "minecraft:jungle_edge", "minecraft:modified_jungle", "minecraft:modified_jungle_edge", "minecraft:bamboo_jungle", "minecraft:bamboo_jungle_hills", "minecraft:river", "projectvibrantjourneys:overgrown_spires", "projectvibrantjourneys:verdant_sands", "projectvibrantjourneys:boreal_forest", "projectvibrantjourneys:snowy_boreal_forest", "projectvibrantjourneys:boreal_plateau", "projectvibrantjourneys:redwood_peaks", "projectvibrantjourneys:aspen_grove", "projectvibrantjourneys:crimson_thicket", "projectvibrantjourneys:prairie"]
 	#Frogbit Biomes
 	frogbitBiomes = []
 	#Normal frequency
-	aspenTreesBiomes = ["projectvibrantjourneys:aspen_grove"]
+	aspenTreesBiomes = []
 	#Sparse frequency
 	aspenTreesSparseBiomes = []
 	#Sparse frequency
-	birchTreesSparseBiomes = ["minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest"]
+	birchTreesSparseBiomes = []
 	#Normal frequency
-	redMapleTreesBiomes = ["projectvibrantjourneys:aspen_grove", "projectvibrantjourneys:crimson_thicket"]
+	redMapleTreesBiomes = []
 	#Sparse frequency
-	acaciaTreesSparseBiomes = ["projectvibrantjourneys:verdant_sands"]
+	acaciaTreesSparseBiomes = []
 	#Sparse frequency
-	oakTreesSparseBiomes = ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:dark_forest", "minecraft:dark_forest_hills", "minecraft:wooded_mountains", "projectvibrantjourneys:overgrown_spires", "projectvibrantjourneys:verdant_sands"]
+	oakTreesSparseBiomes = []
 	#Iron Nugget Biomes
 	ironNuggetBiomes = []
 	#Normal frequency
-	jungleTreesBiomes = ["minecraft:jungle", "minecraft:jungle_hills", "minecraft:modified_jungle", "minecraft:bamboo_jungle", "minecraft:bamboo_jungle_hills", "projectvibrantjourneys:overgrown_spires"]
+	jungleTreesBiomes = []
 	#Normal frequency
-	spruceTreesBiomes = ["minecraft:taiga", "minecraft:taiga_hills", "minecraft:snowy_taiga", "minecraft:snowy_taiga_hills", "minecraft:giant_tree_taiga", "minecraft:giant_tree_taiga_hills", "minecraft:taiga_mountains", "minecraft:snowy_taiga_mountains", "minecraft:giant_spruce_taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:wooded_mountains", "projectvibrantjourneys:crimson_thicket"]
+	spruceTreesBiomes = []
 	#Normal frequency
-	palmTreesBiomes = ["minecraft:jungle", "minecraft:jungle_edge", "minecraft:modified_jungle", "minecraft:modified_jungle_edge", "minecraft:bamboo_jungle", "projectvibrantjourneys:overgrown_spires"]
+	palmTreesBiomes = []
 	#Normal frequency
-	darkOakTreesBiomes = ["minecraft:dark_forest", "minecraft:dark_forest_hills", "projectvibrantjourneys:overgrown_spires"]
+	darkOakTreesBiomes = []
 	#Ice Chunks Biomes
 	iceChunksBiomes = []
 	#Sparse frequency
@@ -160,11 +160,11 @@
 	#Normal frequency
 	cottonwoodTreesBiomes = []
 	#Sparse frequency
-	cottonwoodTreesSparseBiomes = ["projectvibrantjourneys:prairie"]
+	cottonwoodTreesSparseBiomes = []
 	#Beach Grass Biomes
 	beachGrassBiomes = []
 	#Normal frequency
-	willowTreesBiomes = ["projectvibrantjourneys:willow_wetlands"]
+	willowTreesBiomes = []
 	#Bones Nether Biomes
 	bonesNetherBiomes = []
 	#Bones Biomes
@@ -176,25 +176,25 @@
 	#Glowcap Biomes
 	glowcapBiomes = ["minecraft:nether"]
 	#Normal frequency
-	pineTreesBiomes = ["projectvibrantjourneys:boreal_forest", "projectvibrantjourneys:snowy_boreal_forest", "projectvibrantjourneys:boreal_plateau"]
+	pineTreesBiomes = []
 	#Normal frequency
-	baobabTreesBiomes = ["projectvibrantjourneys:baobab_fields"]
+	baobabTreesBiomes = []
 	#Cobweb Biomes
-	cobwebBiomes = ["minecraft:plains", "minecraft:sunflower_plains", "minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:birch_forest_hills", "minecraft:tall_birch_forest", "minecraft:tall_birch_hills", "minecraft:dark_forest", "minecraft:dark_forest_hills", "minecraft:swamp", "minecraft:swamp_hills", "minecraft:taiga", "minecraft:taiga_hills", "minecraft:snowy_taiga", "minecraft:snowy_taiga_hills", "minecraft:giant_tree_taiga", "minecraft:giant_tree_taiga_hills", "minecraft:taiga_mountains", "minecraft:snowy_taiga_mountains", "minecraft:giant_spruce_taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:mountains", "minecraft:snowy_mountains", "minecraft:mountain_edge", "minecraft:wooded_mountains", "minecraft:gravelly_mountains", "minecraft:modified_gravelly_mountains", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:shattered_savanna", "minecraft:shattered_savanna_plateau", "minecraft:snowy_tundra", "minecraft:jungle", "minecraft:jungle_hills", "minecraft:jungle_edge", "minecraft:modified_jungle", "minecraft:modified_jungle_edge", "minecraft:bamboo_jungle", "minecraft:bamboo_jungle_hills", "minecraft:river", "projectvibrantjourneys:overgrown_spires", "projectvibrantjourneys:verdant_sands", "projectvibrantjourneys:boreal_forest", "projectvibrantjourneys:snowy_boreal_forest", "projectvibrantjourneys:boreal_plateau", "projectvibrantjourneys:willow_wetlands", "projectvibrantjourneys:redwoods", "projectvibrantjourneys:redwood_peaks", "projectvibrantjourneys:baobab_fields", "projectvibrantjourneys:aspen_grove", "projectvibrantjourneys:crimson_thicket", "projectvibrantjourneys:prairie"]
+	cobwebBiomes = []
 	#Sparse frequency
-	palmTreesSparseBiomes = ["minecraft:beach"]
+	palmTreesSparseBiomes = []
 	#Red Sandstone Rocks Biomes
 	redSandstoneRocksBiomes = []
 	#Normal frequency
-	redwoodTreesBiomes = ["projectvibrantjourneys:redwoods", "projectvibrantjourneys:redwood_peaks"]
+	redwoodTreesBiomes = []
 	#Sparse frequency
-	juniperTreesSparseBiomes = ["minecraft:badlands", "minecraft:badlands_plateau", "minecraft:eroded_badlands", "minecraft:modified_badlands_plateau"]
+	juniperTreesSparseBiomes = []
 	#Pinecones Biomes
 	pineconesBiomes = []
 	#Gold Nugget Biomes
 	goldNuggetBiomes = []
 	#Normal frequency
-	orangeMapleTreesBiomes = ["projectvibrantjourneys:aspen_grove"]
+	orangeMapleTreesBiomes = []
 	#Sparse frequency
 	orangeMapleTreesSparseBiomes = []
 	#Sparse frequency
@@ -206,7 +206,7 @@
 	#Short Grass Biomes
 	shortGrassBiomes = ["minecraft:ocean", "minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_ocean", "minecraft:deep_warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:plains", "minecraft:sunflower_plains", "minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:birch_forest_hills", "minecraft:tall_birch_forest", "minecraft:tall_birch_hills", "minecraft:dark_forest", "minecraft:dark_forest_hills", "minecraft:swamp", "minecraft:swamp_hills", "minecraft:mountains", "minecraft:wooded_mountains", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:shattered_savanna", "minecraft:shattered_savanna_plateau", "minecraft:jungle", "minecraft:jungle_hills", "minecraft:jungle_edge", "minecraft:modified_jungle", "minecraft:modified_jungle_edge", "minecraft:bamboo_jungle", "minecraft:bamboo_jungle_hills", "minecraft:river", "projectvibrantjourneys:overgrown_spires", "projectvibrantjourneys:verdant_sands", "projectvibrantjourneys:boreal_forest", "projectvibrantjourneys:snowy_boreal_forest", "projectvibrantjourneys:boreal_plateau", "projectvibrantjourneys:willow_wetlands", "projectvibrantjourneys:redwoods", "projectvibrantjourneys:redwood_peaks", "projectvibrantjourneys:baobab_fields", "projectvibrantjourneys:aspen_grove", "projectvibrantjourneys:crimson_thicket", "projectvibrantjourneys:prairie"]
 	#Normal frequency
-	firTreesBiomes = ["projectvibrantjourneys:boreal_forest", "projectvibrantjourneys:snowy_boreal_forest", "projectvibrantjourneys:boreal_plateau", "projectvibrantjourneys:crimson_thicket"]
+	firTreesBiomes = []
 	#Rocks Biomes (Stone, Cobblestone, Andesite, Diorite, Granite)
 	rocksBiomes = []
 	#Cattail Biomes
@@ -218,11 +218,11 @@
 	#Sparse frequency
 	redMapleTreesSparseBiomes = []
 	#Normal frequency
-	birchTreesBiomes = ["minecraft:birch_forest", "minecraft:birch_forest_hills", "minecraft:tall_birch_forest", "minecraft:tall_birch_hills"]
+	birchTreesBiomes = []
 	#Bush Biomes
 	bushBiomes = ["minecraft:plains", "minecraft:sunflower_plains", "projectvibrantjourneys:overgrown_spires", "projectvibrantjourneys:verdant_sands", "projectvibrantjourneys:redwoods", "projectvibrantjourneys:redwood_peaks"]
 	#Normal frequency
-	mangroveTreesBiomes = ["projectvibrantjourneys:willow_wetlands"]
+	mangroveTreesBiomes = []
 	#Sparse frequency
 	purpleMapleTreesSparseBiomes = []
 
