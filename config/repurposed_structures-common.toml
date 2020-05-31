@@ -3,77 +3,124 @@
 
 	["Feature Options".Dungeons]
 		#
-		# Add Nether themed dungeon to Nether biomes.
-		netherDungeons = true
+		# Add End themed dungeon to End biomes outside the Enderdragon island.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		#Range: 0 ~ 1000
+		endDungeonSpawnrate = 8
 		#
-		# Replace vanilla dungeon in Badlands biomes with Badlands themed dungeon.
-		badlandsDungeons = true
+		# Replace vanilla dungeon in Swamp biomes with Swamp themed dungeon.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		swampDungeonSpawnrate = 8
 		#
 		# Replace vanilla dungeon in Jungle biomes with Jungle themed dungeon.
-		jungleDungeons = true
-		#
-		# Replace vanilla dungeon in Dark Forest biomes with Dark Forest themed dungeon.
-		darkForestDungeons = true
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		jungleDungeonSpawnrate = 8
 		#
 		# Add the custom dungeons to modded biomes of the same categories/type.
 		addDungeonsToModdedBiomes = true
 		#
+		# Add Nether themed dungeon to Nether biomes.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		#Range: 0 ~ 1000
+		netherDungeonSpawnrate = 8
+		#
+		# Replace vanilla dungeon in Mushroom biomes with Mushroom themed dungeon.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		mushroomDungeonSpawnrate = 8
+		#
 		# Replace vanilla dungeon in Desert biomes with Desert themed dungeon.
-		desertDungeons = true
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		desertDungeonSpawnrate = 8
+		#
+		# Replace vanilla dungeon in icy/snow biomes with icy/snow themed dungeon.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		snowDungeonSpawnrate = 8
+		#
+		# Replace vanilla dungeon in Badlands biomes with Badlands themed dungeon.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		badlandsDungeonSpawnrate = 8
 		#
 		# Add ocean themed dungeon to ocean biomes. These will spawn on
 		# the ocean's floor and inside water filled caves and ravines.
 		#
-		# Note: Vanilla Dungeons will still generate if biome has them
-		# which is unlike the other modded dungeons from this mod which
-		# replace the Vanilla Dungeons.
-		oceanDungeons = true
-		#
 		# How often dungeons will attempt to spawn per chunk.
-		# 1 for extremely rare Dungeons and 1000 for max Dungeon spawnrate.
-		#Range: 1 ~ 1000
-		dungeonSpawnrate = 6
+		#  0 for no dungeons at all and 1000 for max dungeon spawnrate.
 		#
-		# Replace vanilla dungeon in Mushroom biomes with Mushroom themed dungeon.
-		mushroomDungeons = true
+		# Note: Vanilla Dungeons will still generate if the biome has 
+		# them which is unlike the other modded dungeons from this mod
+		# as those would normally replace the Vanilla Dungeons.
+		#Range: 0 ~ 1000
+		oceanDungeonSpawnrate = 8
 		#
-		# Add End themed dungeon to End biomes outside the Enderdragon island.
-		endDungeons = true
-		#
-		# Replace vanilla dungeon in icy/snow biomes with icy/snow themed dungeon.
-		snowDungeons = true
-		#
-		# Replace vanilla dungeon in Swamp biomes with Swamp themed dungeon.
-		swampDungeons = true
+		# Replace vanilla dungeon in Dark Forest biomes with Dark Forest themed dungeon.
+		# How often dungeons will attempt to spawn per chunk.
+		#  0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+		# Note: Vanilla Dungeons will spawn again when this is set to 0.
+		#Range: 0 ~ 1000
+		darkForestDungeonSpawnrate = 8
 
 	["Feature Options"."Small Wells"]
 		#
 		# Add the custom wells to modded biomes of the same categories/type.
 		addWellsToModdedBiomes = true
 		#
-		# How often wells will attempt to spawn per chunk.
+		# Adds mossy stone themed wells to Jungles, Dark Oak, and Swamp biomes.
+		# This effects how often wells will attempt to spawn per chunk.
 		# The chance of a well generating at a chunk is 1/spawnrate.
-		# 1 for wells spawning in every chunk and 10000 for extremely rare wells.
+		# 1 for wells spawning in every chunk and 10000 for no wells.
 		#Range: 1 ~ 10000
-		wellSpawnrate = 700
+		mossyStoneWellSpawnrate = 350
 		#
-		# Add a wood themed wells to Forest and Birch Forest biomes.
-		forestWells = true
+		# Adds a wood themed wells to Forest and Birch Forest biomes.
+		# This effects how often wells will attempt to spawn per chunk.
+		# The chance of a well generating at a chunk is 1/spawnrate.
+		# 1 for wells spawning in every chunk and 10000 for no wells.
+		#Range: 1 ~ 10000
+		forestWellSpawnrate = 350
 		#
-		# Add mossy stone themed wells to Jungles, Dark Oak, and Swamp biomes.
-		mossyStoneWells = true
+		# Adds Nether themed wells to Nether biomes.
+		# This effects how often wells will attempt to spawn per chunk.
+		# The chance of a well generating at a chunk is 1/spawnrate.
+		# 1 for wells spawning in every chunk and 10000 for no wells.
+		#Range: 1 ~ 10000
+		netherWellSpawnrate = 350
+		#
+		# Adds Snow themed wells to snowy and icy biomes.
+		# This effects how often wells will attempt to spawn per chunk.
+		# The chance of a well generating at a chunk is 1/spawnrate.
+		# 1 for wells spawning in every chunk and 10000 for no wells.
+		#Range: 1 ~ 10000
+		snowWellSpawnrate = 350
 		#
 		# Determines if Wells can have a chance of spawning a Bell.
 		canHaveBells = true
 		#
-		# Add Badlands themed wells to Badlands biomes.
-		badlandsWells = true
-		#
-		# Add Nether themed wells to Nether biomes.
-		netherWells = true
-		#
-		# Add Snow themed wells to snowy and icy biomes.
-		snowWells = true
+		# Adds Badlands themed wells to Badlands biomes.
+		# This effects how often wells will attempt to spawn per chunk.
+		# The chance of a well generating at a chunk is 1/spawnrate.
+		# 1 for wells spawning in every chunk and 10000 for no wells.
+		#Range: 1 ~ 10000
+		badlandsWellSpawnrate = 350
 
 	["Feature Options".Misc]
 		#
@@ -140,51 +187,85 @@
 
 	["Structure Options".Mineshaft]
 		#
-		# Add the custom Mineshafts to modded biomes of the same categories/type.
-		addMineshaftsToModdedBiomes = true
-		#
-		# Replace Mineshafts in Mountain (Extreme Hills) biomes with a Stone themed Mineshaft.
-		stoneMineshafts = true
-		#
-		# Replace Mineshafts in Snowy/Icy biomes with an Ice themed Mineshaft.
-		# Note: Snowy Taiga Biomes will get Ice Mineshaft instead of Taiga theme.
-		icyMineshafts = true
-		#
-		# Add End themed Mineshafts to End biomes outside the Enderdragon island.
-		endMineshafts = true
-		#
 		# Replace Mineshafts in Jungle biomes with a Jungle themed Mineshaft.
-		jungleMineshafts = true
-		#
 		# How often Mineshafts will spawn.
 		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
 		#Range: 0 ~ 1000
-		mineshaftSpawnrate = 30
+		jungleMineshaftSpawnrate = 40
 		#
-		# Add Nether themed Mineshafts to Nether biomes.
-		netherMineshafts = true
+		# Replace Mineshafts in Taiga biomes with a Taiga themed Mineshaft.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate. Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		taigaMineshaftSpawnrate = 40
+		#
+		# Replace Mineshafts in Birch biomes with a Birch themed Mineshaft.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		birchMineshaftSpawnrate = 40
+		#
+		# Replace Mineshafts in Desert biomes with a Desert themed Mineshaft.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		desertMineshaftSpawnrate = 40
+		#
+		# Replace Mineshafts in Ocean biomes with an Ocean themed Mineshaft.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		oceanMineshaftSpawnrate = 40
+		#
+		# Replace Mineshafts in Mountain (Extreme Hills) biomes with a Stone themed Mineshaft.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		stoneMineshaftSpawnrate = 40
 		#
 		# Controls whether loot chests spawn or not in modded Mineshafts.
 		lootChestsMS = true
 		#
-		# Replace Mineshafts in Birch biomes with a Birch themed Mineshaft.
-		birchMineshafts = true
+		# Add Nether themed Mineshafts to Nether biomes.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		#Range: 0 ~ 1000
+		netherMineshaftSpawnrate = 40
 		#
-		# Replace Mineshafts in Savanna biomes with a Savanna themed Mineshaft.
-		savannaMineshafts = true
+		# Add End themed Mineshafts to End biomes outside the Enderdragon island.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		#Range: 0 ~ 1000
+		endMineshaftSpawnrate = 40
 		#
-		# Replace Mineshafts in Taiga biomes with a Taiga themed Mineshaft.
-		taigaMineshafts = true
-		#
-		# Replace Mineshafts in Ocean biomes with an Ocean themed Mineshaft.
-		oceanMineshafts = true
+		# Add the custom Mineshafts to modded biomes of the same categories/type.
+		addMineshaftsToModdedBiomes = true
 		#
 		# Replace Mineshafts in Swamps and Dark Forests with a
 		# swampy/dark oak themed Mineshaft.
-		swampAndDarkForestMineshafts = true
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		swampAndDarkForestMineshaftSpawnrate = 40
 		#
-		# Replace Mineshafts in Desert biomes with a Desert themed Mineshaft.
-		desertMineshafts = true
+		# Replace Mineshafts in Snowy/Icy biomes with an Ice themed Mineshaft.
+		# Note: Snowy Taiga Biomes will get Ice Mineshaft instead of Taiga theme.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		icyMineshaftSpawnrate = 40
+		#
+		# Replace Mineshafts in Savanna biomes with a Savanna themed Mineshaft.
+		# How often Mineshafts will spawn.
+		# 0 for no Mineshafts and 1000 for max spawnrate.
+		# Note: Vanilla Mineshafts will spawn again when this is set to 0 and game is restarted.
+		#Range: 0 ~ 1000
+		savannaMineshaftSpawnrate = 40
 
 	["Structure Options"."Nether Temple"]
 		#
